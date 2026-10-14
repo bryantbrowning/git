@@ -1,9 +1,11 @@
-# Expanded edition · revision notes
+# Edition 3 · integrated canvas revision
 
-- All12 presentations now have32 timed core slides each:384 core slides, compared with210 previously. Their schedules run continuously from0 to90 minutes. There are64 optional extensions, making448 slides in total.
-- Every lesson has a concrete written product, selected source tasks, two-part worked-model study, planning, protected independent writing, peer review, two revision blocks, visual/source work and an exit ticket. The independent studio runs14 minutes in odd lessons and12 in even lessons, with directed writing before and after.
-- Every odd lesson includes a five-screen Teach the Document workshop at25–35 minutes. It contains the task, a visible document, annotations, an in-class written start and requirements. Cover and toolbar links jump directly to it.
-- Every even lesson has a full paired teaching block at74–84 minutes:4 minutes to teach and1 minute feedback per student. The final3–5-minute requirement remains.
-- Twelve separate visual treatments change typography, composition, card shapes, rules, backgrounds, illustrations and interaction styling. Shared controls keep navigation predictable.
-- Added12 printable lesson worksheets,6 printable TTD workshop sheets, a saved lesson response pad, interactive classification/choice tasks, and a redesigned course library with actual cover previews.
-- Preserved all embedded source pages, complete assignment models/rubrics, paired Writing Desk JSON compatibility and the original Unit2 Lesson1 information.
+- Rebuilt all twelve HTML presentations around an activity and companion material on the same slide. Book, writing, project, model and teacher resources stay within that canvas. The companion can expand while retaining the activity; Focus simplifies projection controls.
+- Preserved all 384 timed activities and every continuous 90-minute schedule. Related activities now share 318 core canvases (26 odd / 27 even), plus 64 optional extensions. This is a consolidation of related steps; the planned class time and products remain complete.
+- Consolidated each five-step, ten-minute odd-lesson TTD launch into one mission canvas. Consolidated the even-lesson four-minute teaching / one-minute feedback turns into one ten-minute teaching canvas. All six assignments remain explicit, with sources, writing, rubrics, checklists and teaching support.
+- Added document zoom/focus/pins and labeled annotations that carry into the plan; credited evidence selection; source-to-paragraph demonstrations; model sentence-role windows; a revision comparison with highlighted changes and saved receipts; and a source/plan companion beside the independent paragraph editor.
+- Added unit-specific interactions: festival photo observation, sentence ordering and frequency scope, fictional privacy advertising and internet-time illustrations, connector choices, three-reason planning and source-backed graph comparisons with labeled calculations.
+- Refined all twelve visual worlds with embedded typography, authentic source photography, varied layouts, meaningful motion, reduced-motion support, mobile layouts, keyboard alternatives and projector sizing.
+- Added an optional local video player inside the Teacher pane. Publisher videos are not bundled; offline reading alternatives remain complete.
+- Preserved paired Writing Studio v2 JSON compatibility, lesson response keys, all embedded source pages, full assignment models and the 70-section original Unit 2 Lesson 1 reference. Export/import carries work across devices or local-file browser restrictions.
+- Updated the library, actual design previews, all 18 optional paper worksheets, teacher guide, course map and instructions to match the integrated interface. Printing uses flowing text so long writing is preserved.

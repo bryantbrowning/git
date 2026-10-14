@@ -1,16 +1,19 @@
-# Unlock Units 2–4 · Expanded edition
+# Unlock Units 2–4 · Integrated Writing Studio
 
-[**Download all 12 presentations and teaching materials**](./Unlock_Units_2-4_12_Lessons.zip?raw=true) · [Preview all twelve designs](./Design_Preview.jpg)
+[**Download the updated twelve-lesson course**](./Unlock_Units_2-4_12_Lessons.zip?raw=true) · [Twelve designs](./Design_Preview.jpg) · [Inside the interactive slides](./Interaction_Preview.jpg)
 
-Extract the ZIP on your computer, then open **index.html** in the extracted **Unlock_Units_2-4** folder. Choose a lesson from the library. Each presentation works offline in a browser.
+Download and extract the ZIP on your computer. Open **index.html** inside the extracted **Unlock_Units_2-4** folder, then choose a lesson. These are standalone HTML presentations for a modern browser, with JavaScript built in. Present them in the browser; native PowerPoint does not execute their JavaScript.
 
-The expanded course includes:
+Every activity now shares its canvas with **Task, Book, Write, Project, Model and Teacher** material. Textbook pages, writing fields, full worked examples, rubrics, teacher support and the optional local video player stay inside the current slide. Widen the material area or use Focus for projection.
 
-- **12 individual 90-minute presentations**, with 32 timed core slides each: 384 core slides, plus 64 optional extensions.
-- **12 different visual designs**, with distinct typography, illustrations, page compositions and activity styling.
-- **Six Teach the Document assignments.** Lessons 1 and 3 of each unit include a five-screen, ten-minute launch with a document, annotation, written start and requirements. Lessons 2 and 4 include ten minutes for paired teaching and feedback.
-- **12 printable lesson worksheets and six TTD workshop sheets**, plus the teacher guide, models, rubrics and course map.
-- A saved lesson response pad, the paired Writing Desk, interactive reasoning tasks, sentence-role reveals and printable writing. Earlier Writing Desk JSON files remain compatible.
+The updated course includes:
+
+- **12 individual 90-minute lessons**, preserving all **384 timed activities**. Related steps share 318 core canvases; 64 optional extensions sit outside the schedules.
+- **12 different visual designs**, with embedded typography, authentic source photographs, varied activity layouts and motion with reduced-motion support.
+- **Six Teach the Document assignments.** Lessons 1 and 3 of each unit have a ten-minute mission canvas with five stages: task, document, annotation, written start and checklist. Lessons 2 and 4 have a ten-minute teaching canvas with speaker/listener prompts and phase timers.
+- **More writing interactions:** document annotations saved to the plan, credited evidence selection, source-to-paragraph demonstrations, sentence-role inspection, before/after revision differences and receipts, sentence ordering, connector choices, fictional privacy/time simulations and source-backed graph comparisons.
+- **12 lesson worksheets and six TTD workshop sheets**, complete models and rubrics, the teacher guide and course map. These are optional paper resources; the presentation contains its classroom material.
+- **Compatible saved writing.** Earlier paired Writing Studio v2 JSON files still import. Export editable work before moving to the next lesson or another device.
 
 | Lesson | Design | Teach the Document |
 |---|---|---|
@@ -27,12 +30,16 @@ The expanded course includes:
 | 4.3 | Polar Observatory | #6 launch |
 | 4.4 | The Weather Exhibition | #6 complete and teach |
 
-The independent writing studio lasts 14 minutes in odd lessons and 12 minutes in even lessons, with guided writing, planning, feedback and revision around it. Timelines run continuously from 0 to 90 minutes. Optional slides sit outside those 90 minutes.
+Independent writing lasts 14 minutes in odd lessons and 12 minutes in even lessons, with seven minutes of revision in both. Schedules run continuously from 0 to 90 minutes. The integrated canvas combines related stages without removing the planned activities.
 
-Read the [teacher guide](./Teacher_Guide.md), [revision notes](./Revision_Notes.md), [course map](./Course_Map.csv), or [validation summary](./QA_Summary.txt) before downloading if useful. The original Unit 2 Lesson 1 information and complete embedded textbook reference pages remain in the presentations.
+Sources, models, fonts and scripts are embedded. Publisher videos are separate; the Teacher tab plays a video already on your computer inside the canvas, and complete offline reading alternatives remain available. Student writing and local video are not uploaded by the files.
 
-All core slides were checked at 1440 × 900, 1366 × 768 and 1280 × 720, with mobile and interaction checks. All 448 slides were checked through print-to-PDF. Long typed responses and paragraphs were also checked for complete printing. Licensed publisher videos are separate; labeled reading alternatives are included.
+The original Unit 2 Lesson 1 information is retained in its Teacher tab, and the complete textbook pages remain embedded across their units.
 
-This folder supplies downloadable files. It does not publish a website.
+See the [teacher guide](./Teacher_Guide.md), [revision notes](./Revision_Notes.md), [course map](./Course_Map.csv) and [validation summary](./QA_Summary.txt). All twelve presentations passed the interaction checks, all core canvases were checked at three projector sizes, and all eighteen paper worksheets were checked for printing. See the validation summary for the cloud browser's local-file test limitation.
 
-![Twelve presentation covers](./Design_Preview.jpg)
+This folder supplies downloadable files; it does not publish a website.
+
+![Examples of the integrated interactive slides](./Interaction_Preview.jpg)
+
+![Twelve presentation designs](./Design_Preview.jpg)

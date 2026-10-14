@@ -1,9 +1,11 @@
-EDITION2 VALIDATION
+EDITION 3 VALIDATION
 
-12 standalone presentations;32 core slides each;384 core +64 optional=448 total. Every core schedule runs continuously0–90 minutes. Six10-minute odd-lesson TTD workshops and six10-minute even-lesson paired teaching blocks verified.
+12 standalone HTML presentations. All 384 timed activities retained in 318 core canvases, plus 64 optional extensions (382 canvases total). Every lesson runs continuously 0–90 minutes. Six ten-minute odd-lesson TTD missions and six ten-minute even-lesson teaching blocks verified. Independent writing and seven-minute revision blocks retained.
 
-All core slides checked at1440×900,1366×768 and1280×720; all mobile covers and selected activity layouts checked at390px. No checked horizontal overflow, clipped footer or JavaScript errors.
+All core canvases checked at 1440×900, 1366×768 and 1280×720; mobile covers and selected interactive layouts checked at 390px. No checked horizontal overflow or clipped footer. Material may scroll within its canvas. No JavaScript errors or external classroom requests occurred during these checks.
 
-Verified navigation/TTD jumps, choice/classification/order tasks, weather calculations, textbook pages/zoom, teacher/model panels, response-pad restoration/export, paired Writing Desk restoration/export/import, and timer persistence/reset. All packaged links resolve.
+All12: source/model/project/writing/teacher switches preserve the current canvas and window; source zoom/annotation; evidence-to-plan; source-to-paragraph stages; model roles/windows; revision differences/receipts; mission/teaching stages; timers and focus; storage restoration and legacy JSON round-trip; rejection of another pair’s JSON without replacing work. All six paired assignments carry saved work between their two lessons in the tested browser origin.
 
-Print-to-PDF checked across all12 decks;448 content pages without blank pages. Worksheet/TTD links and source image loading checked. Original Lesson1 reference retains70 sections and16 original optional extensions. No external requests occurred while checking offline classroom features. Licensed publisher videos remain separate and were not played.
+Unit interactions checked: fictional ad selection, connector syntax, fictional session totals, sentence ordering by keyboard controls, source-backed 26°C/25mm differences and labeled data notes. Original Unit 2 Lesson 1 retains all70 reference sections. Full-lesson printing checked across all12 (382 content pages, no blank pages); long writing prints completely. Paper worksheets, TTD sources, library links and embedded runtime assets checked. Optional local video loading/playback checked with a generated test clip; publisher media were not supplied or tested.
+
+Browser: headless Chromium on Linux. Direct file:// launch is blocked by this cloud browser policy, so runtime checks used the local HTTP preview; every lesson was checked for embedded scripts/styles/source assets. Live classroom pacing, local-file storage behavior and video format support depend on the teaching computer; export/import is provided for saved work. ZIP integrity checked after packaging.
