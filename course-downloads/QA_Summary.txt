@@ -1,0 +1,9 @@
+EDITION2 VALIDATION
+
+12 standalone presentations;32 core slides each;384 core +64 optional=448 total. Every core schedule runs continuously0–90 minutes. Six10-minute odd-lesson TTD workshops and six10-minute even-lesson paired teaching blocks verified.
+
+All core slides checked at1440×900,1366×768 and1280×720; all mobile covers and selected activity layouts checked at390px. No checked horizontal overflow, clipped footer or JavaScript errors.
+
+Verified navigation/TTD jumps, choice/classification/order tasks, weather calculations, textbook pages/zoom, teacher/model panels, response-pad restoration/export, paired Writing Desk restoration/export/import, and timer persistence/reset. All packaged links resolve.
+
+Print-to-PDF checked across all12 decks;448 content pages without blank pages. Worksheet/TTD links and source image loading checked. Original Lesson1 reference retains70 sections and16 original optional extensions. No external requests occurred while checking offline classroom features. Licensed publisher videos remain separate and were not played.
