@@ -1,11 +1,13 @@
-# Edition 3 · integrated canvas revision
+# Edition 4 · weekly Teach the Document revision
 
-- Rebuilt all twelve HTML presentations around an activity and companion material on the same slide. Book, writing, project, model and teacher resources stay within that canvas. The companion can expand while retaining the activity; Focus simplifies projection controls.
-- Preserved all 384 timed activities and every continuous 90-minute schedule. Related activities now share 318 core canvases (26 odd / 27 even), plus 64 optional extensions. This is a consolidation of related steps; the planned class time and products remain complete.
-- Consolidated each five-step, ten-minute odd-lesson TTD launch into one mission canvas. Consolidated the even-lesson four-minute teaching / one-minute feedback turns into one ten-minute teaching canvas. All six assignments remain explicit, with sources, writing, rubrics, checklists and teaching support.
-- Added document zoom/focus/pins and labeled annotations that carry into the plan; credited evidence selection; source-to-paragraph demonstrations; model sentence-role windows; a revision comparison with highlighted changes and saved receipts; and a source/plan companion beside the independent paragraph editor.
-- Added unit-specific interactions: festival photo observation, sentence ordering and frequency scope, fictional privacy advertising and internet-time illustrations, connector choices, three-reason planning and source-backed graph comparisons with labeled calculations.
-- Refined all twelve visual worlds with embedded typography, authentic source photography, varied layouts, meaningful motion, reduced-motion support, mobile layouts, keyboard alternatives and projector sizing.
-- Added an optional local video player inside the Teacher pane. Publisher videos are not bundled; offline reading alternatives remain complete.
-- Preserved paired Writing Studio v2 JSON compatibility, lesson response keys, all embedded source pages, full assignment models and the 70-section original Unit 2 Lesson 1 reference. Export/import carries work across devices or local-file browser restrictions.
-- Updated the library, actual design previews, all 18 optional paper worksheets, teacher guide, course map and instructions to match the integrated interface. Printing uses flowing text so long writing is preserved.
+- Replaced all six project briefs and checklists using **XXU_TTD_Writing.docx**, mapped to the existing six pairs across Units 2–4. Unit 1 was left outside this package.
+- Retained the Festival Field Guide and three-idea Internet Time task while aligning their required products precisely to the new document.
+- Replaced Festival Editor with **Festival Museum**: three illustrated exhibit cards, descriptions, a connected 8–10-sentence paragraph and a source-based video tour.
+- Rebuilt **Privacy Survival Guide** around a risk/harm/protection organizer, three practical risk/solution cards, priorities, an original one-page guide, 1–2 opinion paragraphs totaling 8–12 sentences and the full video route.
+- Rebuilt **Postcards from Around the World** with a city outside China, a four-part seasonal chart, four original postcards, full annual climate graph, 8–12 sentences and the required video explanation/read-aloud.
+- Rebuilt **Climate Doppelgängers** with two freely chosen cities, monthly climate research and English reading, one similarity, three comparisons, four numerical observations across both measures, an original investigation visual, 8–12 sentences and the required video.
+- Added complete illustrated examples and worked organizers for every week. The models show Aomori objects, university privacy actions, Tokyo postcards and a Tokyo/Hong Kong climate investigation, with source and measure labels.
+- Added an intuitive in-slide project studio: Example / Example plan / Build mine / Preview mine / Requirements. Added structured editors, local image support for cards/postcards, annual graph generation, and exports for the planning organizer and creative document.
+- Updated both lessons of every pair, writing studio prompts, models, checklists, teacher support, optional paper worksheets, library and course map. All twelve 90-minute plans and 384 timed activities remain.
+- Preserved earlier writing and JSON compatibility; reset old completion checks so obsolete requirements do not appear completed. Original Lesson 1 information remains a clearly labeled historical reference.
+- Distinguished weekly submission requirements from optional class revision receipts, suggested grading aids and paired rehearsal timing.

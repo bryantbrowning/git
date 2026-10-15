@@ -1,51 +1,54 @@
-# Unlock 2 · Integrated Writing Studio · Edition 3
+# Unlock 2 · Weekly Project Studio · Edition 4
 
-Twelve individual HTML presentations, four per unit and 90 minutes each. All 384 timed activities are preserved. Related activities now share one canvas: 26 core canvases in odd lessons and 27 in even lessons, 318 core canvases in total. There are 64 optional extensions outside the 90-minute schedules, for 382 canvases overall.
+Twelve individual 90-minute HTML presentations: four lessons in each of Units 2–4. The six two-lesson projects now follow **XXU_TTD_Writing.docx**. Its Unit 1 activities are outside this package’s scope. Weeks 1–6 below are the six project cycles; no calendar dates are invented.
 
-## Start and use the canvas
-
-Extract the ZIP and open **index.html**, then choose a lesson. These are browser presentations, with JavaScript built into the HTML. Each lesson contains its own sources, fonts, scripts, models and materials and works offline. Keep the package together for optional library and worksheet links. Native PowerPoint does not execute this JavaScript; present the HTML in a browser.
-
-The main activity and its companion material share one slide. The tabs **Task / Book / Write / Project / Model / Teacher** change the material within that canvas. Task contains the exact current activity and a short response. Book shows the original source with page/focus controls, zoom and annotation. Write shows the relevant saved fields, with an All writing option. Project contains the six-stage assignment, checklist, rubric and teaching route. Model contains the complete worked packet and script. Teacher contains facilitation and answers, preparation, the full lesson plan, printing and the optional local video player. Use **Give the material more space** to widen the companion while retaining the activity. Use **Focus** or full screen for projection; Escape restores the normal canvas.
-
-Left/right arrows or Page Up/Down change canvases. **W** opens Write, **T** Project, **N** Teacher and **B** Book on the current canvas. Typing fields and the focused document reader keep their own keys. Inside the reader, arrows pan and +/- zoom. Use the bottom menu to choose a canvas. Timers start only when requested, survive material switches and never advance a slide automatically. Reset uses the current canvas duration; the teaching canvas also has an explicit timer for its 4/1/4/1-minute phases.
-
-## The writing journey
-
-Source → notes → sentence → paragraph: use the four-step sentence forge to trace how a source becomes precise writing. Evidence cards show their status and credit; keeping a selection adds it to the plan without replacing existing writing. Book annotations combine a page pin with Fact / View / Question and append a traceable note to the plan. The source stays available beside the editor during independent writing.
-
-The model canvas keeps the whole paragraph available, with smaller reading windows, sentence-role lenses and a role-identification check. Revision combines four minutes on meaning and three on language. Compare a before/after sentence, inspect the highlighted word changes, give a reason, then keep the receipt. Replacing a matching sentence in the paragraph is a separate explicit action. Interactive sentence ordering, connector choices, privacy-ad simulations, fictional time budgets, source-scope checks and labeled graph comparisons are tailored to the units. Graph differences distinguish printed values from calculations.
-
-## Work, backups and privacy
-
-Task responses remain separate for each lesson and retain the earlier response keys. The paired assignment uses the existing Writing Studio v2 format and storage keys. Earlier JSON exports import into the matching pair; the six pairs are kept separate. Both lessons in a pair can share browser storage when the browser treats their origin alike. With local files or another device, **export editable work**, then import the JSON in the next lesson. Export text for a readable copy. Local browser saving is attempted and failures are reported. Export before closing, moving devices or replacing the package. Student writing and local media are not uploaded by the files.
-
-Print writing produces a full-length packet; Print lesson handout produces a static transcript including optional activities. The 12 separate lesson worksheets and six TTD workshop sheets are optional paper alternatives. Long paragraphs print as flowing text rather than clipped textareas.
-
-## Protect the 90-minute rhythm
-
-Each lesson contains all 32 timed activities, with continuous 0–90-minute schedules. Odd lessons protect 14 independent writing minutes (53–67), and even lessons protect 12 (41–53), plus seven quiet revision minutes in both. The earlier reading, planning and sentence work have concrete written products. Do not interrupt the independent studio for a whole-class correction. Select only the textbook items named in the task; a full exercise may exceed its allotted time. Adapt the number of selected items to the group while protecting paragraph writing and teaching. Extensions are for early finishers, homework or another class. Timers support pacing; assess the work before advancing.
-
-## Six Teach the Document missions
-
-Lessons 1 and 3 of each unit launch their assignment at 25–35 minutes. Task → document → annotation → written start → requirements are five stages on **one mission canvas**. The task and source remain available while planning. Lessons 2 and 4 complete the assignment, then use **one teaching canvas** at 74–84 minutes: A teaches four minutes, B gives one minute feedback, B teaches four minutes, A gives one minute feedback. All pairs work simultaneously. Source points, the learner paragraph, speaker cues, listener prompts and phase timers are together on the canvas.
-
-The final English explanation/recording remains 3–5 minutes, using the teacher’s announced route and calendar deadline. Odd-lesson micro-teaching is rehearsal. Assess the five rubric areas separately, four points each; completeness checks are not quality scores. TTD #1–6 pair lessons 2.1–2.2, 2.3–2.4, 3.1–3.2, 3.3–3.4, 4.1–4.2 and 4.3–4.4.
-
-## Textbook alignment and evidence
-
-The supplied source pages remain embedded: Unit 2 pp.36–57, Unit 3 pp.58–79 and Unit 4 pp.80–101; later units also include contents pp.4–5. The original Unit 2 Lesson 1 information is retained in Teacher → Original Unit 2 Lesson 1, including 42 original slides and source/model guidance (70 reference sections). Its 16 original optional extensions remain alongside four newer ones. Authentic photographs are credited to the supplied book or original lesson; custom illustrations are teaching devices.
-
-Teacher-created preparation tasks are identified separately from official final tasks. The official Unit 3 p.77 internet-time opinion task requires **three supporting ideas**. The official Unit 4 task compares **two places and both temperature and precipitation**. The privacy opinion and one-place description prepare those skills. Festival accounts are textbook/source summaries, not checked current schedules; keep food/clothing gaps honest. The p.63 article is reading evidence, and the p.67 games statistic has population/topic/time limits. Mira and Leon are fictional illustrations, not measured research.
-
-Weather work identifies place, month, measure, series and unit. Average highs/lows are not records. Mark estimates and calculations. Printed p.93 examples: Amman/Svalbard January average highs 13°C/−13°C, calculated difference 26°C; September precipitation 0/25 mm, calculated difference 25 mm. Amman July average high is 31°C, February precipitation 61 mm and November 28 mm. No calendar year, forecast, cause or long-term trend is invented. The Sahara illustrative daily graph is a separate source/time scale; the survival reading is analyzed as a text, not independently validated practical advice.
-
-Publisher videos are not bundled. Teacher → Optional local video opens a video file already on the computer and plays it inside the canvas without uploading. The file is available until reload/close and must be selected again in a later session. Licensed publisher access remains the teacher’s responsibility. The labeled reading alternatives are complete offline and do not claim video-only answers. Use any selected excerpt within the named activity time.
-
-## Course overview
-
-| Lesson | Design | Core canvases | Textbook spine | TTD stage |
+| Week | Lessons | Current project | Required writing | Main creative / teaching output |
 |---|---|---|---|---|
+| 1 | 2.1–2.2 | Festival Field Guide: Beyond China | One paragraph, at least 7 sentences | Five categories; teach with credited visuals |
+| 2 | 2.3–2.4 | Festival Museum: Three Objects, One Story | One explanatory paragraph, 8–10 sentences | Three illustrated exhibit cards and a source-based museum-tour video |
+| 3 | 3.1–3.2 | The Privacy Survival Guide | 1–2 opinion paragraphs, 8–12 sentences total | Brainstorming organizer, original one-page guide with three risks/solutions, and a 3–5-minute video reading all writing aloud |
+| 4 | 3.3–3.4 | Internet Time: A Clear Verdict | One opinion paragraph, 8–10 sentences; three supporting ideas | Respond to the exact textbook question |
+| 5 | 4.1–4.2 | Postcards from Around the World | 1–2 descriptive paragraphs, 8–12 sentences total | City outside China; four-part organizer, four original postcards, climate graph and 3–5-minute video reading all writing aloud |
+| 6 | 4.3–4.4 | Climate Doppelgängers | 1–2 comparison paragraphs, 8–12 sentences total | Two cities; English climate reading; one similarity, three meaningful comparisons, four observations covering both measures; research visual and 3–5-minute video reading all writing aloud |
+
+The Word document defines submitted products. Class planning, feedback, revision and rehearsal support those products. The suggested 20-point rubric is a teacher-created aid, not a new requirement from the Word document. TTD #2 requires a video tour; the new document does not set its duration. Weeks 1 and 4 follow the teacher’s final teaching format. Do not impose the earlier edition’s two mandatory revision receipts, fixed Muscat organizer or fixed Amman/Svalbard comparison as additional submission requirements.
+
+## Open and present
+
+Extract the ZIP and open **index.html** in a modern browser. Each lesson embeds its own sources, fonts, scripts, models and activities. Present the HTML in the browser; JavaScript does not execute natively in PowerPoint. Keep the package together for optional library and paper links.
+
+**Task / Book / Write / Project / Model / Teacher** remain inside the current canvas. Project now has **Investigate / Plan / Create / Write / Revise / Teach** stages. Create opens an illustrated example, its worked organizer, a project-specific editor, your own preview and the current requirement checklist. Export the organizer or creative document as a standalone printable HTML file. Use a student’s own artwork or credited local PNG/JPEG/WebP images for museum cards and postcards. Images up to 800 KB are stored in the editable project export; no files are uploaded.
+
+The six examples are complete teaching models: an Aomori field guide; an Aomori float/drum/haneto museum; a three-risk privacy guide; a three-idea internet verdict; four Tokyo postcards with the full annual graph; and a Tokyo/Hong Kong investigation. Original schematic illustrations are labeled. The privacy matrix and seasonal chart show what planning can look like. Students may choose other permitted subjects and organizer formats.
+
+The same-canvas source-to-sentence demonstration, sentence-role windows, quiet writing editor, revision comparison, annotation and textbook reading tools remain. **W** opens Write, **T** Project, **B** Book and **N** Teacher. Arrows or Page Up/Down move canvases; typing and the focused source reader keep their own keys. Escape restores the standard view. Widen the companion material or use Focus/full screen for projection. Timers are manual and never advance a slide.
+
+## Pacing
+
+Every lesson preserves 32 timed activities and its continuous 0–90-minute schedule. Related activities share 26 core canvases in odd lessons and 27 in even lessons: 318 core canvases plus 64 optional extensions. A ten-minute project launch remains at 25–35 minutes in each odd lesson. All five stages stay on one canvas. Even lessons retain a ten-minute paired class rehearsal at 74–84 minutes: A4 / feedback1 / B4 / feedback1. This rehearsal timing does not replace the final weekly submission instructions.
+
+Independent writing remains 14 minutes in odd lessons and 12 in even lessons, with seven quiet revision minutes in both. These lessons begin and develop substantial research/creative projects; source gathering, artwork and final video completion can continue between classes. Protect writing time. Select the textbook items named in the activity rather than attempting a whole exercise in a short block. Optional extensions are outside the 90 minutes.
+
+## Keep earlier writing
+
+The paired Writing Studio v2 JSON format and pair IDs remain compatible. New exports add assignment version 4, new planner fields and optional image assets. Earlier paragraphs and notes are retained; old completion checks reset because the requirements have changed. Review older writing against the new brief. Export editable work before closing or moving devices, then import in the next lesson of the pair. Browser saving is attempted and errors are reported. Local-file storage differs between browsers, so export/import is the reliable transfer route.
+
+Export text keeps a readable packet; Print writing uses flowing text for long paragraphs. The new creative-document export includes the document, writing and credits. The separate organizer export keeps the planning document. The privacy guide model is designed to print on one A4 page; student writing and images still need a final print preview to meet the one-page requirement. No automatic count evaluates quality, originality or factual accuracy.
+
+## Evidence and source alignment
+
+Complete original textbook ranges remain embedded: Unit 2 pp.36–57, Unit 3 pp.58–79 and Unit 4 pp.80–101, plus contents pp.4–5 in later units. They teach the reading and language methods. A textbook exercise can use a different location or temperature measure from the creative project; label that work as skill practice. The current weekly brief controls the final assignment.
+
+The p.44 Muscat account now supports festival detail-reading practice; it is no longer the required Week 2 document. The p.63 privacy article provides a reading foundation, while the guide adds practical risks, protections, priorities and source identification. The official p.77 internet-time question and its three supporting ideas remain. The p.92–93 average-high/low practice remains distinct from the new reference models’ monthly mean temperature normals.
+
+Climate examples identify cities/countries, stations, measures, units and the **1991–2020** normal period. Tokyo references the Japan Meteorological Agency normals table; Hong Kong references the Hong Kong Observatory normals table. Week 6 embeds an original teacher-created English reference reading based on these normals, and identifies the HKO English climate overview as a further independent reading route. Both city graphs use shared scales when shown together. A normal describes a long-term average, not a forecast; do not infer a cause or a future year. Data entered for a student’s chosen city must cover all 12 months, use numeric temperature and nonnegative precipitation, and compare equivalent series and periods. A missing value is not zero.
+
+Privacy examples summarize general FTC/CISA guidance and avoid guarantees. Students identify outside information sources and explain their own priorities. Festival models use source summaries supplied with the original lesson; mark source gaps and verify any current-year schedule separately. Mira/Leon remain explicitly fictional illustrations.
+
+The original Unit 2 Lesson 1 information is retained in Teacher → Original Unit 2 Lesson 1 as a historical reference, with 70 reference sections. Its former assignment instructions are superseded by the current weekly brief; its source and skill information remains available. Optional original extensions are marked as skill practice. Publisher videos remain separate; Teacher can play an existing local video within the canvas. Offline reading alternatives remain complete.
+
+## Detailed lesson plans
+
 
 | 2.1 | Festival Passport | 26 | pp.40–41 preview/reading; pp.48–49 organizer; pp.50–52 sentences and paragraph roles | #1 launch |
 | 2.2 | Night Parade | 27 | pp.41–42 Celebrate!; pp.46–47 time/place and frequency; optional licensed pp.38–39 New Year media route | #1 complete + teach |
@@ -60,7 +63,7 @@ Publisher videos are not bundled. Teacher → Optional local video opens a video
 | 4.3 | Polar Observatory | 26 | pp.92–96 fair comparisons and comparative/superlative/equality forms; pp.99–100 official task | #6 launch |
 | 4.4 | The Weather Exhibition | 27 | pp.97–101 relevance, examples, final task/language checklists and review | #6 complete + teach |
 
-## Unit 2 · Lesson 1 · Festival Field Guide: Plan
+## Unit 2 · Lesson 1 · Festival Field Guide: Beyond China · Investigate and Draft
 
 Design: **Festival Passport**. Travel notebook · route lines · source stamps
 
@@ -68,8 +71,8 @@ Design: **Festival Passport**. Travel notebook · route lines · source stamps
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | A festival is a place.Give it a voice. | A five-part festival map, a first descriptive paragraph and a started TTD #1 packet. |
-| 01–02 | 2 | Your 90-minute route. | I can name a specific festival, organize five kinds of detail, write complete sentences and explain where my evidence comes from. |
+| 00–01 | 1 | Find the festival.Give it a voice. | 5-category organizer · 7+ sentences · Credited visuals · Teach your choices |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: 5-category organizer · 7+ sentences · Credited visuals · Teach your choices. |
 | 02–05 | 3 | Start with something you can describe. | A two-sentence baseline to compare with the final draft. |
 | 05–07 | 4 | Notice / infer / verify. | Three labeled notes: N / I / V. |
 | 07–10 | 5 | A word needs a usable context. | Three checked meanings + one usable phrase. |
@@ -78,41 +81,41 @@ Design: **Festival Passport**. Travel notebook · route lines · source stamps
 | 18–21 | 8 | A source has boundaries. | One supported claim and one cautious revision. |
 | 21–23 | 9 | A map gives the details a home. | Two classifications and a reason. |
 | 23–25 | 10 | Try a map-to-sentence move. | One original sentence based on source notes. |
-| 25–27 | 11 | Teach the Document #1 · START HERE | By the end of this pair: a five-part map, 7+ original sentences, an explained revision, 1–2 credited visuals and a 3–5-minute English lesson. |
-| 27–29 | 11 | Your document is on the table. | A location, two evidence details and a genuine research gap. |
-| 29–31 | 11 | Annotate. Locate. Explain. | Five labeled notes, including an honest gap. |
-| 31–34 | 11 | Begin the assignment in class. | A festival passport and a first topic sentence. |
-| 34–35 | 11 | What must your packet contain? | Circle what is already started. Put a star beside the next action for Lesson 2. |
+| 25–27 | 11 | Festival Field Guide: Beyond China | 5-category organizer · 7+ sentences · Credited visuals · Teach your choices |
+| 27–29 | 11 | Explore the worked document | A named product, a located source detail and a design choice you can explain. |
+| 29–31 | 11 | Trace evidence and explain choices | Three labeled evidence notes and one useful research question. |
+| 31–34 | 11 | Begin your own project | A project-specific organizer and an original opening sentence. |
+| 34–35 | 11 | Check this week’s required products | A truthful checklist and your next step. |
 | 35–37 | 12 | A sentence needs a complete core. | A subject + verb marked in a complete sentence. |
 | 37–40 | 13 | Make the noun and action precise. | Two precise noun/action choices and one complete sentence. |
 | 40–43 | 14 | Add context without losing the sentence. | Two grammatical versions with the same meaning. |
-| 43–45 | 15 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 45–47 | 15 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
-| 47–50 | 16 | Plan the jobs before the sentences. | A five-part map and a 7+ sentence route. |
-| 50–52 | 17 | A partner tests the plan. | One precise suggestion and one decision recorded by the writer. |
-| 52–53 | 18 | Set up a quiet writing sprint. | A visible plan, source, and a blank paragraph space. |
-| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | A 7+ sentence first descriptive draft + visible evidence gaps. |
-| 67–68 | 20 | Peer review · agree on the reader’s job. | Partner names + the part each reader will verify. |
-| 68–73 | 21 | Peer conference · evidence before advice. | One “keep” comment and one actionable “revise” comment per writer. |
-| 73–77 | 22 | Revision 1 · improve the meaning. | Before → after → why, with an improved sentence in the paragraph. |
-| 77–80 | 22 | Revision 2 · make the language accurate. | An edited sentence + a reason connected to this lesson’s language target. |
-| 80–82 | 23 | Build the document you will point to. | A labeled visual draft with a source credit. |
-| 82–85 | 24 | Teach a small part before the full talk. | Each partner gives a 60-second document explanation and receives 30 seconds of feedback. |
-| 85–88 | 25 | Exit ticket · show the writing skill. | Three short responses: evidence, writing choice, next step. |
-| 88–90 | 26 | Save today. Arrive ready next time. | Exported writing + a named action for the next lesson. |
+| 43–45 | 15 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 45–47 | 15 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
+| 47–50 | 16 | Plan the jobs before the sentences. | A task-specific organizer linked to your writing. |
+| 50–52 | 17 | A partner tests the plan. | A specific decision that improves the current weekly project. |
+| 52–53 | 18 | Set up a quiet writing sprint. | A specific decision that improves the current weekly project. |
+| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 67–68 | 20 | Peer review · agree on the reader’s job. | One keep comment, one revision suggestion and the writer’s decision. |
+| 68–73 | 21 | Peer conference · evidence before advice. | One keep comment, one revision suggestion and the writer’s decision. |
+| 73–77 | 22 | Revision 1 · improve the meaning. | A better draft and an explained class revision. |
+| 77–80 | 22 | Revision 2 · make the language accurate. | A better draft and an explained class revision. |
+| 80–82 | 23 | Build the document you will point to. | A readable creative document that supports the required writing. |
+| 82–85 | 24 | Teach a small part before the full talk. | An explanation of your evidence, design and writing choices. |
+| 85–88 | 25 | Exit ticket · show the writing skill. | Three short evidence-based reflections. |
+| 88–90 | 26 | Save today. Arrive ready next time. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 2 (pp.36–57). All Unit 2 page scans from the supplied lesson are embedded.Students need paper or the Writing Desk. Browser export works offline; official-source links need internet. For the publisher’s New Year video, use licensed course access if available. The presentation contains a clearly labeled reading-based fallback; it does not invent video answers.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Research a real festival outside China. Use the five categories to write at least seven sentences, then teach with credited visuals.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
-Support: give the sentence frame, allow a short bilingual vocabulary gloss, and ask for six accurate core sentences before expanding to the course target. Keep the same evidence and paragraph goals. Stretch: add a specific, source-backed detail or justify a sentence deletion; do not simply add difficult vocabulary. Use paired teaching so every student gets speaking time. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · A festival is a place.Give it a voice.**
+**Canvas 1 · 00–01 · Find the festival.Give it a voice.**
 
-Task: How can a reader picture a celebration from your paragraph?
+Task: Research a real festival outside China. Use the five categories to write at least seven sentences, then teach with credited visuals.
 
-Product: A five-part festival map, a first descriptive paragraph and a started TTD #1 packet.
+Product: 5-category organizer · 7+ sentences · Credited visuals · Teach your choices
 
 Purpose and evidence: A five-part festival map, a first descriptive paragraph and a started TTD #1 packet.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -121,7 +124,7 @@ Purpose and evidence: A five-part festival map, a first descriptive paragraph an
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: I can name a specific festival, organize five kinds of detail, write complete sentences and explain where my evidence comes from.
+Product: I can complete the current weekly products: 5-category organizer · 7+ sentences · Credited visuals · Teach your choices.
 
 Purpose and evidence: I can name a specific festival, organize five kinds of detail, write complete sentences and explain where my evidence comes from.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -143,7 +146,7 @@ Task: Study the three festival photographs. Say one visible detail, one possible
 
 Product: Three labeled notes: N / I / V.
 
-Purpose and evidence: Three labeled notes: N / I / V.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Visible color or people can be observed. A festival date, required outfit or cultural rule needs evidence beyond the image.Book p.49 · page guidanceIdeas map: Create a second map for your chosen celebration; compare with a partner, then check missing information.Book p.53 · page guidanceHoli sentence roles: c = topic; b, e, a = supporting; d = conclusion.Coherent order: c → b → e → a → d is a reasonable ordering.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2.
+Purpose and evidence: Three labeled notes: N / I / V.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Visible color or people can be observed. A festival date, required outfit or cultural rule needs evidence beyond the image.Book p.49 · page guidanceIdeas map: Create a second map for your chosen celebration; compare with a partner, then check missing information.Book p.53 · page guidanceHoli sentence roles: c = topic; b, e, a = supporting; d = conclusion.Coherent order: c → b → e → a → d is a reasonable ordering.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2. Textbook skill practice: p.49, p.53, p.41. The current weekly brief controls the submitted project.
 
 Answer/model: Visible color or people can be observed. A festival date, required outfit or cultural rule needs evidence beyond the image.
 
@@ -164,7 +167,7 @@ Task: On p.40, choose THREE unfamiliar items from the vocabulary task. Match eac
 
 Product: Three checked meanings + one usable phrase.
 
-Purpose and evidence: Three checked meanings + one usable phrase.Select three items, not the full exercise. Students may check the original definitions in the page viewer. Build meaning before asking for independent sentences.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.40 · page guidanceVocabulary exercise: 1 celebrate; 2 gift; 3 culture; 4 traditional; 5 lucky; 6 fireworks.Preview topic: Celebrations around the world.
+Purpose and evidence: Three checked meanings + one usable phrase.Select three items, not the full exercise. Students may check the original definitions in the page viewer. Build meaning before asking for independent sentences.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.40 · page guidanceVocabulary exercise: 1 celebrate; 2 gift; 3 culture; 4 traditional; 5 lucky; 6 fireworks.Preview topic: Celebrations around the world. Textbook skill practice: p.40. The current weekly brief controls the submitted project.
 
 Book p.40 · Vocabulary exercise: 1 celebrate; 2 gift; 3 culture; 4 traditional; 5 lucky; 6 fireworks.
 
@@ -177,7 +180,7 @@ Task: Preview p.41, Celebrate! Read the headings and opening lines. Give each fe
 
 Product: A set of short section labels, not a translation.
 
-Purpose and evidence: A set of short section labels, not a translation.Give 60 seconds for preview, two minutes for the short scan and one minute to compare labels. Students do not need every unknown word.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.40 · page guidanceVocabulary exercise: 1 celebrate; 2 gift; 3 culture; 4 traditional; 5 lucky; 6 fireworks.Preview topic: Celebrations around the world.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2.
+Purpose and evidence: A set of short section labels, not a translation.Give 60 seconds for preview, two minutes for the short scan and one minute to compare labels. Students do not need every unknown word.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.40 · page guidanceVocabulary exercise: 1 celebrate; 2 gift; 3 culture; 4 traditional; 5 lucky; 6 fireworks.Preview topic: Celebrations around the world.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2. Textbook skill practice: p.40, p.41. The current weekly brief controls the submitted project.
 
 Book p.40 · Vocabulary exercise: 1 celebrate; 2 gift; 3 culture; 4 traditional; 5 lucky; 6 fireworks.
 
@@ -194,7 +197,7 @@ Task: Use the Celebrate! section your teacher assigns. Locate one place, one tim
 
 Product: Three notes with their source locations.
 
-Purpose and evidence: Three notes with their source locations.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2.
+Purpose and evidence: Three notes with their source locations.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2. Textbook skill practice: p.41. The current weekly brief controls the submitted project.
 
 Book p.41 · Reading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.
 
@@ -216,7 +219,7 @@ Task: Open pp.48–49. Locate the ideas-map categories. Decide where “a street
 
 Product: Two classifications and a reason.
 
-Purpose and evidence: Two classifications and a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: A street procession is an activity; a specific city answers where. A food/clothes gap must remain visible.Book p.48 · page guidanceWriting task: Describe a festival or special event; gather WHEN, WHERE, FOOD & DRINKS, ACTIVITIES and CLOTHES.Book p.49 · page guidanceIdeas map: Create a second map for your chosen celebration; compare with a partner, then check missing information.
+Purpose and evidence: Two classifications and a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: A street procession is an activity; a specific city answers where. A food/clothes gap must remain visible.Book p.48 · page guidanceWriting task: Describe a festival or special event; gather WHEN, WHERE, FOOD & DRINKS, ACTIVITIES and CLOTHES.Book p.49 · page guidanceIdeas map: Create a second map for your chosen celebration; compare with a partner, then check missing information. Textbook skill practice: p.48, p.49. The current weekly brief controls the submitted project.
 
 Answer/model: A street procession is an activity; a specific city answers where. A food/clothes gap must remain visible.
 
@@ -236,53 +239,53 @@ Starting phrase: In ___, people ___ during ___.
 Purpose and evidence: One original sentence based on source notes.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: In ___, people ___ during ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
 
-**Canvas 11 · 25–27 · Teach the Document #1 · START HERE**
+**Canvas 11 · 25–27 · Festival Field Guide: Beyond China**
 
-Task: Research one real festival held outside China. Use a specific city/region and country, one credible source, a five-part ideas map, an original descriptive paragraph, an explained revision and credited visuals to teach classmates.
+Task: Research a real festival outside China. Use the five categories to write at least seven sentences, then teach with credited visuals.
 
-Product: By the end of this pair: a five-part map, 7+ original sentences, an explained revision, 1–2 credited visuals and a 3–5-minute English lesson.
+Product: 5-category organizer · 7+ sentences · Credited visuals · Teach your choices
 
-Purpose and evidence: By the end of this pair: a five-part map, 7+ original sentences, an explained revision, 1–2 credited visuals and a 3–5-minute English lesson.This is a ten-minute classroom workshop, not a homework announcement. It starts here in Unit 2, Lesson 1. Keep the document visible. The same assignment is completed and taught in Lesson 2.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
-
-
-**Canvas 11 · 27–29 · Your document is on the table.**
-
-Task: Read this offline starter card. Box the location, underline two activities and put ? beside a category the card cannot establish.
-
-Product: A location, two evidence details and a genuine research gap.
-
-Purpose and evidence: A location, two evidence details and a genuine research gap.The original lesson’s three offline starter cards remain in the Writing Desk. Students may choose a different real festival outside China. A source gap is not permission to invent food or clothing details.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
-**Canvas 11 · 29–31 · Annotate. Locate. Explain.**
+**Canvas 11 · 27–29 · Explore the worked document**
 
-Task: Sort the card into WHEN, WHERE, FOOD/DRINK, ACTIVITIES and CLOTHES. Write “not established” where needed.
+Task: Explore the complete worked example on this canvas. Identify its required products and trace one detail to its source.
 
-Product: Five labeled notes, including an honest gap.
+Product: A named product, a located source detail and a design choice you can explain.
 
-Purpose and evidence: Five labeled notes, including an honest gap.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: A city/country names WHERE; processions are ACTIVITIES; a missing food detail remains a FOOD/DRINK research gap.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+
+**Canvas 11 · 29–31 · Trace evidence and explain choices**
+
+Task: Read the evidence cards. Keep a fact, an explanation and a source limit for your own project.
+
+Product: Three labeled evidence notes and one useful research question.
+
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 Answer/model: A city/country names WHERE; processions are ACTIVITIES; a missing food detail remains a FOOD/DRINK research gap.
 
 
-**Canvas 11 · 31–34 · Begin the assignment in class.**
+**Canvas 11 · 31–34 · Begin your own project**
 
-Task: Choose your own real festival outside China. Record city/region + country, your source, and three usable notes. Draft the opening sentence.
+Task: Open the project planner. Start the week’s organizer and choose the main idea for your own writing.
 
-Product: A festival passport and a first topic sentence.
+Product: A project-specific organizer and an original opening sentence.
 
-Starting phrase: The ___ festival is a ___ celebration in ___, ___.
+Starting phrase: My document will show ___ using ___ because ___.
 
-Purpose and evidence: A festival passport and a first topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: The ___ festival is a ___ celebration in ___, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
-**Canvas 11 · 34–35 · What must your packet contain?**
+**Canvas 11 · 34–35 · Check this week’s required products**
 
-Task: Check the seven-item brief. Today you begin the source, map and draft. Lesson 2 completes the paragraph, visual, revision and teaching.
+Task: Check the required products in this week’s Word-document brief. Star a useful next step for the completion lesson.
 
-Product: Circle what is already started. Put a star beside the next action for Lesson 2.
+Product: A truthful checklist and your next step.
 
-Purpose and evidence: Circle what is already started. Put a star beside the next action for Lesson 2.Open the full brief and the 20-point rubric if a student needs the detailed submission requirements. Every checklist item remains in the Writing Desk. No platform or calendar date is assumed.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 12 · 35–37 · A sentence needs a complete core.**
@@ -291,7 +294,7 @@ Task: Read “During the festival.” Then read “People dance during the festi
 
 Product: A subject + verb marked in a complete sentence.
 
-Purpose and evidence: A subject + verb marked in a complete sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: The phrase gives context but lacks a subject and a main verb.Book p.50 · page guidanceGrammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase.
+Purpose and evidence: A subject + verb marked in a complete sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: The phrase gives context but lacks a subject and a main verb.Book p.50 · page guidanceGrammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase. Textbook skill practice: p.50. The current weekly brief controls the submitted project.
 
 Answer/model: The phrase gives context but lacks a subject and a main verb.
 
@@ -315,7 +318,7 @@ Task: Use p.51 to see where time/place information can sit. Write two versions o
 
 Product: Two grammatical versions with the same meaning.
 
-Purpose and evidence: Two grammatical versions with the same meaning.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Both versions keep a complete subject–verb core. An opening time phrase can be followed by a comma.Book p.51 · page guidanceSentence order: Example exercise 3 item 1: “People in Wales celebrate New Year.”Placement: A prepositional phrase can come after an object or at the beginning followed by a comma.
+Purpose and evidence: Two grammatical versions with the same meaning.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Both versions keep a complete subject–verb core. An opening time phrase can be followed by a comma.Book p.51 · page guidanceSentence order: Example exercise 3 item 1: “People in Wales celebrate New Year.”Placement: A prepositional phrase can come after an object or at the beginning followed by a comma. Textbook skill practice: p.51. The current weekly brief controls the submitted project.
 
 Answer/model: Both versions keep a complete subject–verb core. An opening time phrase can be followed by a comma.
 
@@ -326,29 +329,35 @@ Book p.51 · Placement: A prepositional phrase can come after an object or at th
 
 **Canvas 15 · 43–45 · Model lab · opening and support**
 
-Task: Underline the topic sentence and locate two supporting details. Which details came from the source card?
+Task: Read the current Festival Field Guide: Beyond China model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 8 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Context, Detail, Detail, Detail, Detail, Qualification, Conclusion
 
 
 **Canvas 15 · 45–47 · Model lab · development and ending**
 
-Task: Find an activity sequence and the final impression. Explain why the model does not invent a food detail.
+Task: Read the current Festival Field Guide: Beyond China model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 8 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Context, Detail, Detail, Detail, Detail, Qualification, Conclusion
 
 
 **Canvas 16 · 47–50 · Plan the jobs before the sentences.**
 
-Task: Complete your WHEN/WHERE/FOOD/ACTIVITIES/CLOTHES map. Mark gaps. Number the details you will use and give the paragraph an opening and closing idea.
+Task: Complete this week’s project planner. Research a real festival outside China. Use the five categories to write at least seven sentences, then teach with credited visuals.
 
-Product: A five-part map and a 7+ sentence route.
+Product: A task-specific organizer linked to your writing.
 
-Purpose and evidence: A five-part map and a 7+ sentence route.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.48 · page guidanceWriting task: Describe a festival or special event; gather WHEN, WHERE, FOOD & DRINKS, ACTIVITIES and CLOTHES.Book p.49 · page guidanceIdeas map: Create a second map for your chosen celebration; compare with a partner, then check missing information.Book p.52 · page guidanceExercise 1: paragraph topics: Festival: a, c, e, h; City: b, d, f, g, i.Exercise 2: sentence roles: Topic is the Teacher’s Day opening sentence; middle sentences support; last “To summarize…” concludes.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims. Textbook skill practice: p.48, p.49, p.52. The current weekly brief controls the submitted project.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 Book p.48 · Writing task: Describe a festival or special event; gather WHEN, WHERE, FOOD & DRINKS, ACTIVITIES and CLOTHES.
 
@@ -361,113 +370,135 @@ Book p.52 · Exercise 2: sentence roles: Topic is the Teacher’s Day opening se
 
 **Canvas 17 · 50–52 · A partner tests the plan.**
 
-Task: Read the opening and the order of details to a partner. Ask: “Can you picture the festival? Which detail needs evidence?”
+Task: Prepare, check or reflect on your Festival Field Guide: Beyond China. Use the required products and the worked example as your checklist.
 
-Product: One precise suggestion and one decision recorded by the writer.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One precise suggestion and one decision recorded by the writer.A speaks for 45 seconds; B asks one question for 30 seconds; writer records an action for 45 seconds. Review the plan, not every possible sentence.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 18 · 52–53 · Set up a quiet writing sprint.**
 
-Task: Keep the five-part map and source open. Use notes, then write complete sentences in your own words.
+Task: Prepare, check or reflect on your Festival Field Guide: Beyond China. Use the required products and the worked example as your checklist.
 
-Product: A visible plan, source, and a blank paragraph space.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A visible plan, source, and a blank paragraph space.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 19 · 53–67 · Writing studio · 14 uninterrupted minutes.**
 
-Task: Write at least seven complete sentences about your selected real festival outside China. Use a clear opening, grouped supported details and a closing impression. A missing food/clothing fact may remain out of the paragraph.
+Task: Write and develop your own paragraph for Festival Field Guide: Beyond China. Use 7+ sentences, your organizer and source evidence. Keep each supporting idea relevant to the same document or position.
 
-Product: A 7+ sentence first descriptive draft + visible evidence gaps.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: The ___ festival is ___. It takes place ___. During the celebration, ___. Overall, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: write a clear opening and use the plan.; 3–10 min: develop the supporting sentences with source-based detail.; 10–14 min: finish the ending; reread and mark one uncertain sentence.
 
-Purpose and evidence: A 7+ sentence first descriptive draft + visible evidence gaps.Protect the entire fourteen minutes. Do not switch slides at checkpoints or interrupt the class. Quietly conference with two or three writers. Support: use the sentence bank, then remove repeated frames. Stretch: improve precision and relevance before adding length.Support: The ___ festival is ___. It takes place ___. During the celebration, ___. Overall, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 20 · 67–68 · Peer review · agree on the reader’s job.**
 
-Task: Check the event/place, sequence and source-based details. Ask where the reader needs a more precise noun or action.
+Task: Check your partner’s Festival Field Guide: Beyond China against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: Partner names + the part each reader will verify.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
-Purpose and evidence: Partner names + the part each reader will verify.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 21 · 68–73 · Peer conference · evidence before advice.**
 
-Task: Read the paragraph without interrupting. Underline the topic; number the supporting details. Trace two details to the source and suggest one improvement.
+Task: Check your partner’s Festival Field Guide: Beyond China against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One “keep” comment and one actionable “revise” comment per writer.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: Keep ___ because ___. Revise sentence ___ by ___ so that ___.
 
 Checkpoints: 0–2 min: A reads B’s paragraph and traces the chosen evidence.; 2–4 min: B reads A’s paragraph and traces the chosen evidence.; 4–5 min: each writer records a revision decision.
 
-Purpose and evidence: One “keep” comment and one actionable “revise” comment per writer.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Keep ___ because ___. Revise sentence ___ by ___ so that ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 22 · 73–77 · Revision 1 · improve the meaning.**
 
-Task: Find a vague detail or an invented cultural generalization. Replace it with a precise source-supported sentence, or mark it for research.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: Before → after → why, with an improved sentence in the paragraph.
+Product: A better draft and an explained class revision.
 
 Starting phrase: Before: ___. After: ___. This helps the reader because ___.
 
-Purpose and evidence: Before → after → why, with an improved sentence in the paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Before: ___. After: ___. This helps the reader because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 22 · 77–80 · Revision 2 · make the language accurate.**
 
-Task: Check a fragment or a missing subject/verb. Correct it while keeping time/place information accurate.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: An edited sentence + a reason connected to this lesson’s language target.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: An edited sentence + a reason connected to this lesson’s language target.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 23 · 80–82 · Build the document you will point to.**
 
-Task: Make an annotated source card or five-part organizer. Use short labels, large text and a source credit; show what the visual helps a reader understand.
+Task: Create or refine the week’s visual document in the project studio. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims. Use your own content and give credits.
 
-Product: A labeled visual draft with a source credit.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A labeled visual draft with a source credit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 24 · 82–85 · Teach a small part before the full talk.**
 
-Task: Point to the document, explain one source detail, and show how it became your sentence. Ask your listener to identify the sentence’s job.
+Task: Rehearse Festival Field Guide: Beyond China: Introduce: Name the festival, country and source.Show the plan: Teach the five categories, including a genuine gap.Teach with visuals: Point to credited visuals and explain the paragraph’s choices.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: A: 60-second explanation; B: 30-second feedback.; B: 60-second explanation; A: 30-second feedback.
+Checkpoints: Introduce: Name the festival, country and source.; Show the plan: Teach the five categories, including a genuine gap.; Teach with visuals: Point to credited visuals and explain the paragraph’s choices.
 
-Purpose and evidence: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.This is a short rehearsal, not the final 3–5-minute submission. The full paired teaching happens in the next lesson.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 25 · 85–88 · Exit ticket · show the writing skill.**
 
-Task: Write your most precise sentence. Name its source. Explain one thing you must verify before teaching.
+Task: Name one source detail, one writing/design choice and the next improvement in your Festival Field Guide: Beyond China.
 
-Product: Three short responses: evidence, writing choice, next step.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: Three short responses: evidence, writing choice, next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 26 · 88–90 · Save today. Arrive ready next time.**
 
-Task: Export the map and draft. Bring one credited visual or a plan for it. Next class you will refine the paragraph, explain a revision and teach TTD #1.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Bring the draft and organizer to the next lesson.
 
-Product: Exported writing + a named action for the next lesson.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: Exported writing + a named action for the next lesson.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -475,14 +506,14 @@ Purpose and evidence: Exported writing + a named action for the next lesson.Show
 
 **Canvas 27 · Model 01 · The complete submission packet**
 
-MODEL SUBMISSION / WALKTHROUGHEXTENSION27Model 01 · The complete submission packet EXAMPLE STUDENT · AOMORI CITY, JAPANTeach the Document #1Festival Field Guide✧ ✦ ✳ ◈ Everything below belongs to the same model student’s work. It is a template to learn from, not text to submit unchanged.OPEN THE FULL SAMPLE ↗
+Optional skill practice. Use the current Week 1 brief for submitted products.MODEL SUBMISSION / WALKTHROUGHEXTENSION27Model 01 · The complete submission packet EXAMPLE STUDENT · AOMORI CITY, JAPANTeach the Document #1Festival Field Guide✧ ✦ ✳ ◈ Everything below belongs to the same model student’s work. It is a template to learn from, not text to submit unchanged.OPEN THE FULL SAMPLE ↗
 
 Stress academic integrity: students may study the model but must make their own research, paragraph, visuals, and video.
 
 
 **Canvas 28 · Model 02 · Where did these facts come from?**
 
-MODEL SUBMISSION / WALKTHROUGHEXTENSION28Model 02 · Where did these facts come from?EVIDENCE & SOURCE CREDIT PRIMARY SOURCE 01Festival organizerAomori Nebuta Festival Executive CommitteeSupports the dates, Aomori City location, float processions, musicians, haneto costumes, and spectator/participant distinction.nebuta.jp/foreign/english.htmlSECOND SOURCE 02Japan’s tourism organizationJapan National Tourism Organization (JNTO)Confirms the August 2–7 schedule, large floats, public dancing opportunities and last-day fireworks.japan.travel/en/spot/1841/ · faq.japan-travel.jnto.go.jp/en/spot/465/ Research gap: the cited overview does not name a required or universal festival food. Mark that branch “not established” rather than inventing a tradition.
+Optional skill practice. Use the current Week 1 brief for submitted products.MODEL SUBMISSION / WALKTHROUGHEXTENSION28Model 02 · Where did these facts come from?EVIDENCE & SOURCE CREDIT PRIMARY SOURCE 01Festival organizerAomori Nebuta Festival Executive CommitteeSupports the dates, Aomori City location, float processions, musicians, haneto costumes, and spectator/participant distinction.nebuta.jp/foreign/english.htmlSECOND SOURCE 02Japan’s tourism organizationJapan National Tourism Organization (JNTO)Confirms the August 2–7 schedule, large floats, public dancing opportunities and last-day fireworks.japan.travel/en/spot/1841/ · faq.japan-travel.jnto.go.jp/en/spot/465/ Research gap: the cited overview does not name a required or universal festival food. Mark that branch “not established” rather than inventing a tradition.
 
 Source 1 is organizer, source 2 is Japan National Tourism Organization. Show the exact URLs; the HTML works offline but these URLs require a connection if followed. Avoid claims about visitors’ food without a separate citation.
 
@@ -491,7 +522,7 @@ Answer/model: A source supports a claim only if it actually says it. A pretty ph
 
 **Canvas 29 · Model 03 · A finished five-part ideas map**
 
-MODEL SUBMISSION / WALKTHROUGHEXTENSION29Model 03 · A finished five-part ideas mapFIVE RESEARCHED DIMENSIONSTEXTBOOK ORGANIZER · PP.48–49 01 / WHEN2–7 AugustEvery year; summer festival.02 / WHEREAomori CityJapan — a specific place outside China.03 / FOODNot establishedOfficial overview does not confirm one special dish. Next step: verify with another reliable source.04 / ACTIVITIESFloats + dancingIlluminated float parades, drums, flutes, cymbals and haneto dancing.05 / CLOTHESHaneto outfitFor participating dancers: yukata, decorated headwear and special footwear. Why this earns credit: All five categories are addressed, while the missing food information is explicitly marked for further research instead of invented.
+Optional skill practice. Use the current Week 1 brief for submitted products.MODEL SUBMISSION / WALKTHROUGHEXTENSION29Model 03 · A finished five-part ideas mapFIVE RESEARCHED DIMENSIONSTEXTBOOK ORGANIZER · PP.48–49 01 / WHEN2–7 AugustEvery year; summer festival.02 / WHEREAomori CityJapan — a specific place outside China.03 / FOODNot establishedOfficial overview does not confirm one special dish. Next step: verify with another reliable source.04 / ACTIVITIESFloats + dancingIlluminated float parades, drums, flutes, cymbals and haneto dancing.05 / CLOTHESHaneto outfitFor participating dancers: yukata, decorated headwear and special footwear. Why this earns credit: All five categories are addressed, while the missing food information is explicitly marked for further research instead of invented.
 
 This map is complete as a planning document. Research gap in food/drinks remains clearly visible. If teacher requires a verified food example later, students must find additional credible evidence.
 
@@ -500,7 +531,7 @@ Answer/model: When and where are straightforward supported facts.The food branch
 
 **Canvas 30 · Model 04 · A complete nine-sentence paragraph**
 
-MODEL SUBMISSION / WALKTHROUGHEXTENSION30Model 04 · A complete nine-sentence paragraphFROM RESEARCH TO PROSEFINISHED WRITING SAMPLE · NINE SENTENCES The Aomori Nebuta Festival is a lively summer celebration in Aomori City, Japan. It takes place every year from August 2 to August 7. During the festival, enormous illuminated floats move through the city streets. Many floats depict figures from history or traditional drama. Musicians play drums, flutes, and cymbals as the processions move along. Haneto dancers jump and move to the music beside the floats. Visitors may join the dancing if they wear a haneto costume, which includes a yukata and distinctive headwear. On the final day, special festival activities and fireworks mark the celebration’s conclusion. Overall, the colorful floats, music, and dancing make Nebuta an unforgettable example of local Japanese culture.Why it worksTopic sentenceSeven supporting detailsConclusionPrecise nouns and verbs, a clear location, and details supported by source material. 9 complete sentences · No unsupported food claim · Course requirement: at least 7 complete sentences
+Optional skill practice. Use the current Week 1 brief for submitted products.MODEL SUBMISSION / WALKTHROUGHEXTENSION30Model 04 · A complete nine-sentence paragraphFROM RESEARCH TO PROSEFINISHED WRITING SAMPLE · NINE SENTENCES The Aomori Nebuta Festival is a lively summer celebration in Aomori City, Japan. It takes place every year from August 2 to August 7. During the festival, enormous illuminated floats move through the city streets. Many floats depict figures from history or traditional drama. Musicians play drums, flutes, and cymbals as the processions move along. Haneto dancers jump and move to the music beside the floats. Visitors may join the dancing if they wear a haneto costume, which includes a yukata and distinctive headwear. On the final day, special festival activities and fireworks mark the celebration’s conclusion. Overall, the colorful floats, music, and dancing make Nebuta an unforgettable example of local Japanese culture.Why it worksTopic sentenceSeven supporting detailsConclusionPrecise nouns and verbs, a clear location, and details supported by source material. 9 complete sentences · No unsupported food claim · Course requirement: at least 7 complete sentences
 
 Give students one minute to locate topic, support and concluding sentences before showing explanations. These are original teacher-created sentences, not Cambridge textbook text.
 
@@ -509,7 +540,7 @@ Answer/model: The first sentence establishes the festival and its location.The s
 
 **Canvas 31 · Model 05 · Prove that you revised your writing**
 
-MODEL SUBMISSION / WALKTHROUGHEXTENSION31Model 05 · Prove that you revised your writingBEFORE / AFTER · ONE EXPLAINED CHANGE BEFORE · TOO VAGUEThe festival has big things.What exactly? What happens to them? The reader cannot picture it.AFTER · SOURCED + PRECISEDuring the festival, enormous illuminated floats move through the city streets.Names the object and action. This detail is supported by the organizer. VOCABULARY“big things” → “enormous illuminated floats”VERB“has” → “move through”EVIDENCEThe revised statement matches the source Student explanation: “I replaced vague words with a precise noun phrase and an accurate action, so readers can imagine the celebration.”
+Optional skill practice. Use the current Week 1 brief for submitted products.MODEL SUBMISSION / WALKTHROUGHEXTENSION31Model 05 · Prove that you revised your writingBEFORE / AFTER · ONE EXPLAINED CHANGE BEFORE · TOO VAGUEThe festival has big things.What exactly? What happens to them? The reader cannot picture it.AFTER · SOURCED + PRECISEDuring the festival, enormous illuminated floats move through the city streets.Names the object and action. This detail is supported by the organizer. VOCABULARY“big things” → “enormous illuminated floats”VERB“has” → “move through”EVIDENCEThe revised statement matches the source Student explanation: “I replaced vague words with a precise noun phrase and an accurate action, so readers can imagine the celebration.”
 
 A correction without a reason is only partial evidence of revision. Students need the before, after, and explanation.
 
@@ -518,21 +549,21 @@ Answer/model: The improved sentence makes the noun and action specific.The stude
 
 **Canvas 32 · Model 06 · Two visuals with real source credits**
 
-MODEL SUBMISSION / WALKTHROUGHEXTENSION32Model 06 · Two visuals with real source creditsTHE ASSIGNMENT REQUIRES 1–2 RELEVANT VISUALS VISUAL 01 · ORIGINAL STUDENT-MADE INFOGRAPHICWhen is Aomori Nebuta?2AUG3AUG4AUG5AUG6AUG7AUGAugust 2–7 · Aomori City, JapanFloats, music and dance are major festival activities.Student-designed timeline. Fact source: Aomori Nebuta Festival organizer, nebuta.jp/foreign/english.html. VISUAL 02 · ORIGINAL STUDENT-MADE INFOGRAPHICWhat haneto dancers wearFlower-decorated hatLight-colored yukataTabi socks + sandalsStudent-designed costume diagram (schematic, not a photo). Fact source: festival organizer’s haneto costume guide.
+Optional skill practice. Use the current Week 1 brief for submitted products.MODEL SUBMISSION / WALKTHROUGHEXTENSION32Model 06 · Two visuals with real source creditsTHE ASSIGNMENT REQUIRES 1–2 RELEVANT VISUALS VISUAL 01 · ORIGINAL STUDENT-MADE INFOGRAPHICWhen is Aomori Nebuta?2AUG3AUG4AUG5AUG6AUG7AUGAugust 2–7 · Aomori City, JapanFloats, music and dance are major festival activities.Student-designed timeline. Fact source: Aomori Nebuta Festival organizer, nebuta.jp/foreign/english.html. VISUAL 02 · ORIGINAL STUDENT-MADE INFOGRAPHICWhat haneto dancers wearFlower-decorated hatLight-colored yukataTabi socks + sandalsStudent-designed costume diagram (schematic, not a photo). Fact source: festival organizer’s haneto costume guide.
 
 These are teacher-made sample infographic visuals, not photographs of a particular event. The captions illustrate how to credit a student-created visual and identify the source of facts.
 
 
 **Canvas 33 · Model 07 · A four-minute presentation plan**
 
-MODEL SUBMISSION / WALKTHROUGHEXTENSION33Model 07 · A four-minute presentation planA REALISTIC 3–5-MINUTE VIDEO · MODEL ~4 MIN 00:00–01:15Introduce + locateName the overseas festival, city, country, dates, and source.01:15–02:34Teach the five-part mapExplain floats, activities, clothes, and responsibly identify the food research gap.02:34–03:09Explain paragraphShow topic, supported details and conclusion; use a visual.03:09–04:00Revision + wrap-upRead before/after, explain the improvement, credit sources, and conclude. Full spoken script in Writing Desk → Complete model. It is approximately four minutes at a measured pace.READ MODEL SCRIPT ↗
+Optional skill practice. Use the current Week 1 brief for submitted products.MODEL SUBMISSION / WALKTHROUGHEXTENSION33Model 07 · A four-minute presentation planA REALISTIC 3–5-MINUTE VIDEO · MODEL ~4 MIN 00:00–01:15Introduce + locateName the overseas festival, city, country, dates, and source.01:15–02:34Teach the five-part mapExplain floats, activities, clothes, and responsibly identify the food research gap.02:34–03:09Explain paragraphShow topic, supported details and conclusion; use a visual.03:09–04:00Revision + wrap-upRead before/after, explain the improvement, credit sources, and conclude. Full spoken script in Writing Desk → Complete model. It is approximately four minutes at a measured pace.READ MODEL SCRIPT ↗
 
 The complete spoken script appears in the writing workspace. It is a demonstration, not a text for copying verbatim. Students should use their own festival research.
 
 
 **Canvas 34 · Model 08 · Check the sample against the rubric**
 
-MODEL SUBMISSION / WALKTHROUGHEXTENSION34Model 08 · Check the sample against the rubricSAME 20-POINT RUBRIC FOR EVERY FESTIVAL 4Overseas event + credible sourcesAomori City, Japan; organizer + JNTO references4Five-part organizerAll five addressed; food is a responsible research gap4Organized paragraphNine complete sentences, opening, detail, conclusion4Accuracy + explained revisionSpecific vocabulary; original → revised with a reason4Video + credited visualsFour-minute demonstration; two source-backed infographics Teaching note: These are full-credit criteria illustrated by a sample, not a grade awarded to a real student. Work must be original, accurate, and complete to earn points.
+Optional skill practice. Use the current Week 1 brief for submitted products.MODEL SUBMISSION / WALKTHROUGHEXTENSION34Model 08 · Check the sample against the rubricSAME 20-POINT RUBRIC FOR EVERY FESTIVAL 4Overseas event + credible sourcesAomori City, Japan; organizer + JNTO references4Five-part organizerAll five addressed; food is a responsible research gap4Organized paragraphNine complete sentences, opening, detail, conclusion4Accuracy + explained revisionSpecific vocabulary; original → revised with a reason4Video + credited visualsFour-minute demonstration; two source-backed infographics Teaching note: These are full-credit criteria illustrated by a sample, not a grade awarded to a real student. Work must be original, accurate, and complete to earn points.
 
 Model success indicators are guidance rather than a teacher marking actual student performance. The script and infographics are example artifacts.
 
@@ -541,7 +572,7 @@ Answer/model: Check source reliability and accurate location.Check map, 7+ sente
 
 **Canvas 35 · Extra: Is this a fact or an inference?**
 
-OPTIONAL / EXTRAEXTENSION 35Extra: Is this a fact or an inference?PHOTO OBSERVATION“Some people are holding colorful decorations.”What can we say for sure?INFERENCE“This must be a national holiday.”What evidence would confirm it?Don’t turn a photograph into an unsupported fact about a culture.
+Optional skill practice. Use the current Week 1 brief for submitted products.OPTIONAL / EXTRAEXTENSION 35Extra: Is this a fact or an inference?PHOTO OBSERVATION“Some people are holding colorful decorations.”What can we say for sure?INFERENCE“This must be a national holiday.”What evidence would confirm it?Don’t turn a photograph into an unsupported fact about a culture.
 
 Optional challenge. Use only if core work is complete.
 
@@ -550,7 +581,7 @@ Answer/model: Visible actions/objects can be described directly if shown.Claimin
 
 **Canvas 36 · Extra: Improve three vague sentences.**
 
-OPTIONAL / EXTRAEXTENSION 36Extra: Improve three vague sentences.BEFORE“People do many things.”AFTER: __________________________________________________BEFORE“The event is held somewhere.”AFTER: __________________________________________________BEFORE“Everyone eats good food.”AFTER: __________________________________________________
+Optional skill practice. Use the current Week 1 brief for submitted products.OPTIONAL / EXTRAEXTENSION 36Extra: Improve three vague sentences.BEFORE“People do many things.”AFTER: __________________________________________________BEFORE“The event is held somewhere.”AFTER: __________________________________________________BEFORE“Everyone eats good food.”AFTER: __________________________________________________
 
 Students write factual alternatives appropriate to their chosen event; do not prescribe unsupported details.
 
@@ -559,14 +590,14 @@ Answer/model: Example only: “Participants watch a parade and share a meal.”E
 
 **Canvas 37 · Extra: Read the real article later.**
 
-OPTIONAL / EXTRAEXTENSION 37Extra: Read the real article later.NEXT CLASS PREVIEW · P.41What is similar across these five celebrations?Find one example of people gathering, sharing something, or marking a meaningful day.STUDENT BOOK · P.41 ↗
+Optional skill practice. Use the current Week 1 brief for submitted products.OPTIONAL / EXTRAEXTENSION 37Extra: Read the real article later.NEXT CLASS PREVIEW · P.41What is similar across these five celebrations?Find one example of people gathering, sharing something, or marking a meaningful day.STUDENT BOOK · P.41 ↗
 
 Reading 1 detailed comprehension belongs to Lesson 2. Use this as optional preview.
 
 
 **Canvas 38 · Extra: Topic, support, or conclusion?**
 
-OPTIONAL / EXTRAEXTENSION 38Extra: Topic, support, or conclusion?A“The school art festival is an enjoyable event for students.”B“During the event, students display paintings and perform music.”C“Overall, the festival gives students a chance to share their creativity.”
+Optional skill practice. Use the current Week 1 brief for submitted products.OPTIONAL / EXTRAEXTENSION 38Extra: Topic, support, or conclusion?A“The school art festival is an enjoyable event for students.”B“During the event, students display paintings and perform music.”C“Overall, the festival gives students a chance to share their creativity.”
 
 Students label T/S/C from teacher-created short model.
 
@@ -575,7 +606,7 @@ Answer/model: A = Topic sentenceB = Supporting sentenceC = Concluding sentence
 
 **Canvas 39 · Extra: Correct the paragraph order.**
 
-OPTIONAL / EXTRAEXTENSION 39Extra: Correct the paragraph order.① Finally, it brings students together through art.② At the event, students show paintings and photographs.③ The university art festival is a celebration of students’ creativity.④ Visitors also enjoy short performances.Write the best order, then explain your choice.
+Optional skill practice. Use the current Week 1 brief for submitted products.OPTIONAL / EXTRAEXTENSION 39Extra: Correct the paragraph order.① Finally, it brings students together through art.② At the event, students show paintings and photographs.③ The university art festival is a celebration of students’ creativity.④ Visitors also enjoy short performances.Write the best order, then explain your choice.
 
 The correct sequence is 3,2,4,1. Supports paragraph structure p52 without spoiling complete unit writing task.
 
@@ -584,7 +615,7 @@ Answer/model: 3 → 2 → 4 → 1: introduction, details, additional detail, con
 
 **Canvas 40 · Extra: Spot a risky cultural generalization.**
 
-OPTIONAL / EXTRAEXTENSION 40Extra: Spot a risky cultural generalization.UNSUPPORTED GENERALIZATION“Everyone in Japan celebrates in the same way.”A festival in one city cannot demonstrate what an entire country does.SPECIFIC + TRACEABLE“The Aomori Nebuta Festival features illuminated floats and haneto dancers.”Supported by the organizer’s website for this named local festival.
+Optional skill practice. Use the current Week 1 brief for submitted products.OPTIONAL / EXTRAEXTENSION 40Extra: Spot a risky cultural generalization.UNSUPPORTED GENERALIZATION“Everyone in Japan celebrates in the same way.”A festival in one city cannot demonstrate what an entire country does.SPECIFIC + TRACEABLE“The Aomori Nebuta Festival features illuminated floats and haneto dancers.”Supported by the organizer’s website for this named local festival.
 
 Distinguish observed experience from national generalization; no need to ask about religious affiliation.
 
@@ -593,47 +624,47 @@ Answer/model: The statement “Everyone in the country celebrates” is not supp
 
 **Canvas 41 · Extra: Preview Unit 2 writing task.**
 
-OPTIONAL / EXTRAEXTENSION 41Extra: Preview Unit 2 writing task.UNIT 2 · LATER WRITING WORKSHOPThe book models a festival paragraph about Las Fallas.We’ll revisit this more fully in Lessons 3–4. Notice how the five map branches become real sentences.STUDENT BOOK · P.54 ↗
+Optional skill practice. Use the current Week 1 brief for submitted products.OPTIONAL / EXTRAEXTENSION 41Extra: Preview Unit 2 writing task.UNIT 2 · LATER WRITING WORKSHOPThe book models a festival paragraph about Las Fallas.We’ll revisit this more fully in Lessons 3–4. Notice how the five map branches become real sentences.STUDENT BOOK · P.54 ↗
 
 Explicitly reserve full p54 fill-in and editing p55/56 for later unit lessons. Do not turn the preview into a complete re-teach.
 
 
 **Canvas 42 · Extra: Personal conference.**
 
-OPTIONAL / EXTRAEXTENSION 42Extra: Personal conference.Show your teacher or partner:The event you selected.Five completed categories.One statement you need to verify.Your topic sentence.“My strongest detail is…One thing I need to check is…”
+Optional skill practice. Use the current Week 1 brief for submitted products.OPTIONAL / EXTRAEXTENSION 42Extra: Personal conference.Show your teacher or partner:The event you selected.Five completed categories.One statement you need to verify.Your topic sentence.“My strongest detail is…One thing I need to check is…”
 
 Use in longer lessons or students who finish early.
 
 
 **Canvas 43 · Source detective**
 
-Compare two sources for your festival. Identify one detail they both establish and one difference in scope.MAKE / KEEPA two-source comparison with a research question.
+Optional skill practice. Use the current Week 1 brief for submitted products.Compare two sources for your festival. Identify one detail they both establish and one difference in scope.MAKE / KEEPA two-source comparison with a research question.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A two-source comparison with a research question.
 
 
 **Canvas 44 · Alternative audience**
 
-Rewrite your opening for a visitor who has never heard of the festival. Explain what you added.MAKE / KEEPTwo openings and an audience-based explanation.
+Optional skill practice. Use the current Week 1 brief for submitted products.Rewrite your opening for a visitor who has never heard of the festival. Explain what you added.MAKE / KEEPTwo openings and an audience-based explanation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Two openings and an audience-based explanation.
 
 
 **Canvas 45 · Sensory detail test**
 
-Add one sensory detail only if a credited image/text supports it. Explain what remains an inference.MAKE / KEEPA supported detail and an evidence label.
+Optional skill practice. Use the current Week 1 brief for submitted products.Add one sensory detail only if a credited image/text supports it. Explain what remains an inference.MAKE / KEEPA supported detail and an evidence label.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A supported detail and an evidence label.
 
 
 **Canvas 46 · Paragraph rescue**
 
-Write a deliberately vague two-sentence description. Exchange and revise it with precise supported nouns/actions.MAKE / KEEPBefore/after sentences and reasons.
+Optional skill practice. Use the current Week 1 brief for submitted products.Write a deliberately vague two-sentence description. Exchange and revise it with precise supported nouns/actions.MAKE / KEEPBefore/after sentences and reasons.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Before/after sentences and reasons.
 
 
-## Unit 2 · Lesson 2 · Festival Field Guide: Draft and Teach
+## Unit 2 · Lesson 2 · Festival Field Guide: Beyond China · Create, Revise and Teach
 
 Design: **Night Parade**. Midnight stage · luminous tickets · lantern geometry
 
@@ -641,51 +672,51 @@ Design: **Night Parade**. Midnight stage · luminous tickets · lantern geometry
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | From source notesto festival storyteller. | A polished 7+ sentence field guide, an explained revision and a rehearsed TTD #1 lesson. |
-| 01–02 | 2 | Your 90-minute route. | Leave with a written product, source evidence, a meaningful revision and a clear next step. |
+| 00–01 | 1 | Find the festival.Give it a voice. | 5-category organizer · 7+ sentences · Credited visuals · Teach your choices |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: 5-category organizer · 7+ sentences · Credited visuals · Teach your choices. |
 | 02–05 | 3 | Reopen your festival map. | Four retrieved notes, corrected where necessary. |
 | 05–07 | 4 | A headline is a promise. | One reader question. |
 | 07–10 | 5 | Time and place need small accurate words. | Three checked items + one sentence. |
 | 10–15 | 6 | Celebrate! · read with an evidence job. | Two answers with evidence, not unsupported guesses. |
 | 15–18 | 7 | Repair a false statement. | A corrected statement + location. |
 | 18–21 | 8 | Book detail → your writing decision. | One reading observation and one plan improvement. |
-| 21–23 | 9 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 23–25 | 9 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
+| 21–23 | 9 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 23–25 | 9 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
 | 25–28 | 10 | A time/place clinic. | A corrected model and one self-edit. |
 | 28–31 | 11 | How often is the claim true? | One revised sentence + a reason for its scope. |
 | 31–34 | 12 | Read the sentence aloud to catch the gap. | A complete, grammatically accurate pair or joined sentence. |
-| 34–36 | 13 | Teach the Document #1 · reconnect. | A packet with the document, draft and revision evidence open. |
-| 36–38 | 14 | Use the rubric as a revision tool. | One priority criterion and one sentence explaining the needed improvement. |
-| 38–41 | 15 | Choose two changes before rewriting. | One meaning/evidence goal + one language goal. |
-| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | A final descriptive paragraph ready to explain. |
-| 53–55 | 17 | Read it as someone new to the topic. | Two underlined strengths and one circled problem to discuss. |
-| 55–56 | 18 | Before you exchange the paragraph… | A partner and a specific question for the reader. |
-| 56–61 | 19 | Five-minute peer conference. | One located problem, one suggested repair and the writer’s decision. |
-| 61–65 | 20 | Revise the content before polishing. | A meaningful before → after → reason revision receipt. |
-| 65–68 | 20 | Edit the language that carries the meaning. | The final language revision receipt + corrected paragraph. |
-| 68–70 | 21 | A visual should help a listener read. | A credited document with readable labels and selected annotations. |
-| 70–73 | 22 | Build a 4-minute teaching route. | A cue outline, not a paragraph read aloud without explanation. |
-| 73–74 | 23 | Partners A and B · set the stage. | Document visible, listener question ready, roles assigned. |
-| 74–78 | 24 | TTD #1 · Partner A teaches. | A 4-minute explanation with a document-based listener check. |
-| 78–79 | 24 | Listener B · one minute of feedback. | One accurate observation + one next action for A. |
-| 79–83 | 24 | TTD #1 · Partner B teaches. | B’s 4-minute explanation; A answers the source question. |
-| 83–84 | 24 | Listener A · one minute of feedback. | One accurate observation + one next action for B. |
-| 84–86 | 25 | Make the rehearsal improve the writing. | One final change based on the listener’s response. |
-| 86–88 | 26 | Exit ticket · prove the skill. | A short written self-assessment with evidence from your paragraph. |
-| 88–90 | 27 | Check the packet. Export. Keep it. | A final packet and an exported editable copy. |
+| 34–36 | 13 | Teach the Document #1 · reconnect. | A specific decision that improves the current weekly project. |
+| 36–38 | 14 | Use the rubric as a revision tool. | One priority and a concrete improvement. |
+| 38–41 | 15 | Choose two changes before rewriting. | A task-specific organizer linked to your writing. |
+| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 53–55 | 17 | Read it as someone new to the topic. | A specific decision that improves the current weekly project. |
+| 55–56 | 18 | Before you exchange the paragraph… | A specific decision that improves the current weekly project. |
+| 56–61 | 19 | Five-minute peer conference. | One keep comment, one revision suggestion and the writer’s decision. |
+| 61–65 | 20 | Revise the content before polishing. | A better draft and an explained class revision. |
+| 65–68 | 20 | Edit the language that carries the meaning. | A better draft and an explained class revision. |
+| 68–70 | 21 | A visual should help a listener read. | A readable creative document that supports the required writing. |
+| 70–73 | 22 | Build a 4-minute teaching route. | An explanation of your evidence, design and writing choices. |
+| 73–74 | 23 | Partners A and B · set the stage. | An explanation of your evidence, design and writing choices. |
+| 74–78 | 24 | TTD #1 · Partner A teaches. | An explanation of your evidence, design and writing choices. |
+| 78–79 | 24 | Listener B · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 79–83 | 24 | TTD #1 · Partner B teaches. | An explanation of your evidence, design and writing choices. |
+| 83–84 | 24 | Listener A · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 84–86 | 25 | Make the rehearsal improve the writing. | A specific decision that improves the current weekly project. |
+| 86–88 | 26 | Exit ticket · prove the skill. | Three short evidence-based reflections. |
+| 88–90 | 27 | Check the packet. Export. Keep it. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 2 (pp.36–57). All Unit 2 page scans from the supplied lesson are embedded.Students need paper or the Writing Desk. Browser export works offline; official-source links need internet. For the publisher’s New Year video, use licensed course access if available. The presentation contains a clearly labeled reading-based fallback; it does not invent video answers.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Research a real festival outside China. Use the five categories to write at least seven sentences, then teach with credited visuals.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
-Support: give the sentence frame, allow a short bilingual vocabulary gloss, and ask for six accurate core sentences before expanding to the course target. Keep the same evidence and paragraph goals. Stretch: add a specific, source-backed detail or justify a sentence deletion; do not simply add difficult vocabulary. Use paired teaching so every student gets speaking time. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · From source notesto festival storyteller.**
+**Canvas 1 · 00–01 · Find the festival.Give it a voice.**
 
-Task: How can a reader picture a celebration from your paragraph?
+Task: Research a real festival outside China. Use the five categories to write at least seven sentences, then teach with credited visuals.
 
-Product: A polished 7+ sentence field guide, an explained revision and a rehearsed TTD #1 lesson.
+Product: 5-category organizer · 7+ sentences · Credited visuals · Teach your choices
 
 Purpose and evidence: A polished 7+ sentence field guide, an explained revision and a rehearsed TTD #1 lesson.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -694,7 +725,7 @@ Purpose and evidence: A polished 7+ sentence field guide, an explained revision 
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: Leave with a written product, source evidence, a meaningful revision and a clear next step.
+Product: I can complete the current weekly products: 5-category organizer · 7+ sentences · Credited visuals · Teach your choices.
 
 Purpose and evidence: Leave with a written product, source evidence, a meaningful revision and a clear next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -723,7 +754,7 @@ Task: On p.46, select THREE time/place items. Choose in/on/at where appropriate,
 
 Product: Three checked items + one sentence.
 
-Purpose and evidence: Three checked items + one sentence.Use selected printed items, not the full page. Keep the activity to three minutes; focus on one transferable error.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.46 · page guidanceGrammar: Prepositions of time and place: at, on, in. Full practice in Lesson 2.
+Purpose and evidence: Three checked items + one sentence.Use selected printed items, not the full page. Keep the activity to three minutes; focus on one transferable error.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.46 · page guidanceGrammar: Prepositions of time and place: at, on, in. Full practice in Lesson 2. Textbook skill practice: p.46. The current weekly brief controls the submitted project.
 
 Book p.46 · Grammar: Prepositions of time and place: at, on, in. Full practice in Lesson 2.
 
@@ -734,7 +765,7 @@ Task: Read a selected p.41 section and answer TWO p.42 detail items. Underline a
 
 Product: Two answers with evidence, not unsupported guesses.
 
-Purpose and evidence: Two answers with evidence, not unsupported guesses.Choose two items before class. The reading route is complete offline. If using the licensed New Year video instead, select a short excerpt within these five minutes and label the resulting notes as video notes.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2.Book p.42 · page guidanceReading task: Check main idea and supporting details using the actual textbook exercises, with paragraph references.
+Purpose and evidence: Two answers with evidence, not unsupported guesses.Choose two items before class. The reading route is complete offline. If using the licensed New Year video instead, select a short excerpt within these five minutes and label the resulting notes as video notes.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2.Book p.42 · page guidanceReading task: Check main idea and supporting details using the actual textbook exercises, with paragraph references. Textbook skill practice: p.41, p.42. The current weekly brief controls the submitted project.
 
 Book p.41 · Reading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.
 
@@ -749,7 +780,7 @@ Task: Choose one p.42 statement that the reading contradicts. Change only what i
 
 Product: A corrected statement + location.
 
-Purpose and evidence: A corrected statement + location.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Answers depend on the selected item. A correction should preserve the supported part and repair the contradicted detail.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2.Book p.42 · page guidanceReading task: Check main idea and supporting details using the actual textbook exercises, with paragraph references.
+Purpose and evidence: A corrected statement + location.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Answers depend on the selected item. A correction should preserve the supported part and repair the contradicted detail.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2.Book p.42 · page guidanceReading task: Check main idea and supporting details using the actual textbook exercises, with paragraph references. Textbook skill practice: p.41, p.42. The current weekly brief controls the submitted project.
 
 Answer/model: Answers depend on the selected item. A correction should preserve the supported part and repair the contradicted detail.
 
@@ -766,7 +797,7 @@ Task: Explain how a section heading or image caption guides the reader. Add one 
 
 Product: One reading observation and one plan improvement.
 
-Purpose and evidence: One reading observation and one plan improvement.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2.Book p.42 · page guidanceReading task: Check main idea and supporting details using the actual textbook exercises, with paragraph references.
+Purpose and evidence: One reading observation and one plan improvement.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.41 · page guidanceReading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.Skills: Preview the text using headings and images; save full comprehension for Lesson 2.Book p.42 · page guidanceReading task: Check main idea and supporting details using the actual textbook exercises, with paragraph references. Textbook skill practice: p.41, p.42. The current weekly brief controls the submitted project.
 
 Book p.41 · Reading 1: “Celebrate!” has sections about piñatas, noodles, Mother’s Day, New Year’s Eve, and Coming of Age Day.
 
@@ -777,20 +808,24 @@ Book p.42 · Reading task: Check main idea and supporting details using the actu
 
 **Canvas 9 · 21–23 · Model lab · opening and support**
 
-Task: Mark a source-supported detail and the topic sentence. How does the opening orient a reader?
+Task: Read the current Festival Field Guide: Beyond China model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 8 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Context, Detail, Detail, Detail, Detail, Qualification, Conclusion
 
 
 **Canvas 9 · 23–25 · Model lab · development and ending**
 
-Task: Explain how concrete actions create a picture. Identify one revision you could learn from without copying its wording.
+Task: Read the current Festival Field Guide: Beyond China model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 8 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Context, Detail, Detail, Detail, Detail, Qualification, Conclusion
 
 
 **Canvas 10 · 25–28 · A time/place clinic.**
@@ -810,7 +845,7 @@ Task: Use p.47 to review frequency expressions. Compare always, often and someti
 
 Product: One revised sentence + a reason for its scope.
 
-Purpose and evidence: One revised sentence + a reason for its scope.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.47 · page guidanceGrammar: Adverbs of frequency such as always, usually, often, sometimes, never. Full practice in Lesson 2.
+Purpose and evidence: One revised sentence + a reason for its scope.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.47 · page guidanceGrammar: Adverbs of frequency such as always, usually, often, sometimes, never. Full practice in Lesson 2. Textbook skill practice: p.47. The current weekly brief controls the submitted project.
 
 Book p.47 · Grammar: Adverbs of frequency such as always, usually, often, sometimes, never. Full practice in Lesson 2.
 
@@ -828,187 +863,233 @@ Answer/model: Possible: “The events happen in the city during the parade.” C
 
 **Canvas 13 · 34–36 · Teach the Document #1 · reconnect.**
 
-Task: TTD #1 spans Lessons 1–2. Check your specific festival outside China, five-part map, source, paragraph, revision evidence, visual and teaching plan.
+Task: Prepare, check or reflect on your Festival Field Guide: Beyond China. Use the required products and the worked example as your checklist.
 
-Product: A packet with the document, draft and revision evidence open.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A packet with the document, draft and revision evidence open.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 14 · 36–38 · Use the rubric as a revision tool.**
 
-Task: Check source accuracy and paragraph organization first. Choose a rubric area that needs a visible improvement before teaching.
+Task: Use the suggested teaching rubric to prioritize improvement. The submission checklist follows the Word document; class revision practice supports the work.
 
-Product: One priority criterion and one sentence explaining the needed improvement.
+Product: One priority and a concrete improvement.
 
-Purpose and evidence: One priority criterion and one sentence explaining the needed improvement.Use the assignment’s exact five rubric categories in the brief. These five labels summarize the categories; assess the full descriptors, not word count or checkbox totals.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 15 · 38–41 · Choose two changes before rewriting.**
 
-Task: Choose one detail to make more precise and one sentence to make more accurate. Keep the source open while you revise.
+Task: Complete this week’s project planner. Research a real festival outside China. Use the five categories to write at least seven sentences, then teach with credited visuals.
 
-Product: One meaning/evidence goal + one language goal.
+Product: A task-specific organizer linked to your writing.
 
 Starting phrase: I will improve ___ by ___. My reader will be able to ___.
 
-Purpose and evidence: One meaning/evidence goal + one language goal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I will improve ___ by ___. My reader will be able to ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 16 · 41–53 · Writing studio · 12 uninterrupted minutes.**
 
-Task: Complete and revise your 7+ sentence descriptive paragraph. Orient a reader, group related details and close coherently. Keep unsupported food/clothing details out unless another credible source establishes them.
+Task: Write and develop your own paragraph for Festival Field Guide: Beyond China. Use 7+ sentences, your organizer and source evidence. Keep each supporting idea relevant to the same document or position.
 
-Product: A final descriptive paragraph ready to explain.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: The ___ festival is ___. It takes place ___. During the celebration, ___. Overall, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: repair the biggest content or organization problem.; 3–9 min: develop support and connect the sentences.; 9–12 min: read the paragraph as a whole and check the ending.
 
-Purpose and evidence: A final descriptive paragraph ready to explain.Protect twelve minutes of independent writing. A student without a first draft starts from today’s planner; an early finisher checks claims against the source and improves precision. Do not require extra length as a substitute for revision.Support: The ___ festival is ___. It takes place ___. During the celebration, ___. Overall, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 17 · 53–55 · Read it as someone new to the topic.**
 
-Task: Underline the topic sentence. Trace two details to the source. Circle a sentence whose role is unclear.
+Task: Prepare, check or reflect on your Festival Field Guide: Beyond China. Use the required products and the worked example as your checklist.
 
-Product: Two underlined strengths and one circled problem to discuss.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: Two underlined strengths and one circled problem to discuss.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 18 · 55–56 · Before you exchange the paragraph…**
 
-Task: Check the event/place, sequence and source-based details. Ask where the reader needs a more precise noun or action.
+Task: Prepare, check or reflect on your Festival Field Guide: Beyond China. Use the required products and the worked example as your checklist.
 
-Product: A partner and a specific question for the reader.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A partner and a specific question for the reader.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 19 · 56–61 · Five-minute peer conference.**
 
-Task: Read the paragraph without interrupting. Underline the topic; number the supporting details. Trace two details to the source and suggest one improvement.
+Task: Check your partner’s Festival Field Guide: Beyond China against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One located problem, one suggested repair and the writer’s decision.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: I understood ___. I could not verify ___. Try ___ because ___.
 
 Checkpoints: 0–2 min: A checks B’s work against the task and source.; 2–4 min: B checks A’s work against the task and source.; 4–5 min: both record the action they will take.
 
-Purpose and evidence: One located problem, one suggested repair and the writer’s decision.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I understood ___. I could not verify ___. Try ___ because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 20 · 61–65 · Revise the content before polishing.**
 
-Task: Choose one vague, misplaced or unsupported detail. Replace, move or remove it. Keep the original wording in a revision receipt.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: A meaningful before → after → reason revision receipt.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: A meaningful before → after → reason revision receipt.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 20 · 65–68 · Edit the language that carries the meaning.**
 
-Task: Check subject + verb, time/place phrases and complete sentence boundaries. Correct a sentence in your own paragraph and explain the effect.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: The final language revision receipt + corrected paragraph.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: The final language revision receipt + corrected paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 21 · 68–70 · A visual should help a listener read.**
 
-Task: Make an annotated source card or five-part organizer. Use short labels, large text and a source credit; show what the visual helps a reader understand.
+Task: Create or refine the week’s visual document in the project studio. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims. Use your own content and give credits.
 
-Product: A credited document with readable labels and selected annotations.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A credited document with readable labels and selected annotations.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 22 · 70–73 · Build a 4-minute teaching route.**
 
-Task: Use your actual source and visual. Explain the five-part map, two paragraph decisions and at least one meaningful revision; finish with a source-based question.
+Task: Rehearse Festival Field Guide: Beyond China: Introduce: Name the festival, country and source.Show the plan: Teach the five categories, including a genuine gap.Teach with visuals: Point to credited visuals and explain the paragraph’s choices.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: A cue outline, not a paragraph read aloud without explanation.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: A cue outline, not a paragraph read aloud without explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce: Name the festival, country and source.; Show the plan: Teach the five categories, including a genuine gap.; Teach with visuals: Point to credited visuals and explain the paragraph’s choices.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 23 · 73–74 · Partners A and B · set the stage.**
 
-Task: Assign A/B. Open your source and paragraph side by side. Display only the selected annotations. Set the activity timer to four minutes.
+Task: Rehearse Festival Field Guide: Beyond China: Introduce: Name the festival, country and source.Show the plan: Teach the five categories, including a genuine gap.Teach with visuals: Point to credited visuals and explain the paragraph’s choices.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: Document visible, listener question ready, roles assigned.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: Document visible, listener question ready, roles assigned.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce: Name the festival, country and source.; Show the plan: Teach the five categories, including a genuine gap.; Teach with visuals: Point to credited visuals and explain the paragraph’s choices.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 24 · 74–78 · TTD #1 · Partner A teaches.**
 
-Task: Teach the festival through its document and your writing. Explain where the facts came from, how you organized them, and why your revision helped.
+Task: Rehearse Festival Field Guide: Beyond China: Introduce: Name the festival, country and source.Show the plan: Teach the five categories, including a genuine gap.Teach with visuals: Point to credited visuals and explain the paragraph’s choices.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: A 4-minute explanation with a document-based listener check.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: identify the source and writing question.; 0:40–1:40: teach the evidence and a limitation.; 1:40–2:40: explain the paragraph’s organization.; 2:40–3:30: explain revision choices.; 3:30–4:00: ask, pause, answer and credit.
+Checkpoints: Introduce: Name the festival, country and source.; Show the plan: Teach the five categories, including a genuine gap.; Teach with visuals: Point to credited visuals and explain the paragraph’s choices.
 
-Purpose and evidence: A 4-minute explanation with a document-based listener check.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 24 · 78–79 · Listener B · one minute of feedback.**
 
-Task: Name one source detail that was explained clearly. Ask one precise question about the paragraph or revision.
+Task: Rehearse Festival Field Guide: Beyond China: Introduce: Name the festival, country and source.Show the plan: Teach the five categories, including a genuine gap.Teach with visuals: Point to credited visuals and explain the paragraph’s choices.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: One accurate observation + one next action for A.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for A.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce: Name the festival, country and source.; Show the plan: Teach the five categories, including a genuine gap.; Teach with visuals: Point to credited visuals and explain the paragraph’s choices.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 24 · 79–83 · TTD #1 · Partner B teaches.**
 
-Task: Teach the festival through its document and your writing. Explain where the facts came from, how you organized them, and why your revision helped.
+Task: Rehearse Festival Field Guide: Beyond China: Introduce: Name the festival, country and source.Show the plan: Teach the five categories, including a genuine gap.Teach with visuals: Point to credited visuals and explain the paragraph’s choices.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: B’s 4-minute explanation; A answers the source question.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: source and question.; 0:40–1:40: evidence and limit.; 1:40–2:40: paragraph choices.; 2:40–3:30: revision choices.; 3:30–4:00: listener check and credits.
+Checkpoints: Introduce: Name the festival, country and source.; Show the plan: Teach the five categories, including a genuine gap.; Teach with visuals: Point to credited visuals and explain the paragraph’s choices.
 
-Purpose and evidence: B’s 4-minute explanation; A answers the source question.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 24 · 83–84 · Listener A · one minute of feedback.**
 
-Task: Name one source detail that was explained clearly. Ask one precise question about the paragraph or revision.
+Task: Rehearse Festival Field Guide: Beyond China: Introduce: Name the festival, country and source.Show the plan: Teach the five categories, including a genuine gap.Teach with visuals: Point to credited visuals and explain the paragraph’s choices.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: One accurate observation + one next action for B.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for B.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce: Name the festival, country and source.; Show the plan: Teach the five categories, including a genuine gap.; Teach with visuals: Point to credited visuals and explain the paragraph’s choices.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 25 · 84–86 · Make the rehearsal improve the writing.**
 
-Task: Apply one useful listener comment to the writing or visual. Explain why you accepted it.
+Task: Prepare, check or reflect on your Festival Field Guide: Beyond China. Use the required products and the worked example as your checklist.
 
-Product: One final change based on the listener’s response.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One final change based on the listener’s response.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 26 · 86–88 · Exit ticket · prove the skill.**
 
-Task: Compare your baseline description with today’s paragraph. Quote one sentence that is now more precise and explain why.
+Task: Name one source detail, one writing/design choice and the next improvement in your Festival Field Guide: Beyond China.
 
-Product: A short written self-assessment with evidence from your paragraph.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: A short written self-assessment with evidence from your paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 **Canvas 27 · 88–90 · Check the packet. Export. Keep it.**
 
-Task: Check all seven TTD #1 requirements, apply one listener comment, and export. Submit the 3–5-minute recording or live work through the teacher’s announced route.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Submit the products named in the Word-document brief using your teacher’s route/date.
 
-Product: A final packet and an exported editable copy.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: A final packet and an exported editable copy.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
+
+Answer/model: Possible model: Aomori Nebuta in Japan: sort supported details into five categories. Keep the food/drink gap visible; verify current schedules before making current-year claims.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -1016,33 +1097,33 @@ Purpose and evidence: A final packet and an exported editable copy.Show the task
 
 **Canvas 28 · Voice without exaggeration**
 
-Revise an overexcited travel slogan into a precise factual sentence.MAKE / KEEPA revision with a scope explanation.
+Optional skill practice. Use the current Week 1 brief for submitted products.Revise an overexcited travel slogan into a precise factual sentence.MAKE / KEEPA revision with a scope explanation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A revision with a scope explanation.
 
 
 **Canvas 29 · Micro-caption studio**
 
-Write a two-sentence caption that orients the reader and credits the image.MAKE / KEEPA source-aware caption.
+Optional skill practice. Use the current Week 1 brief for submitted products.Write a two-sentence caption that orients the reader and credits the image.MAKE / KEEPA source-aware caption.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A source-aware caption.
 
 
 **Canvas 30 · Teach without reading**
 
-Use five cue words to explain your organizer for 90 seconds.MAKE / KEEPA cue outline and a partner comment.
+Optional skill practice. Use the current Week 1 brief for submitted products.Use five cue words to explain your organizer for 90 seconds.MAKE / KEEPA cue outline and a partner comment.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A cue outline and a partner comment.
 
 
 **Canvas 31 · New source update**
 
-If online, compare a current organizer schedule with the offline starter card. Date and label any update.MAKE / KEEPA clearly dated update; no invented current-year facts.
+Optional skill practice. Use the current Week 1 brief for submitted products.If online, compare a current organizer schedule with the offline starter card. Date and label any update.MAKE / KEEPA clearly dated update; no invented current-year facts.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A clearly dated update; no invented current-year facts.
 
 
-## Unit 2 · Lesson 3 · Festival Editor: Read and Select
+## Unit 2 · Lesson 3 · Festival Museum: Three Objects, One Story · Investigate and Draft
 
 Design: **The Festival Desk**. Newspaper masthead · red rules · proof sheets
 
@@ -1050,8 +1131,8 @@ Design: **The Festival Desk**. Newspaper masthead · red rules · proof sheets
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | Every detailneeds an editor. | An annotated Muscat source, five-part organizer and 8–10-sentence first draft for TTD #2. |
-| 01–02 | 2 | Your 90-minute route. | Leave with a written product, source evidence, a meaningful revision and a clear next step. |
+| 00–01 | 1 | Three objects.One festival story. | 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video. |
 | 02–05 | 3 | Your first sentence needs a job. | One labeled topic sentence. |
 | 05–07 | 4 | The editor’s red pen. | A bounded replacement. |
 | 07–10 | 5 | Six tools; three useful choices. | Three meanings + one phrase. |
@@ -1060,41 +1141,41 @@ Design: **The Festival Desk**. Newspaper masthead · red rules · proof sheets
 | 18–21 | 8 | What does a visitor still need to ask? | An answered question or a clearly marked information gap. |
 | 21–23 | 9 | General words do not name a dish. | One source-faithful food note. |
 | 23–25 | 10 | Build a source-framed sentence. | One accurate source-framed sentence. |
-| 25–27 | 11 | Teach the Document #2 · START HERE | An annotated p.44 source, five-part map, 8–10 original sentences, two explained revisions, a credited organizer and a 3–5-minute explanation. |
-| 27–29 | 11 | Your document is on the table. | Two located details with paragraph numbers. |
-| 29–31 | 11 | Annotate. Locate. Explain. | Three annotations: fact, activity evidence, limitation. |
-| 31–34 | 11 | Begin the assignment in class. | The beginning of your own editor’s organizer and paragraph. |
-| 34–35 | 11 | What must your packet contain? | Circle what is already started. Put a star beside the next action for Lesson 4. |
+| 25–27 | 11 | Festival Museum: Three Objects, One Story | 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video |
+| 27–29 | 11 | Explore the worked document | A named product, a located source detail and a design choice you can explain. |
+| 29–31 | 11 | Trace evidence and explain choices | Three labeled evidence notes and one useful research question. |
+| 31–34 | 11 | Begin your own project | A project-specific organizer and an original opening sentence. |
+| 34–35 | 11 | Check this week’s required products | A truthful checklist and your next step. |
 | 35–37 | 12 | Who does what? | A labeled sentence core + an expanded version. |
 | 37–40 | 13 | Time, place or manner? | Two classified phrases + one complete sentence. |
 | 40–43 | 14 | Move context; preserve meaning. | Two versions + an editorial choice. |
-| 43–45 | 15 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 45–47 | 15 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
-| 47–50 | 16 | Plan the jobs before the sentences. | Five-part map + numbered 8–10-sentence plan. |
-| 50–52 | 17 | A partner tests the plan. | One precise suggestion and one decision recorded by the writer. |
-| 52–53 | 18 | Set up a quiet writing sprint. | A visible plan, source, and a blank paragraph space. |
-| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An 8–10-sentence first draft with p.44 evidence. |
-| 67–68 | 20 | Peer review · agree on the reader’s job. | Partner names + the part each reader will verify. |
-| 68–73 | 21 | Peer conference · evidence before advice. | One “keep” comment and one actionable “revise” comment per writer. |
-| 73–77 | 22 | Revision 1 · improve the meaning. | Before → after → why, with an improved sentence in the paragraph. |
-| 77–80 | 22 | Revision 2 · make the language accurate. | An edited sentence + a reason connected to this lesson’s language target. |
-| 80–82 | 23 | Build the document you will point to. | A labeled visual draft with a source credit. |
-| 82–85 | 24 | Teach a small part before the full talk. | Each partner gives a 60-second document explanation and receives 30 seconds of feedback. |
-| 85–88 | 25 | Exit ticket · show the writing skill. | Three short responses: evidence, writing choice, next step. |
-| 88–90 | 26 | Save today. Arrive ready next time. | Exported writing + a named action for the next lesson. |
+| 43–45 | 15 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 45–47 | 15 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
+| 47–50 | 16 | Plan the jobs before the sentences. | A task-specific organizer linked to your writing. |
+| 50–52 | 17 | A partner tests the plan. | A specific decision that improves the current weekly project. |
+| 52–53 | 18 | Set up a quiet writing sprint. | A specific decision that improves the current weekly project. |
+| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 67–68 | 20 | Peer review · agree on the reader’s job. | One keep comment, one revision suggestion and the writer’s decision. |
+| 68–73 | 21 | Peer conference · evidence before advice. | One keep comment, one revision suggestion and the writer’s decision. |
+| 73–77 | 22 | Revision 1 · improve the meaning. | A better draft and an explained class revision. |
+| 77–80 | 22 | Revision 2 · make the language accurate. | A better draft and an explained class revision. |
+| 80–82 | 23 | Build the document you will point to. | A readable creative document that supports the required writing. |
+| 82–85 | 24 | Teach a small part before the full talk. | An explanation of your evidence, design and writing choices. |
+| 85–88 | 25 | Exit ticket · show the writing skill. | Three short evidence-based reflections. |
+| 88–90 | 26 | Save today. Arrive ready next time. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 2 (pp.36–57). All Unit 2 page scans from the supplied lesson are embedded.Students need paper or the Writing Desk. Browser export works offline; official-source links need internet. For the publisher’s New Year video, use licensed course access if available. The presentation contains a clearly labeled reading-based fallback; it does not invent video answers.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Become a museum curator: choose three items from one real festival, create three illustrated exhibit cards and an 8–10-sentence explanatory paragraph, then record a source-based museum tour.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
-Support: give the sentence frame, allow a short bilingual vocabulary gloss, and ask for six accurate core sentences before expanding to the course target. Keep the same evidence and paragraph goals. Stretch: add a specific, source-backed detail or justify a sentence deletion; do not simply add difficult vocabulary. Use paired teaching so every student gets speaking time. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · Every detailneeds an editor.**
+**Canvas 1 · 00–01 · Three objects.One festival story.**
 
-Task: How can a reader picture a celebration from your paragraph?
+Task: Become a museum curator: choose three items from one real festival, create three illustrated exhibit cards and an 8–10-sentence explanatory paragraph, then record a source-based museum tour.
 
-Product: An annotated Muscat source, five-part organizer and 8–10-sentence first draft for TTD #2.
+Product: 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video
 
 Purpose and evidence: An annotated Muscat source, five-part organizer and 8–10-sentence first draft for TTD #2.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -1103,7 +1184,7 @@ Purpose and evidence: An annotated Muscat source, five-part organizer and 8–10
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: Leave with a written product, source evidence, a meaningful revision and a clear next step.
+Product: I can complete the current weekly products: 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video.
 
 Purpose and evidence: Leave with a written product, source evidence, a meaningful revision and a clear next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -1114,7 +1195,7 @@ Task: Write a festival topic sentence. Label the event, location and controlling
 
 Product: One labeled topic sentence.
 
-Purpose and evidence: One labeled topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.50 · page guidanceGrammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase.Book p.51 · page guidanceSentence order: Example exercise 3 item 1: “People in Wales celebrate New Year.”Placement: A prepositional phrase can come after an object or at the beginning followed by a comma.
+Purpose and evidence: One labeled topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.50 · page guidanceGrammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase.Book p.51 · page guidanceSentence order: Example exercise 3 item 1: “People in Wales celebrate New Year.”Placement: A prepositional phrase can come after an object or at the beginning followed by a comma. Textbook skill practice: p.50, p.51. The current weekly brief controls the submitted project.
 
 Book p.50 · Grammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase.
 
@@ -1138,7 +1219,7 @@ Task: Open p.43. Choose THREE vocabulary items you need for the Muscat reading. 
 
 Product: Three meanings + one phrase.
 
-Purpose and evidence: Three meanings + one phrase.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.43 · page guidanceReading 2 preview: Muscat Festival begins here. Full reading is a later Unit 2 lesson.
+Purpose and evidence: Three meanings + one phrase.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.43 · page guidanceReading 2 preview: Muscat Festival begins here. Full reading is a later Unit 2 lesson. Textbook skill practice: p.43. The current weekly brief controls the submitted project.
 
 Book p.43 · Reading 2 preview: Muscat Festival begins here. Full reading is a later Unit 2 lesson.
 
@@ -1149,7 +1230,7 @@ Task: Read p.44 and label the five paragraphs with short topic notes. Use proper
 
 Product: Five paragraph labels.
 
-Purpose and evidence: Five paragraph labels.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Main jobs include time/duration, events/traditions, Tour of Oman, food/arts/lights, international visitors. Accept accurate short labels.Book p.43 · page guidanceReading 2 preview: Muscat Festival begins here. Full reading is a later Unit 2 lesson.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
+Purpose and evidence: Five paragraph labels.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Main jobs include time/duration, events/traditions, Tour of Oman, food/arts/lights, international visitors. Accept accurate short labels.Book p.43 · page guidanceReading 2 preview: Muscat Festival begins here. Full reading is a later Unit 2 lesson.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated. Textbook skill practice: p.43, p.44. The current weekly brief controls the submitted project.
 
 Answer/model: Main jobs include time/duration, events/traditions, Tour of Oman, food/arts/lights, international visitors. Accept accurate short labels.
 
@@ -1164,7 +1245,7 @@ Task: Choose TWO p.45 detail items. Locate each answer in p.44 and write the par
 
 Product: Two source-linked answers.
 
-Purpose and evidence: Two source-linked answers.Do not assign the entire detail page in four minutes. Students must show the source phrase, not merely copy a partner’s answer.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.Book p.45 · page guidanceReading 2 tasks: Use the printed exercises for details, inference and discussion in a later lesson.
+Purpose and evidence: Two source-linked answers.Do not assign the entire detail page in four minutes. Students must show the source phrase, not merely copy a partner’s answer.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.Book p.45 · page guidanceReading 2 tasks: Use the printed exercises for details, inference and discussion in a later lesson. Textbook skill practice: p.44, p.45. The current weekly brief controls the submitted project.
 
 Book p.44 · Reading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
 
@@ -1177,7 +1258,7 @@ Task: From p.45’s discussion, choose one useful visitor question. Say whether 
 
 Product: An answered question or a clearly marked information gap.
 
-Purpose and evidence: An answered question or a clearly marked information gap.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.Book p.45 · page guidanceReading 2 tasks: Use the printed exercises for details, inference and discussion in a later lesson.
+Purpose and evidence: An answered question or a clearly marked information gap.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.Book p.45 · page guidanceReading 2 tasks: Use the printed exercises for details, inference and discussion in a later lesson. Textbook skill practice: p.44, p.45. The current weekly brief controls the submitted project.
 
 Book p.44 · Reading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
 
@@ -1190,7 +1271,7 @@ Task: Compare “different foods” with “everyone eats paella.” Which match
 
 Product: One source-faithful food note.
 
-Purpose and evidence: One source-faithful food note.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
+Purpose and evidence: One source-faithful food note.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated. Textbook skill practice: p.44. The current weekly brief controls the submitted project.
 
 Book p.44 · Reading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
 
@@ -1203,64 +1284,64 @@ Product: One accurate source-framed sentence.
 
 Starting phrase: The account includes ___ as one activity.
 
-Purpose and evidence: One accurate source-framed sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: The account includes ___ as one activity. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
+Purpose and evidence: One accurate source-framed sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: The account includes ___ as one activity. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated. Textbook skill practice: p.44. The current weekly brief controls the submitted project.
 
 Book p.44 · Reading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
 
 
-**Canvas 11 · 25–27 · Teach the Document #2 · START HERE**
+**Canvas 11 · 25–27 · Festival Museum: Three Objects, One Story**
 
-Task: Annotate the Muscat Festival text (p.44), organize its details and write an original 8–10-sentence descriptive paragraph framed as the textbook’s account. Show two revisions and teach how the document became clear writing.
+Task: Become a museum curator: choose three items from one real festival, create three illustrated exhibit cards and an 8–10-sentence explanatory paragraph, then record a source-based museum tour.
 
-Product: An annotated p.44 source, five-part map, 8–10 original sentences, two explained revisions, a credited organizer and a 3–5-minute explanation.
+Product: 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video
 
-Purpose and evidence: An annotated p.44 source, five-part map, 8–10 original sentences, two explained revisions, a credited organizer and a 3–5-minute explanation.This is a ten-minute classroom workshop, not a homework announcement. It starts here in Unit 2, Lesson 3. Keep the document visible. The same assignment is completed and taught in Lesson 4.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
-**Canvas 11 · 27–29 · Your document is on the table.**
+**Canvas 11 · 27–29 · Explore the worked document**
 
-Task: Open the embedded p.44 document. Find paragraph 1’s time information and paragraph 4’s activities. Treat this as the textbook’s account.
+Task: Explore the complete worked example on this canvas. Identify its required products and trace one detail to its source.
 
-Product: Two located details with paragraph numbers.
+Product: A named product, a located source detail and a design choice you can explain.
 
-Purpose and evidence: Two located details with paragraph numbers.The book describes a festival account; it is not a checked current schedule. The complete page is embedded. Do not import paella, haneto costumes or other-unit details into Muscat.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation. Textbook skill practice: p.44. The current weekly brief controls the submitted project.
 
 Book p.44 · Reading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
 
 
-**Canvas 11 · 29–31 · Annotate. Locate. Explain.**
+**Canvas 11 · 29–31 · Trace evidence and explain choices**
 
-Task: Mark T beside a time/place fact, A beside an activity and ? beside something the text does not establish.
+Task: Read the evidence cards. Keep a fact, an explanation and a source limit for your own project.
 
-Product: Three annotations: fact, activity evidence, limitation.
+Product: Three labeled evidence notes and one useful research question.
 
-Purpose and evidence: Three annotations: fact, activity evidence, limitation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Possible: ¶1 February/about one month; ¶4 food/art/light events; ? no required dish or named costume established.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation. Textbook skill practice: p.44. The current weekly brief controls the submitted project.
 
 Answer/model: Possible: ¶1 February/about one month; ¶4 food/art/light events; ? no required dish or named costume established.
 
 Book p.44 · Reading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
 
 
-**Canvas 11 · 31–34 · Begin the assignment in class.**
+**Canvas 11 · 31–34 · Begin your own project**
 
-Task: Make five headings. Place three supported details under them and mark an unanswered category. Write a source-framed topic sentence.
+Task: Open the project planner. Start the week’s organizer and choose the main idea for your own writing.
 
-Product: The beginning of your own editor’s organizer and paragraph.
+Product: A project-specific organizer and an original opening sentence.
 
-Starting phrase: The student book presents Muscat Festival in Oman as ___.
+Starting phrase: My document will show ___ using ___ because ___.
 
-Purpose and evidence: The beginning of your own editor’s organizer and paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: The student book presents Muscat Festival in Oman as ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation. Textbook skill practice: p.44. The current weekly brief controls the submitted project.
 
 Book p.44 · Reading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
 
 
-**Canvas 11 · 34–35 · What must your packet contain?**
+**Canvas 11 · 34–35 · Check this week’s required products**
 
-Task: Keep all five map categories; mark gaps honestly. The final paragraph needs 8–10 sentences and TWO explained revisions. Teach it in Lesson 4.
+Task: Check the required products in this week’s Word-document brief. Star a useful next step for the completion lesson.
 
-Product: Circle what is already started. Put a star beside the next action for Lesson 4.
+Product: A truthful checklist and your next step.
 
-Purpose and evidence: Circle what is already started. Put a star beside the next action for Lesson 4.Open the full brief and the 20-point rubric if a student needs the detailed submission requirements. Every checklist item remains in the Writing Desk. No platform or calendar date is assumed.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 12 · 35–37 · Who does what?**
@@ -1269,7 +1350,7 @@ Task: Identify subject and verb in “Businesses display products.” Add one su
 
 Product: A labeled sentence core + an expanded version.
 
-Purpose and evidence: A labeled sentence core + an expanded version.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.50 · page guidanceGrammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase.
+Purpose and evidence: A labeled sentence core + an expanded version.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.50 · page guidanceGrammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase. Textbook skill practice: p.50. The current weekly brief controls the submitted project.
 
 Book p.50 · Grammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase.
 
@@ -1282,7 +1363,7 @@ Product: Two classified phrases + one complete sentence.
 
 Starting phrase: In this account, events happen ___ in ___.
 
-Purpose and evidence: Two classified phrases + one complete sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: In this account, events happen ___ in ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.50 · page guidanceGrammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase.Book p.51 · page guidanceSentence order: Example exercise 3 item 1: “People in Wales celebrate New Year.”Placement: A prepositional phrase can come after an object or at the beginning followed by a comma.
+Purpose and evidence: Two classified phrases + one complete sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: In this account, events happen ___ in ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.50 · page guidanceGrammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase.Book p.51 · page guidanceSentence order: Example exercise 3 item 1: “People in Wales celebrate New Year.”Placement: A prepositional phrase can come after an object or at the beginning followed by a comma. Textbook skill practice: p.50, p.51. The current weekly brief controls the submitted project.
 
 Book p.50 · Grammar for writing: Simple sentence: subject + verb; it may include an object, adjective, or prepositional phrase.
 
@@ -1297,7 +1378,7 @@ Task: Write two versions of one supported sentence: context first, then context 
 
 Product: Two versions + an editorial choice.
 
-Purpose and evidence: Two versions + an editorial choice.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.51 · page guidanceSentence order: Example exercise 3 item 1: “People in Wales celebrate New Year.”Placement: A prepositional phrase can come after an object or at the beginning followed by a comma.
+Purpose and evidence: Two versions + an editorial choice.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.51 · page guidanceSentence order: Example exercise 3 item 1: “People in Wales celebrate New Year.”Placement: A prepositional phrase can come after an object or at the beginning followed by a comma. Textbook skill practice: p.51. The current weekly brief controls the submitted project.
 
 Book p.51 · Sentence order: Example exercise 3 item 1: “People in Wales celebrate New Year.”
 
@@ -1306,29 +1387,35 @@ Book p.51 · Placement: A prepositional phrase can come after an object or at th
 
 **Canvas 15 · 43–45 · Model lab · opening and support**
 
-Task: Identify the source frame and two grouped details. Why does the model say “in this account”?
+Task: Read the current Festival Museum: Three Objects, One Story model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 9 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Detail, Explanation, Detail, Evidence, Detail, Explanation, Summary, Qualification
 
 
 **Canvas 15 · 45–47 · Model lab · development and ending**
 
-Task: Find an ending that summarizes rather than introduces an unsupported new custom.
+Task: Read the current Festival Museum: Three Objects, One Story model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 9 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Detail, Explanation, Detail, Evidence, Detail, Explanation, Summary, Qualification
 
 
 **Canvas 16 · 47–50 · Plan the jobs before the sentences.**
 
-Task: Use the five map categories. Mark three source annotations and one gap. Sequence 8–10 sentence jobs without importing details from other festivals.
+Task: Complete this week’s project planner. Become a museum curator: choose three items from one real festival, create three illustrated exhibit cards and an 8–10-sentence explanatory paragraph, then record a source-based museum tour.
 
-Product: Five-part map + numbered 8–10-sentence plan.
+Product: A task-specific organizer linked to your writing.
 
-Purpose and evidence: Five-part map + numbered 8–10-sentence plan.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.Book p.48 · page guidanceWriting task: Describe a festival or special event; gather WHEN, WHERE, FOOD & DRINKS, ACTIVITIES and CLOTHES.Book p.49 · page guidanceIdeas map: Create a second map for your chosen celebration; compare with a partner, then check missing information.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation. Textbook skill practice: p.44, p.48, p.49. The current weekly brief controls the submitted project.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 Book p.44 · Reading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
 
@@ -1339,113 +1426,135 @@ Book p.49 · Ideas map: Create a second map for your chosen celebration; compare
 
 **Canvas 17 · 50–52 · A partner tests the plan.**
 
-Task: Read the opening and the order of details to a partner. Ask: “Can you picture the festival? Which detail needs evidence?”
+Task: Prepare, check or reflect on your Festival Museum: Three Objects, One Story. Use the required products and the worked example as your checklist.
 
-Product: One precise suggestion and one decision recorded by the writer.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One precise suggestion and one decision recorded by the writer.A speaks for 45 seconds; B asks one question for 30 seconds; writer records an action for 45 seconds. Review the plan, not every possible sentence.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 18 · 52–53 · Set up a quiet writing sprint.**
 
-Task: Keep the five-part map and source open. Use notes, then write complete sentences in your own words.
+Task: Prepare, check or reflect on your Festival Museum: Three Objects, One Story. Use the required products and the worked example as your checklist.
 
-Product: A visible plan, source, and a blank paragraph space.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A visible plan, source, and a blank paragraph space.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 19 · 53–67 · Writing studio · 14 uninterrupted minutes.**
 
-Task: Write 8–10 original sentences about the textbook’s Muscat account. Include a source-framed topic, logically grouped details and a conclusion. Use only source-established facts.
+Task: Write and develop your own paragraph for Festival Museum: Three Objects, One Story. Use 8–10 sentences, your organizer and source evidence. Keep each supporting idea relevant to the same document or position.
 
-Product: An 8–10-sentence first draft with p.44 evidence.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: The ___ festival is ___. It takes place ___. During the celebration, ___. Overall, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: write a clear opening and use the plan.; 3–10 min: develop the supporting sentences with source-based detail.; 10–14 min: finish the ending; reread and mark one uncertain sentence.
 
-Purpose and evidence: An 8–10-sentence first draft with p.44 evidence.Protect the entire fourteen minutes. Do not switch slides at checkpoints or interrupt the class. Quietly conference with two or three writers. Support: use the sentence bank, then remove repeated frames. Stretch: improve precision and relevance before adding length.Support: The ___ festival is ___. It takes place ___. During the celebration, ___. Overall, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 20 · 67–68 · Peer review · agree on the reader’s job.**
 
-Task: Check the event/place, sequence and source-based details. Ask where the reader needs a more precise noun or action.
+Task: Check your partner’s Festival Museum: Three Objects, One Story against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: Partner names + the part each reader will verify.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
-Purpose and evidence: Partner names + the part each reader will verify.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 21 · 68–73 · Peer conference · evidence before advice.**
 
-Task: Read the paragraph without interrupting. Underline the topic; number the supporting details. Trace two details to the source and suggest one improvement.
+Task: Check your partner’s Festival Museum: Three Objects, One Story against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One “keep” comment and one actionable “revise” comment per writer.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: Keep ___ because ___. Revise sentence ___ by ___ so that ___.
 
 Checkpoints: 0–2 min: A reads B’s paragraph and traces the chosen evidence.; 2–4 min: B reads A’s paragraph and traces the chosen evidence.; 4–5 min: each writer records a revision decision.
 
-Purpose and evidence: One “keep” comment and one actionable “revise” comment per writer.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Keep ___ because ___. Revise sentence ___ by ___ so that ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 22 · 73–77 · Revision 1 · improve the meaning.**
 
-Task: Find an imported detail or an over-broad statement. Replace it with a supported fact from p.44 and note the paragraph reference.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: Before → after → why, with an improved sentence in the paragraph.
+Product: A better draft and an explained class revision.
 
 Starting phrase: Before: ___. After: ___. This helps the reader because ___.
 
-Purpose and evidence: Before → after → why, with an improved sentence in the paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Before: ___. After: ___. This helps the reader because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 22 · 77–80 · Revision 2 · make the language accurate.**
 
-Task: Check one subject–verb core and one time/place phrase. Explain the repair using the actual sentence.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: An edited sentence + a reason connected to this lesson’s language target.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: An edited sentence + a reason connected to this lesson’s language target.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 23 · 80–82 · Build the document you will point to.**
 
-Task: Make an annotated source card or five-part organizer. Use short labels, large text and a source credit; show what the visual helps a reader understand.
+Task: Create or refine the week’s visual document in the project studio. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation. Use your own content and give credits.
 
-Product: A labeled visual draft with a source credit.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A labeled visual draft with a source credit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 24 · 82–85 · Teach a small part before the full talk.**
 
-Task: Point to the document, explain one source detail, and show how it became your sentence. Ask your listener to identify the sentence’s job.
+Task: Rehearse Festival Museum: Three Objects, One Story: Welcome to the museum: Introduce the real festival and your three-item story.Tour the exhibits: Show each image, explain the item and point to its written evidence.Connect the story: Explain how the three items and your paragraph reveal the celebration.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: A: 60-second explanation; B: 30-second feedback.; B: 60-second explanation; A: 30-second feedback.
+Checkpoints: Welcome to the museum: Introduce the real festival and your three-item story.; Tour the exhibits: Show each image, explain the item and point to its written evidence.; Connect the story: Explain how the three items and your paragraph reveal the celebration.
 
-Purpose and evidence: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.This is a short rehearsal, not the final 3–5-minute submission. The full paired teaching happens in the next lesson.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 25 · 85–88 · Exit ticket · show the writing skill.**
 
-Task: Write one source-supported detail, one sentence you improved, and one remaining question.
+Task: Name one source detail, one writing/design choice and the next improvement in your Festival Museum: Three Objects, One Story.
 
-Product: Three short responses: evidence, writing choice, next step.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: Three short responses: evidence, writing choice, next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 26 · 88–90 · Save today. Arrive ready next time.**
 
-Task: Export the annotated source notes, map and draft. For Lesson 4, bring two possible revision receipts and a plan for the credited organizer.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Bring the draft and organizer to the next lesson.
 
-Product: Exported writing + a named action for the next lesson.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: Exported writing + a named action for the next lesson.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -1453,33 +1562,33 @@ Purpose and evidence: Exported writing + a named action for the next lesson.Show
 
 **Canvas 27 · Import detector**
 
-Compare a Muscat detail with a Las Fallas detail. Explain why facts cannot move between sources.MAKE / KEEPA two-source boundary note.
+Optional skill practice. Use the current Week 2 brief for submitted products.Compare a Muscat detail with a Las Fallas detail. Explain why facts cannot move between sources.MAKE / KEEPA two-source boundary note.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A two-source boundary note.
 
 
 **Canvas 28 · Three openings**
 
-Write an event-led, source-led and place-led opening. Choose the clearest.MAKE / KEEPThree openings and an editorial choice.
+Optional skill practice. Use the current Week 2 brief for submitted products.Write an event-led, source-led and place-led opening. Choose the clearest.MAKE / KEEPThree openings and an editorial choice.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Three openings and an editorial choice.
 
 
 **Canvas 29 · Gap question**
 
-Turn an unsupported food/clothes assumption into a research question.MAKE / KEEPA question and a suitable source type.
+Optional skill practice. Use the current Week 2 brief for submitted products.Turn an unsupported food/clothes assumption into a research question.MAKE / KEEPA question and a suitable source type.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A question and a suitable source type.
 
 
 **Canvas 30 · Sentence expansion ladder**
 
-Expand a subject–verb core three times without adding unsupported facts.MAKE / KEEPA three-step sentence ladder.
+Optional skill practice. Use the current Week 2 brief for submitted products.Expand a subject–verb core three times without adding unsupported facts.MAKE / KEEPA three-step sentence ladder.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A three-step sentence ladder.
 
 
-## Unit 2 · Lesson 4 · Festival Editor: Revise and Publish
+## Unit 2 · Lesson 4 · Festival Museum: Three Objects, One Story · Create, Revise and Teach
 
 Design: **Culture Zine**. Lilac cut-paper · bold outlines · playful type
 
@@ -1487,51 +1596,51 @@ Design: **Culture Zine**. Lilac cut-paper · bold outlines · playful type
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | Cut. Move. Rewrite.Publish with care. | A coherent Muscat paragraph, two explained revisions and a full TTD #2 teaching rehearsal. |
-| 01–02 | 2 | Your 90-minute route. | Leave with a written product, source evidence, a meaningful revision and a clear next step. |
+| 00–01 | 1 | Three objects.One festival story. | 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video. |
 | 02–05 | 3 | Read your draft with the title covered. | A tested opening sentence. |
 | 05–07 | 4 | The paragraph is a reader’s route. | One organization problem to investigate. |
 | 07–10 | 5 | Topic / support / conclusion. | Three role labels + a reason. |
 | 10–15 | 6 | Holi · give the sentences a sequence. | A checked sequence and two linking clues. |
 | 15–18 | 7 | Las Fallas · map to model. | Two map-to-sentence links. |
 | 18–21 | 8 | Transfer the move, keep the sources apart. | One revised sentence sequence in your own plan. |
-| 21–23 | 9 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 23–25 | 9 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
+| 21–23 | 9 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 23–25 | 9 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
 | 25–28 | 10 | Join the ideas, not just the words. | One complete supported sentence. |
 | 28–31 | 11 | Find the misplaced sentence. | A sentence move with a reader-centered reason. |
 | 31–34 | 12 | Use the book’s language checklist. | Two checked language choices. |
-| 34–36 | 13 | Teach the Document #2 · reconnect. | A packet with the document, draft and revision evidence open. |
-| 36–38 | 14 | Use the rubric as a revision tool. | One priority criterion and one sentence explaining the needed improvement. |
-| 38–41 | 15 | Choose two changes before rewriting. | One meaning/evidence goal + one language goal. |
-| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | A coherent final descriptive paragraph with source-faithful details. |
-| 53–55 | 17 | Read it as someone new to the topic. | Two underlined strengths and one circled problem to discuss. |
-| 55–56 | 18 | Before you exchange the paragraph… | A partner and a specific question for the reader. |
-| 56–61 | 19 | Five-minute peer conference. | One located problem, one suggested repair and the writer’s decision. |
-| 61–65 | 20 | Revise the content before polishing. | A meaningful before → after → reason revision receipt. |
-| 65–68 | 20 | Edit the language that carries the meaning. | The final language revision receipt + corrected paragraph. |
-| 68–70 | 21 | A visual should help a listener read. | A credited document with readable labels and selected annotations. |
-| 70–73 | 22 | Build a 4-minute teaching route. | A cue outline, not a paragraph read aloud without explanation. |
-| 73–74 | 23 | Partners A and B · set the stage. | Document visible, listener question ready, roles assigned. |
-| 74–78 | 24 | TTD #2 · Partner A teaches. | A 4-minute explanation with a document-based listener check. |
-| 78–79 | 24 | Listener B · one minute of feedback. | One accurate observation + one next action for A. |
-| 79–83 | 24 | TTD #2 · Partner B teaches. | B’s 4-minute explanation; A answers the source question. |
-| 83–84 | 24 | Listener A · one minute of feedback. | One accurate observation + one next action for B. |
-| 84–86 | 25 | Make the rehearsal improve the writing. | One final change based on the listener’s response. |
-| 86–88 | 26 | Exit ticket · prove the skill. | A short written self-assessment with evidence from your paragraph. |
-| 88–90 | 27 | Check the packet. Export. Keep it. | A final packet and an exported editable copy. |
+| 34–36 | 13 | Teach the Document #2 · reconnect. | A specific decision that improves the current weekly project. |
+| 36–38 | 14 | Use the rubric as a revision tool. | One priority and a concrete improvement. |
+| 38–41 | 15 | Choose two changes before rewriting. | A task-specific organizer linked to your writing. |
+| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 53–55 | 17 | Read it as someone new to the topic. | A specific decision that improves the current weekly project. |
+| 55–56 | 18 | Before you exchange the paragraph… | A specific decision that improves the current weekly project. |
+| 56–61 | 19 | Five-minute peer conference. | One keep comment, one revision suggestion and the writer’s decision. |
+| 61–65 | 20 | Revise the content before polishing. | A better draft and an explained class revision. |
+| 65–68 | 20 | Edit the language that carries the meaning. | A better draft and an explained class revision. |
+| 68–70 | 21 | A visual should help a listener read. | A readable creative document that supports the required writing. |
+| 70–73 | 22 | Build a 4-minute teaching route. | An explanation of your evidence, design and writing choices. |
+| 73–74 | 23 | Partners A and B · set the stage. | An explanation of your evidence, design and writing choices. |
+| 74–78 | 24 | TTD #2 · Partner A teaches. | An explanation of your evidence, design and writing choices. |
+| 78–79 | 24 | Listener B · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 79–83 | 24 | TTD #2 · Partner B teaches. | An explanation of your evidence, design and writing choices. |
+| 83–84 | 24 | Listener A · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 84–86 | 25 | Make the rehearsal improve the writing. | A specific decision that improves the current weekly project. |
+| 86–88 | 26 | Exit ticket · prove the skill. | Three short evidence-based reflections. |
+| 88–90 | 27 | Check the packet. Export. Keep it. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 2 (pp.36–57). All Unit 2 page scans from the supplied lesson are embedded.Students need paper or the Writing Desk. Browser export works offline; official-source links need internet. For the publisher’s New Year video, use licensed course access if available. The presentation contains a clearly labeled reading-based fallback; it does not invent video answers.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Become a museum curator: choose three items from one real festival, create three illustrated exhibit cards and an 8–10-sentence explanatory paragraph, then record a source-based museum tour.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
-Support: give the sentence frame, allow a short bilingual vocabulary gloss, and ask for six accurate core sentences before expanding to the course target. Keep the same evidence and paragraph goals. Stretch: add a specific, source-backed detail or justify a sentence deletion; do not simply add difficult vocabulary. Use paired teaching so every student gets speaking time. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · Cut. Move. Rewrite.Publish with care.**
+**Canvas 1 · 00–01 · Three objects.One festival story.**
 
-Task: How can a reader picture a celebration from your paragraph?
+Task: Become a museum curator: choose three items from one real festival, create three illustrated exhibit cards and an 8–10-sentence explanatory paragraph, then record a source-based museum tour.
 
-Product: A coherent Muscat paragraph, two explained revisions and a full TTD #2 teaching rehearsal.
+Product: 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video
 
 Purpose and evidence: A coherent Muscat paragraph, two explained revisions and a full TTD #2 teaching rehearsal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -1540,7 +1649,7 @@ Purpose and evidence: A coherent Muscat paragraph, two explained revisions and a
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: Leave with a written product, source evidence, a meaningful revision and a clear next step.
+Product: I can complete the current weekly products: 3 illustrated exhibit cards · 8–10 sentences · Source-supported links · Museum-tour video.
 
 Purpose and evidence: Leave with a written product, source evidence, a meaningful revision and a clear next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -1569,7 +1678,7 @@ Task: On p.52, choose ONE paragraph and label its topic, supporting detail and e
 
 Product: Three role labels + a reason.
 
-Purpose and evidence: Three role labels + a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.52 · page guidanceExercise 1: paragraph topics: Festival: a, c, e, h; City: b, d, f, g, i.Exercise 2: sentence roles: Topic is the Teacher’s Day opening sentence; middle sentences support; last “To summarize…” concludes.
+Purpose and evidence: Three role labels + a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.52 · page guidanceExercise 1: paragraph topics: Festival: a, c, e, h; City: b, d, f, g, i.Exercise 2: sentence roles: Topic is the Teacher’s Day opening sentence; middle sentences support; last “To summarize…” concludes. Textbook skill practice: p.52. The current weekly brief controls the submitted project.
 
 Book p.52 · Exercise 1: paragraph topics: Festival: a, c, e, h; City: b, d, f, g, i.
 
@@ -1582,7 +1691,7 @@ Task: Use p.53’s ordering task. Find a plausible opening and ending, then orde
 
 Product: A checked sequence and two linking clues.
 
-Purpose and evidence: A checked sequence and two linking clues.Students work from the complete embedded task. Ask them to justify the order using meaning/reference, not a memorized answer.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.53 · page guidanceHoli sentence roles: c = topic; b, e, a = supporting; d = conclusion.Coherent order: c → b → e → a → d is a reasonable ordering.
+Purpose and evidence: A checked sequence and two linking clues.Students work from the complete embedded task. Ask them to justify the order using meaning/reference, not a memorized answer.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.53 · page guidanceHoli sentence roles: c = topic; b, e, a = supporting; d = conclusion.Coherent order: c → b → e → a → d is a reasonable ordering. Textbook skill practice: p.53. The current weekly brief controls the submitted project.
 
 Book p.53 · Holi sentence roles: c = topic; b, e, a = supporting; d = conclusion.
 
@@ -1595,7 +1704,7 @@ Task: On pp.54–55, trace TWO notes from the ideas map to the model paragraph. 
 
 Product: Two map-to-sentence links.
 
-Purpose and evidence: Two map-to-sentence links.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.54 · page guidanceModel event: Las Fallas, Valencia Spain; idea map includes WHEN, WHERE, FOOD/DRINKS, ACTIVITIES, CLOTHES.Model fill-ins: (1) March (2) 17th (3) parade (4) beach (5) paella (6) rice (7) red (8) clothes.Book p.55 · page guidanceWrite first draft: Check model and idea map, then write the paragraph about your own event.
+Purpose and evidence: Two map-to-sentence links.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.54 · page guidanceModel event: Las Fallas, Valencia Spain; idea map includes WHEN, WHERE, FOOD/DRINKS, ACTIVITIES, CLOTHES.Model fill-ins: (1) March (2) 17th (3) parade (4) beach (5) paella (6) rice (7) red (8) clothes.Book p.55 · page guidanceWrite first draft: Check model and idea map, then write the paragraph about your own event. Textbook skill practice: p.54, p.55. The current weekly brief controls the submitted project.
 
 Book p.54 · Model event: Las Fallas, Valencia Spain; idea map includes WHEN, WHERE, FOOD/DRINKS, ACTIVITIES, CLOTHES.
 
@@ -1610,7 +1719,7 @@ Task: Choose a useful organization move from the Las Fallas model. Apply the mov
 
 Product: One revised sentence sequence in your own plan.
 
-Purpose and evidence: One revised sentence sequence in your own plan.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.Book p.54 · page guidanceModel event: Las Fallas, Valencia Spain; idea map includes WHEN, WHERE, FOOD/DRINKS, ACTIVITIES, CLOTHES.Model fill-ins: (1) March (2) 17th (3) parade (4) beach (5) paella (6) rice (7) red (8) clothes.Book p.55 · page guidanceWrite first draft: Check model and idea map, then write the paragraph about your own event.
+Purpose and evidence: One revised sentence sequence in your own plan.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.44 · page guidanceReading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.Book p.54 · page guidanceModel event: Las Fallas, Valencia Spain; idea map includes WHEN, WHERE, FOOD/DRINKS, ACTIVITIES, CLOTHES.Model fill-ins: (1) March (2) 17th (3) parade (4) beach (5) paella (6) rice (7) red (8) clothes.Book p.55 · page guidanceWrite first draft: Check model and idea map, then write the paragraph about your own event. Textbook skill practice: p.44, p.54, p.55. The current weekly brief controls the submitted project.
 
 Book p.44 · Reading 2: Text about Muscat Festival; avoid assuming facts not explicitly stated.
 
@@ -1623,20 +1732,24 @@ Book p.55 · Write first draft: Check model and idea map, then write the paragra
 
 **Canvas 9 · 21–23 · Model lab · opening and support**
 
-Task: Find the opening source frame and the first group of details. Name the paragraph’s organizing principle.
+Task: Read the current Festival Museum: Three Objects, One Story model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 9 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Detail, Explanation, Detail, Evidence, Detail, Explanation, Summary, Qualification
 
 
 **Canvas 9 · 23–25 · Model lab · development and ending**
 
-Task: Explain which support leads naturally to the conclusion. Identify one possible content revision and one language revision.
+Task: Read the current Festival Museum: Three Objects, One Story model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 9 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Detail, Explanation, Detail, Evidence, Detail, Explanation, Summary, Qualification
 
 
 **Canvas 10 · 25–28 · Join the ideas, not just the words.**
@@ -1665,194 +1778,240 @@ Task: Choose TWO relevant p.56 checklist items and apply them to your paragraph.
 
 Product: Two checked language choices.
 
-Purpose and evidence: Two checked language choices.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.56 · page guidanceReview: Use both task and language checklists to revise content, grammar, and punctuation.
+Purpose and evidence: Two checked language choices.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.56 · page guidanceReview: Use both task and language checklists to revise content, grammar, and punctuation. Textbook skill practice: p.56. The current weekly brief controls the submitted project.
 
 Book p.56 · Review: Use both task and language checklists to revise content, grammar, and punctuation.
 
 
 **Canvas 13 · 34–36 · Teach the Document #2 · reconnect.**
 
-Task: Reopen the same assignment’s source, map, paragraph and revision notes. Identify what is finished and what still needs work.
+Task: Prepare, check or reflect on your Festival Museum: Three Objects, One Story. Use the required products and the worked example as your checklist.
 
-Product: A packet with the document, draft and revision evidence open.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A packet with the document, draft and revision evidence open.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 14 · 36–38 · Use the rubric as a revision tool.**
 
-Task: Check source accuracy and paragraph organization first. Choose a rubric area that needs a visible improvement before teaching.
+Task: Use the suggested teaching rubric to prioritize improvement. The submission checklist follows the Word document; class revision practice supports the work.
 
-Product: One priority criterion and one sentence explaining the needed improvement.
+Product: One priority and a concrete improvement.
 
-Purpose and evidence: One priority criterion and one sentence explaining the needed improvement.Use the assignment’s exact five rubric categories in the brief. These five labels summarize the categories; assess the full descriptors, not word count or checkbox totals.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 15 · 38–41 · Choose two changes before rewriting.**
 
-Task: Use p.56’s task checklist. Select one organization repair and one source/language repair. Keep both original sentences for the revision receipts.
+Task: Complete this week’s project planner. Become a museum curator: choose three items from one real festival, create three illustrated exhibit cards and an 8–10-sentence explanatory paragraph, then record a source-based museum tour.
 
-Product: One meaning/evidence goal + one language goal.
+Product: A task-specific organizer linked to your writing.
 
 Starting phrase: I will improve ___ by ___. My reader will be able to ___.
 
-Purpose and evidence: One meaning/evidence goal + one language goal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I will improve ___ by ___. My reader will be able to ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 16 · 41–53 · Writing studio · 12 uninterrupted minutes.**
 
-Task: Rebuild your 8–10-sentence Muscat paragraph where needed. Keep related details together, use the book-account frame, and remove any invented food/clothing rule.
+Task: Write and develop your own paragraph for Festival Museum: Three Objects, One Story. Use 8–10 sentences, your organizer and source evidence. Keep each supporting idea relevant to the same document or position.
 
-Product: A coherent final descriptive paragraph with source-faithful details.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: The ___ festival is ___. It takes place ___. During the celebration, ___. Overall, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: repair the biggest content or organization problem.; 3–9 min: develop support and connect the sentences.; 9–12 min: read the paragraph as a whole and check the ending.
 
-Purpose and evidence: A coherent final descriptive paragraph with source-faithful details.Protect twelve minutes of independent writing. A student without a first draft starts from today’s planner; an early finisher checks claims against the source and improves precision. Do not require extra length as a substitute for revision.Support: The ___ festival is ___. It takes place ___. During the celebration, ___. Overall, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 17 · 53–55 · Read it as someone new to the topic.**
 
-Task: Underline the topic sentence. Trace two details to the source. Circle a sentence whose role is unclear.
+Task: Prepare, check or reflect on your Festival Museum: Three Objects, One Story. Use the required products and the worked example as your checklist.
 
-Product: Two underlined strengths and one circled problem to discuss.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: Two underlined strengths and one circled problem to discuss.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 18 · 55–56 · Before you exchange the paragraph…**
 
-Task: Check the event/place, sequence and source-based details. Ask where the reader needs a more precise noun or action.
+Task: Prepare, check or reflect on your Festival Museum: Three Objects, One Story. Use the required products and the worked example as your checklist.
 
-Product: A partner and a specific question for the reader.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A partner and a specific question for the reader.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 19 · 56–61 · Five-minute peer conference.**
 
-Task: Read the paragraph without interrupting. Underline the topic; number the supporting details. Trace two details to the source and suggest one improvement.
+Task: Check your partner’s Festival Museum: Three Objects, One Story against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One located problem, one suggested repair and the writer’s decision.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: I understood ___. I could not verify ___. Try ___ because ___.
 
 Checkpoints: 0–2 min: A checks B’s work against the task and source.; 2–4 min: B checks A’s work against the task and source.; 4–5 min: both record the action they will take.
 
-Purpose and evidence: One located problem, one suggested repair and the writer’s decision.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I understood ___. I could not verify ___. Try ___ because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 20 · 61–65 · Revise the content before polishing.**
 
-Task: Move, remove or replace a detail so the paragraph has a clearer route. Cite p.44 if the repair changes factual content.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: A meaningful before → after → reason revision receipt.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: A meaningful before → after → reason revision receipt.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 20 · 65–68 · Edit the language that carries the meaning.**
 
-Task: Use p.56’s checklist to edit the corrected paragraph. Save a second receipt that explains a complete sentence or time/place improvement.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: The final language revision receipt + corrected paragraph.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: The final language revision receipt + corrected paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 21 · 68–70 · A visual should help a listener read.**
 
-Task: Make an annotated source card or five-part organizer. Use short labels, large text and a source credit; show what the visual helps a reader understand.
+Task: Create or refine the week’s visual document in the project studio. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation. Use your own content and give credits.
 
-Product: A credited document with readable labels and selected annotations.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A credited document with readable labels and selected annotations.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 22 · 70–73 · Build a 4-minute teaching route.**
 
-Task: Teach p.44 → annotations → five-part plan → paragraph. Explain one organization revision and one language revision, then ask a question about the document.
+Task: Rehearse Festival Museum: Three Objects, One Story: Welcome to the museum: Introduce the real festival and your three-item story.Tour the exhibits: Show each image, explain the item and point to its written evidence.Connect the story: Explain how the three items and your paragraph reveal the celebration.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: A cue outline, not a paragraph read aloud without explanation.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: A cue outline, not a paragraph read aloud without explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Welcome to the museum: Introduce the real festival and your three-item story.; Tour the exhibits: Show each image, explain the item and point to its written evidence.; Connect the story: Explain how the three items and your paragraph reveal the celebration.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 23 · 73–74 · Partners A and B · set the stage.**
 
-Task: Assign A/B. Open your source and paragraph side by side. Display only the selected annotations. Set the activity timer to four minutes.
+Task: Rehearse Festival Museum: Three Objects, One Story: Welcome to the museum: Introduce the real festival and your three-item story.Tour the exhibits: Show each image, explain the item and point to its written evidence.Connect the story: Explain how the three items and your paragraph reveal the celebration.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: Document visible, listener question ready, roles assigned.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: Document visible, listener question ready, roles assigned.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Welcome to the museum: Introduce the real festival and your three-item story.; Tour the exhibits: Show each image, explain the item and point to its written evidence.; Connect the story: Explain how the three items and your paragraph reveal the celebration.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 24 · 74–78 · TTD #2 · Partner A teaches.**
 
-Task: Show your annotated source and explain how you selected and ordered details. Demonstrate both revisions and test a source-reading point.
+Task: Rehearse Festival Museum: Three Objects, One Story: Welcome to the museum: Introduce the real festival and your three-item story.Tour the exhibits: Show each image, explain the item and point to its written evidence.Connect the story: Explain how the three items and your paragraph reveal the celebration.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: A 4-minute explanation with a document-based listener check.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: identify the source and writing question.; 0:40–1:40: teach the evidence and a limitation.; 1:40–2:40: explain the paragraph’s organization.; 2:40–3:30: explain revision choices.; 3:30–4:00: ask, pause, answer and credit.
+Checkpoints: Welcome to the museum: Introduce the real festival and your three-item story.; Tour the exhibits: Show each image, explain the item and point to its written evidence.; Connect the story: Explain how the three items and your paragraph reveal the celebration.
 
-Purpose and evidence: A 4-minute explanation with a document-based listener check.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 24 · 78–79 · Listener B · one minute of feedback.**
 
-Task: Name one source detail that was explained clearly. Ask one precise question about the paragraph or revision.
+Task: Rehearse Festival Museum: Three Objects, One Story: Welcome to the museum: Introduce the real festival and your three-item story.Tour the exhibits: Show each image, explain the item and point to its written evidence.Connect the story: Explain how the three items and your paragraph reveal the celebration.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: One accurate observation + one next action for A.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for A.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Welcome to the museum: Introduce the real festival and your three-item story.; Tour the exhibits: Show each image, explain the item and point to its written evidence.; Connect the story: Explain how the three items and your paragraph reveal the celebration.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 24 · 79–83 · TTD #2 · Partner B teaches.**
 
-Task: Show your annotated source and explain how you selected and ordered details. Demonstrate both revisions and test a source-reading point.
+Task: Rehearse Festival Museum: Three Objects, One Story: Welcome to the museum: Introduce the real festival and your three-item story.Tour the exhibits: Show each image, explain the item and point to its written evidence.Connect the story: Explain how the three items and your paragraph reveal the celebration.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: B’s 4-minute explanation; A answers the source question.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: source and question.; 0:40–1:40: evidence and limit.; 1:40–2:40: paragraph choices.; 2:40–3:30: revision choices.; 3:30–4:00: listener check and credits.
+Checkpoints: Welcome to the museum: Introduce the real festival and your three-item story.; Tour the exhibits: Show each image, explain the item and point to its written evidence.; Connect the story: Explain how the three items and your paragraph reveal the celebration.
 
-Purpose and evidence: B’s 4-minute explanation; A answers the source question.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 24 · 83–84 · Listener A · one minute of feedback.**
 
-Task: Name one source detail that was explained clearly. Ask one precise question about the paragraph or revision.
+Task: Rehearse Festival Museum: Three Objects, One Story: Welcome to the museum: Introduce the real festival and your three-item story.Tour the exhibits: Show each image, explain the item and point to its written evidence.Connect the story: Explain how the three items and your paragraph reveal the celebration.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: One accurate observation + one next action for B.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for B.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Welcome to the museum: Introduce the real festival and your three-item story.; Tour the exhibits: Show each image, explain the item and point to its written evidence.; Connect the story: Explain how the three items and your paragraph reveal the celebration.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 25 · 84–86 · Make the rehearsal improve the writing.**
 
-Task: Apply one useful listener comment to the writing or visual. Explain why you accepted it.
+Task: Prepare, check or reflect on your Festival Museum: Three Objects, One Story. Use the required products and the worked example as your checklist.
 
-Product: One final change based on the listener’s response.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One final change based on the listener’s response.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 26 · 86–88 · Exit ticket · prove the skill.**
 
-Task: Use p.57’s objectives to name a skill you can demonstrate. Quote one sentence as evidence and state a next step.
+Task: Name one source detail, one writing/design choice and the next improvement in your Festival Museum: Three Objects, One Story.
 
-Product: A short written self-assessment with evidence from your paragraph.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: A short written self-assessment with evidence from your paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 **Canvas 27 · 88–90 · Check the packet. Export. Keep it.**
 
-Task: Check all seven TTD #2 requirements and export the final packet. Keep the comparison between your first and final drafts for the Unit 3 writing bridge.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Submit the products named in the Word-document brief using your teacher’s route/date.
 
-Product: A final packet and an exported editable copy.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: A final packet and an exported editable copy.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
+
+Answer/model: Possible model: Aomori Nebuta: an illuminated float, a parade drum and a haneto outfit. The three original diagrams are schematic teaching illustrations; source-based descriptions explain visual art, sound and participation.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -1860,33 +2019,33 @@ Purpose and evidence: A final packet and an exported editable copy.Show the task
 
 **Canvas 28 · Reverse outline**
 
-Give every sentence of your final paragraph a two-word job label. Remove a duplicate.MAKE / KEEPA reverse outline and one decision.
+Optional skill practice. Use the current Week 2 brief for submitted products.Give every sentence of your final paragraph a two-word job label. Remove a duplicate.MAKE / KEEPA reverse outline and one decision.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A reverse outline and one decision.
 
 
 **Canvas 29 · Editorial note**
 
-Write a 60-word note explaining your two most useful revisions.MAKE / KEEPA process reflection with examples.
+Optional skill practice. Use the current Week 2 brief for submitted products.Write a 60-word note explaining your two most useful revisions.MAKE / KEEPA process reflection with examples.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A process reflection with examples.
 
 
 **Canvas 30 · Audience swap**
 
-Adapt the opening for a younger reader without changing the facts.MAKE / KEEPA rewritten opening and explanation.
+Optional skill practice. Use the current Week 2 brief for submitted products.Adapt the opening for a younger reader without changing the facts.MAKE / KEEPA rewritten opening and explanation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A rewritten opening and explanation.
 
 
 **Canvas 31 · Portfolio curation**
 
-Select your best descriptive sentence and explain its evidence and craft.MAKE / KEEPA short portfolio annotation.
+Optional skill practice. Use the current Week 2 brief for submitted products.Select your best descriptive sentence and explain its evidence and craft.MAKE / KEEPA short portfolio annotation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A short portfolio annotation.
 
 
-## Unit 3 · Lesson 1 · Digital Privacy: Read and Plan
+## Unit 3 · Lesson 1 · The Privacy Survival Guide · Investigate and Draft
 
 Design: **Privacy Lab**. Green terminal · dark dashboard · evidence logs
 
@@ -1894,8 +2053,8 @@ Design: **Privacy Lab**. Green terminal · dark dashboard · evidence logs
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | Your data.Your choices.Your argument. | A source/evidence/inference table, a privacy-control position and an 8–10-sentence first draft for TTD #3. |
-| 01–02 | 2 | Your 90-minute route. | I can separate source statements from my own view, develop at least two reasons, and qualify an unsupported claim. |
+| 00–01 | 1 | Your digital life.Your survival guide. | Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video. |
 | 02–05 | 3 | A new purpose for the same paragraph skills. | Two sentences labeled description / opinion. |
 | 05–07 | 4 | A targeted advert is a clue. | One cautious inference and one limit. |
 | 07–10 | 5 | Vocabulary as a process. | Three checked meanings and a process phrase. |
@@ -1904,41 +2063,41 @@ Design: **Privacy Lab**. Green terminal · dark dashboard · evidence logs
 | 18–21 | 8 | Source / inference / unsupported. | Three classifications + one explanation. |
 | 21–23 | 9 | The reason is yours to explain. | An explanation linking evidence to a reason. |
 | 23–25 | 10 | Try a cautious source sentence. | Two sentences that separate source and interpretation. |
-| 25–27 | 11 | Teach the Document #3 · START HERE | A p.63 evidence table, one clear position, an 8–10-sentence opinion paragraph, two revisions, an annotated visual and a 3–5-minute lesson. |
-| 27–29 | 11 | Your document is on the table. | Two paragraph references and one limit to the source. |
-| 29–31 | 11 | Annotate. Locate. Explain. | S / S / I / L evidence notes with source locations. |
-| 31–34 | 11 | Begin the assignment in class. | A position + two reason/evidence/explanation chains. |
-| 34–35 | 11 | What must your packet contain? | Circle what is already started. Put a star beside the next action for Lesson 2. |
-| 35–37 | 12 | The position should be easy to find. | One clear opinion topic sentence. |
+| 25–27 | 11 | The Privacy Survival Guide | Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video |
+| 27–29 | 11 | Explore the worked document | A named product, a located source detail and a design choice you can explain. |
+| 29–31 | 11 | Trace evidence and explain choices | Three labeled evidence notes and one useful research question. |
+| 31–34 | 11 | Begin your own project | A project-specific organizer and an original opening sentence. |
+| 34–35 | 11 | Check this week’s required products | A truthful checklist and your next step. |
+| 35–37 | 12 | The position should be easy to find. | A clear opinion topic sentence for the Privacy Survival Guide. |
 | 37–40 | 13 | Because should explain a reason. | A reason + because-clause with added meaning. |
 | 40–43 | 14 | Qualify the size of the claim. | A defensible source statement + one self-edit. |
-| 43–45 | 15 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 45–47 | 15 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
-| 47–50 | 16 | Plan the jobs before the sentences. | Two or more reason/evidence/explanation chains and a consistent ending. |
-| 50–52 | 17 | A partner tests the plan. | One precise suggestion and one decision recorded by the writer. |
-| 52–53 | 18 | Set up a quiet writing sprint. | A visible plan, source, and a blank paragraph space. |
-| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An 8–10-sentence privacy-control draft with scoped source use. |
-| 67–68 | 20 | Peer review · agree on the reader’s job. | Partner names + the part each reader will verify. |
-| 68–73 | 21 | Peer conference · evidence before advice. | One “keep” comment and one actionable “revise” comment per writer. |
-| 73–77 | 22 | Revision 1 · improve the meaning. | Before → after → why, with an improved sentence in the paragraph. |
-| 77–80 | 22 | Revision 2 · make the language accurate. | An edited sentence + a reason connected to this lesson’s language target. |
-| 80–82 | 23 | Build the document you will point to. | A labeled visual draft with a source credit. |
-| 82–85 | 24 | Teach a small part before the full talk. | Each partner gives a 60-second document explanation and receives 30 seconds of feedback. |
-| 85–88 | 25 | Exit ticket · show the writing skill. | Three short responses: evidence, writing choice, next step. |
-| 88–90 | 26 | Save today. Arrive ready next time. | Exported writing + a named action for the next lesson. |
+| 43–45 | 15 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 45–47 | 15 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
+| 47–50 | 16 | Plan the jobs before the sentences. | A task-specific organizer linked to your writing. |
+| 50–52 | 17 | A partner tests the plan. | A specific decision that improves the current weekly project. |
+| 52–53 | 18 | Set up a quiet writing sprint. | A specific decision that improves the current weekly project. |
+| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 67–68 | 20 | Peer review · agree on the reader’s job. | One keep comment, one revision suggestion and the writer’s decision. |
+| 68–73 | 21 | Peer conference · evidence before advice. | One keep comment, one revision suggestion and the writer’s decision. |
+| 73–77 | 22 | Revision 1 · improve the meaning. | A better draft and an explained class revision. |
+| 77–80 | 22 | Revision 2 · make the language accurate. | A better draft and an explained class revision. |
+| 80–82 | 23 | Build the document you will point to. | A readable creative document that supports the required writing. |
+| 82–85 | 24 | Teach a small part before the full talk. | An explanation of your evidence, design and writing choices. |
+| 85–88 | 25 | Exit ticket · show the writing skill. | Three short evidence-based reflections. |
+| 88–90 | 26 | Save today. Arrive ready next time. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 3 (pp.58–79). The complete unit and contents pp.4–5 are embedded. Reading 1: personal information/advertising; Reading 2: children and video games. The actual pp.69–78 language, critical-thinking, topic-sentence, planner and checklist tasks support the final opinion paragraph.The publisher advertising video is separate; the labeled p.63 reading fallback works offline. Students need paper or the Writing Desk. Export writing before switching computers.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Protect your digital life: submit a brainstorming organizer, an original one-page Privacy Survival Guide with three risks/solutions and 1–2 opinion paragraphs (8–12 sentences total), and a 3–5-minute teaching video.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
-Support: rehearse an opinion orally, use “I think ___ because ___,” and develop two accurate reasons before expanding to the course target. Keep source and inference separate. Stretch: qualify the scope of a claim, remove irrelevant evidence or explain why a counterpoint does not change the chosen position. All students retain the same one-sided writing goal. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · Your data.Your choices.Your argument.**
+**Canvas 1 · 00–01 · Your digital life.Your survival guide.**
 
-Task: How can evidence make one clear position convincing?
+Task: Protect your digital life: submit a brainstorming organizer, an original one-page Privacy Survival Guide with three risks/solutions and 1–2 opinion paragraphs (8–12 sentences total), and a 3–5-minute teaching video.
 
-Product: A source/evidence/inference table, a privacy-control position and an 8–10-sentence first draft for TTD #3.
+Product: Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video
 
 Purpose and evidence: A source/evidence/inference table, a privacy-control position and an 8–10-sentence first draft for TTD #3.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -1947,7 +2106,7 @@ Purpose and evidence: A source/evidence/inference table, a privacy-control posit
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: I can separate source statements from my own view, develop at least two reasons, and qualify an unsupported claim.
+Product: I can complete the current weekly products: Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video.
 
 Purpose and evidence: I can separate source statements from my own view, develop at least two reasons, and qualify an unsupported claim.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -1958,7 +2117,7 @@ Task: Write one descriptive sentence about a phone. Then write one opinion about
 
 Product: Two sentences labeled description / opinion.
 
-Purpose and evidence: Two sentences labeled description / opinion.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.58 · page guidanceObjectives: Advertising video; main ideas; inferences; appropriate answers; opinions and connections; topic sentences; one-sided opinion paragraph.
+Purpose and evidence: Two sentences labeled description / opinion.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.58 · page guidanceObjectives: Advertising video; main ideas; inferences; appropriate answers; opinions and connections; topic sentences; one-sided opinion paragraph. Textbook skill practice: p.58. The current weekly brief controls the submitted project.
 
 Book p.58 · Objectives: Advertising video; main ideas; inferences; appropriate answers; opinions and connections; topic sentences; one-sided opinion paragraph.
 
@@ -1969,7 +2128,7 @@ Task: You see an advert for a university course. What might you infer? What can 
 
 Product: One cautious inference and one limit.
 
-Purpose and evidence: One cautious inference and one limit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.65 · page guidanceInferences: Adverts may suggest education, music or technology interests, but do not prove exact age. Exercise 8: a, c and d are defensible inferences; b lacks support in this text.
+Purpose and evidence: One cautious inference and one limit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.65 · page guidanceInferences: Adverts may suggest education, music or technology interests, but do not prove exact age. Exercise 8: a, c and d are defensible inferences; b lacks support in this text. Textbook skill practice: p.65. The current weekly brief controls the submitted project.
 
 Book p.65 · Inferences: Adverts may suggest education, music or technology interests, but do not prove exact age. Exercise 8: a, c and d are defensible inferences; b lacks support in this text.
 
@@ -1980,7 +2139,7 @@ Task: Select THREE p.62 vocabulary items. Connect them in a short explanation of
 
 Product: Three checked meanings and a process phrase.
 
-Purpose and evidence: Three checked meanings and a process phrase.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.62 · page guidanceVocabulary: a advert; b interest; c collect; d free; e security; f record; g software; h secret.Topic: Best preview: dangers of the internet.
+Purpose and evidence: Three checked meanings and a process phrase.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.62 · page guidanceVocabulary: a advert; b interest; c collect; d free; e security; f record; g software; h secret.Topic: Best preview: dangers of the internet. Textbook skill practice: p.62. The current weekly brief controls the submitted project.
 
 Book p.62 · Vocabulary: a advert; b interest; c collect; d free; e security; f record; g software; h secret.
 
@@ -1993,7 +2152,7 @@ Task: Read p.63, “Someone’s always watching you online.” Give each paragra
 
 Product: Paragraph labels + one evidence-based choice.
 
-Purpose and evidence: Paragraph labels + one evidence-based choice.Students skim the full article for structure. Unknown words that do not block the main idea can wait for the detail pass.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.Book p.64 · page guidanceExercise 5: 1 take information without asking; 2 different adverts to different people.Exercise 6 — possible grouping: Find out: address, websites visited, online habits. Guess: age, gender, interests, other websites you might like. Sources: data broker, social media, websites. Some overlap is possible; justify from the text.
+Purpose and evidence: Paragraph labels + one evidence-based choice.Students skim the full article for structure. Unknown words that do not block the main idea can wait for the detail pass.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.Book p.64 · page guidanceExercise 5: 1 take information without asking; 2 different adverts to different people.Exercise 6 — possible grouping: Find out: address, websites visited, online habits. Guess: age, gender, interests, other websites you might like. Sources: data broker, social media, websites. Some overlap is possible; justify from the text. Textbook skill practice: p.63, p.64. The current weekly brief controls the submitted project.
 
 Book p.63 · Reading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
 
@@ -2008,7 +2167,7 @@ Task: Find the explanation of selected adverts and the explanation of brokers. R
 
 Product: Two source statements with references.
 
-Purpose and evidence: Two source statements with references.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: The reading explains using habits/interests to choose adverts and describes brokers selling information. Students locate and paraphrase the actual text.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
+Purpose and evidence: Two source statements with references.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: The reading explains using habits/interests to choose adverts and describes brokers selling information. Students locate and paraphrase the actual text.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account. Textbook skill practice: p.63. The current weekly brief controls the submitted project.
 
 Answer/model: The reading explains using habits/interests to choose adverts and describes brokers selling information. Students locate and paraphrase the actual text.
 
@@ -2021,7 +2180,7 @@ Task: Classify the three claims. Explain which one needs a broader source before
 
 Product: Three classifications + one explanation.
 
-Purpose and evidence: Three classifications + one explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.Book p.64 · page guidanceExercise 5: 1 take information without asking; 2 different adverts to different people.Exercise 6 — possible grouping: Find out: address, websites visited, online habits. Guess: age, gender, interests, other websites you might like. Sources: data broker, social media, websites. Some overlap is possible; justify from the text.
+Purpose and evidence: Three classifications + one explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.Book p.64 · page guidanceExercise 5: 1 take information without asking; 2 different adverts to different people.Exercise 6 — possible grouping: Find out: address, websites visited, online habits. Guess: age, gender, interests, other websites you might like. Sources: data broker, social media, websites. Some overlap is possible; justify from the text. Textbook skill practice: p.63, p.64. The current weekly brief controls the submitted project.
 
 Book p.63 · Reading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
 
@@ -2047,75 +2206,75 @@ Task: Write a sentence beginning “The article explains…” and a separate se
 
 Product: Two sentences that separate source and interpretation.
 
-Purpose and evidence: Two sentences that separate source and interpretation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
+Purpose and evidence: Two sentences that separate source and interpretation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account. Textbook skill practice: p.63. The current weekly brief controls the submitted project.
 
 Book p.63 · Reading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
 
 
-**Canvas 11 · 25–27 · Teach the Document #3 · START HERE**
+**Canvas 11 · 25–27 · The Privacy Survival Guide**
 
-Task: Use the p.63 article to answer: “Should people have clear control over how companies use their online information?” Take one position, support it with relevant source evidence and teach how the document shaped your paragraph.
+Task: Protect your digital life: submit a brainstorming organizer, an original one-page Privacy Survival Guide with three risks/solutions and 1–2 opinion paragraphs (8–12 sentences total), and a 3–5-minute teaching video.
 
-Product: A p.63 evidence table, one clear position, an 8–10-sentence opinion paragraph, two revisions, an annotated visual and a 3–5-minute lesson.
+Product: Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video
 
-Purpose and evidence: A p.63 evidence table, one clear position, an 8–10-sentence opinion paragraph, two revisions, an annotated visual and a 3–5-minute lesson.This is a ten-minute classroom workshop, not a homework announcement. It starts here in Unit 3, Lesson 1. Keep the document visible. The same assignment is completed and taught in Lesson 2.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
-**Canvas 11 · 27–29 · Your document is on the table.**
+**Canvas 11 · 27–29 · Explore the worked document**
 
-Task: Open p.63. Find the explanation of selected adverts and the paragraph about data brokers. Locate the exact words before drawing a conclusion.
+Task: Explore the complete worked example on this canvas. Identify its required products and trace one detail to its source.
 
-Product: Two paragraph references and one limit to the source.
+Product: A named product, a located source detail and a design choice you can explain.
 
-Purpose and evidence: Two paragraph references and one limit to the source.This is a course preparation question, not the official final Unit 3 question. The flow is a teacher-created summary of issues in the article, not a measured process diagram or current legal guidance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access. Textbook skill practice: p.63. The current weekly brief controls the submitted project.
 
 Book p.63 · Reading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
 
 
-**Canvas 11 · 29–31 · Annotate. Locate. Explain.**
+**Canvas 11 · 29–31 · Trace evidence and explain choices**
 
-Task: Label two source statements S. Label your own interpretation I. Write one L limitation the article cannot settle.
+Task: Read the evidence cards. Keep a fact, an explanation and a source limit for your own project.
 
-Product: S / S / I / L evidence notes with source locations.
+Product: Three labeled evidence notes and one useful research question.
 
-Purpose and evidence: S / S / I / L evidence notes with source locations.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: A source statement reports the reading; a policy preference is the writer’s opinion; a universal claim about every company is not established.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access. Textbook skill practice: p.63. The current weekly brief controls the submitted project.
 
 Answer/model: A source statement reports the reading; a policy preference is the writer’s opinion; a universal claim about every company is not established.
 
 Book p.63 · Reading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
 
 
-**Canvas 11 · 31–34 · Begin the assignment in class.**
+**Canvas 11 · 31–34 · Begin your own project**
 
-Task: Answer the privacy-control question with one position. Choose two reasons. Place a source statement next to each reason, then explain the connection.
+Task: Open the project planner. Start the week’s organizer and choose the main idea for your own writing.
 
-Product: A position + two reason/evidence/explanation chains.
+Product: A project-specific organizer and an original opening sentence.
 
-Starting phrase: People should / should not ___. One reason is ___ because ___. The reading explains ___. This matters because ___.
+Starting phrase: My document will show ___ using ___ because ___.
 
-Purpose and evidence: A position + two reason/evidence/explanation chains.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: People should / should not ___. One reason is ___ because ___. The reading explains ___. This matters because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access. Textbook skill practice: p.63. The current weekly brief controls the submitted project.
 
 Book p.63 · Reading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
 
 
-**Canvas 11 · 34–35 · What must your packet contain?**
+**Canvas 11 · 34–35 · Check this week’s required products**
 
-Task: Today: evidence table and draft. Next lesson: developed support, accurate connections, two revisions and full teaching. Keep a single position.
+Task: Check the required products in this week’s Word-document brief. Star a useful next step for the completion lesson.
 
-Product: Circle what is already started. Put a star beside the next action for Lesson 2.
+Product: A truthful checklist and your next step.
 
-Purpose and evidence: Circle what is already started. Put a star beside the next action for Lesson 2.Open the full brief and the 20-point rubric if a student needs the detailed submission requirements. Every checklist item remains in the Writing Desk. No platform or calendar date is assumed.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 12 · 35–37 · The position should be easy to find.**
 
-Task: On pp.70 and 76, study an opinion phrase and a topic sentence. Write your position on the privacy-control question.
+Task: On pp.70 and 76, study an opinion phrase and a topic sentence. State which privacy protections should be prioritized for university students and why.
 
-Product: One clear opinion topic sentence.
+Product: A clear opinion topic sentence for the Privacy Survival Guide.
 
 Starting phrase: I believe people should ___ because ___.
 
-Purpose and evidence: One clear opinion topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: I believe people should ___ because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.70 · page guidanceExercise 3: In my opinion, requires the comma. I think/believe/it seems to me that introduce a clause without a comma after that.Exercises 4–6: Personal opinions vary. Use an adjective and a complete opinion sentence; explain a reason.Book p.76 · page guidanceTopic sentences: Topic + controlling idea. Ex3: a 2; b 4; c 1; d 3.Reading 2 reference: ¶2 topic: many see games as fun/educational. ¶3 topic: a study suggests games can also be bad for children.
+Purpose and evidence: One clear opinion topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: I believe people should ___ because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.70 · page guidanceExercise 3: In my opinion, requires the comma. I think/believe/it seems to me that introduce a clause without a comma after that.Exercises 4–6: Personal opinions vary. Use an adjective and a complete opinion sentence; explain a reason.Book p.76 · page guidanceTopic sentences: Topic + controlling idea. Ex3: a 2; b 4; c 1; d 3.Reading 2 reference: ¶2 topic: many see games as fun/educational. ¶3 topic: a study suggests games can also be bad for children. Textbook skill practice: p.70, p.76. The current weekly brief controls the submitted project.
 
 Book p.70 · Exercise 3: In my opinion, requires the comma. I think/believe/it seems to me that introduce a clause without a comma after that.
 
@@ -2132,7 +2291,7 @@ Task: Complete the reason with an explanation, not a repeated opinion. Read both
 
 Product: A reason + because-clause with added meaning.
 
-Purpose and evidence: A reason + because-clause with added meaning.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
+Purpose and evidence: A reason + because-clause with added meaning.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account. Textbook skill practice: p.63. The current weekly brief controls the submitted project.
 
 Book p.63 · Reading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
 
@@ -2148,140 +2307,168 @@ Purpose and evidence: A defensible source statement + one self-edit.Show the tas
 
 **Canvas 15 · 43–45 · Model lab · opening and support**
 
-Task: Find the position and the first reason–evidence–explanation chain. Which sentence is the writer’s interpretation?
+Task: Read the current The Privacy Survival Guide model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Position, Example, Reason, Reason, Reason, Reason, Example, Explanation, Qualification, Conclusion
 
 
 **Canvas 15 · 45–47 · Model lab · development and ending**
 
-Task: Find the later reasons and conclusion. Explain how the model keeps the same position without claiming every company is identical.
+Task: Read the current The Privacy Survival Guide model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Position, Example, Reason, Reason, Reason, Reason, Example, Explanation, Qualification, Conclusion
 
 
 **Canvas 16 · 47–50 · Plan the jobs before the sentences.**
 
-Task: Plan one position with at least TWO developed reasons. For each, add a source point, paragraph reference and an explanation. A third relevant reason is optional for this preparation task.
+Task: Complete this week’s project planner. Protect your digital life: submit a brainstorming organizer, an original one-page Privacy Survival Guide with three risks/solutions and 1–2 opinion paragraphs (8–12 sentences total), and a 3–5-minute teaching video.
 
-Product: Two or more reason/evidence/explanation chains and a consistent ending.
+Product: A task-specific organizer linked to your writing.
 
-Purpose and evidence: Two or more reason/evidence/explanation chains and a consistent ending.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 17 · 50–52 · A partner tests the plan.**
 
-Task: Give your position and explain each supporting idea briefly. Ask your partner which reason needs a clearer explanation.
+Task: Prepare, check or reflect on your The Privacy Survival Guide. Use the required products and the worked example as your checklist.
 
-Product: One precise suggestion and one decision recorded by the writer.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One precise suggestion and one decision recorded by the writer.A speaks for 45 seconds; B asks one question for 30 seconds; writer records an action for 45 seconds. Review the plan, not every possible sentence.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 18 · 52–53 · Set up a quiet writing sprint.**
 
-Task: Keep the prompt, evidence notes and reason plan visible. Separate source statements from your own explanations.
+Task: Prepare, check or reflect on your The Privacy Survival Guide. Use the required products and the worked example as your checklist.
 
-Product: A visible plan, source, and a blank paragraph space.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A visible plan, source, and a blank paragraph space.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 19 · 53–67 · Writing studio · 14 uninterrupted minutes.**
 
-Task: Write an 8–10-sentence one-sided opinion on clear control of online information. Develop at least two reasons with the p.63 article and explain their relevance. Label your own judgments clearly.
+Task: Write and develop your own one or two paragraphs for The Privacy Survival Guide. Use 8–12 total sentences, your organizer and source evidence. Read all of the writing aloud in the final video.
 
-Product: An 8–10-sentence privacy-control draft with scoped source use.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: I believe ___. First, ___ because ___. For example, ___. This matters because ___. For these reasons, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: write a clear opening and use the plan.; 3–10 min: develop the supporting sentences with source-based detail.; 10–14 min: finish the ending; reread and mark one uncertain sentence.
 
-Purpose and evidence: An 8–10-sentence privacy-control draft with scoped source use.Protect the entire fourteen minutes. Do not switch slides at checkpoints or interrupt the class. Quietly conference with two or three writers. Support: use the sentence bank, then remove repeated frames. Stretch: improve precision and relevance before adding length.Support: I believe ___. First, ___ because ___. For example, ___. This matters because ___. For these reasons, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 20 · 67–68 · Peer review · agree on the reader’s job.**
 
-Task: Check that each example supports a reason and every reason answers the prompt. Verify source statements and label invented illustrations.
+Task: Check your partner’s The Privacy Survival Guide against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: Partner names + the part each reader will verify.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
-Purpose and evidence: Partner names + the part each reader will verify.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 21 · 68–73 · Peer conference · evidence before advice.**
 
-Task: Underline the position. Number the supporting ideas. Trace one source point and draw an arrow from one example to its reason. Suggest one concrete revision.
+Task: Check your partner’s The Privacy Survival Guide against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One “keep” comment and one actionable “revise” comment per writer.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: Keep ___ because ___. Revise sentence ___ by ___ so that ___.
 
 Checkpoints: 0–2 min: A reads B’s paragraph and traces the chosen evidence.; 2–4 min: B reads A’s paragraph and traces the chosen evidence.; 4–5 min: each writer records a revision decision.
 
-Purpose and evidence: One “keep” comment and one actionable “revise” comment per writer.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Keep ___ because ___. Revise sentence ___ by ___ so that ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 22 · 73–77 · Revision 1 · improve the meaning.**
 
-Task: Replace one unsupported universal claim or explain a weak evidence link. Keep the source reference beside the revision.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: Before → after → why, with an improved sentence in the paragraph.
+Product: A better draft and an explained class revision.
 
 Starting phrase: Before: ___. After: ___. This helps the reader because ___.
 
-Purpose and evidence: Before → after → why, with an improved sentence in the paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Before: ___. After: ___. This helps the reader because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 22 · 77–80 · Revision 2 · make the language accurate.**
 
-Task: Improve an opinion phrase or because-clause. Check that the revision adds meaning rather than restating the position.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: An edited sentence + a reason connected to this lesson’s language target.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: An edited sentence + a reason connected to this lesson’s language target.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 23 · 80–82 · Build the document you will point to.**
 
-Task: Prepare an evidence table: source statement → your reason → explanation → limitation. Credit the document and label fictional illustrations.
+Task: Create or refine the week’s visual document in the project studio. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access. Use your own content and give credits.
 
-Product: A labeled visual draft with a source credit.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A labeled visual draft with a source credit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 24 · 82–85 · Teach a small part before the full talk.**
 
-Task: Teach one source statement and one inference as different things. Explain the reason/evidence connection, then ask the listener which part is your opinion.
+Task: Rehearse The Privacy Survival Guide: Introduce the guide: Explain its purpose and relevance to university students.Show the organizer: Explain risks, solutions and your priorities.Present the one-page guide: Explain layout, visuals and recommendations.Read all paragraphs: Read your complete 8–12 sentences clearly.Explain your reasoning: Connect research and brainstorming to the final opinion.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: A: 60-second explanation; B: 30-second feedback.; B: 60-second explanation; A: 30-second feedback.
+Checkpoints: Introduce the guide: Explain its purpose and relevance to university students.; Show the organizer: Explain risks, solutions and your priorities.; Present the one-page guide: Explain layout, visuals and recommendations.; Read all paragraphs: Read your complete 8–12 sentences clearly.; Explain your reasoning: Connect research and brainstorming to the final opinion.
 
-Purpose and evidence: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.This is a short rehearsal, not the final 3–5-minute submission. The full paired teaching happens in the next lesson.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 25 · 85–88 · Exit ticket · show the writing skill.**
 
-Task: Write your position, your strongest support link, and one change that improved the paragraph.
+Task: Name one source detail, one writing/design choice and the next improvement in your The Privacy Survival Guide.
 
-Product: Three short responses: evidence, writing choice, next step.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: Three short responses: evidence, writing choice, next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 26 · 88–90 · Save today. Arrive ready next time.**
 
-Task: Export the evidence table and draft. Bring two possible revisions and a document-based question for the TTD #3 teaching in Lesson 2.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Bring the draft and organizer to the next lesson.
 
-Product: Exported writing + a named action for the next lesson.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: Exported writing + a named action for the next lesson.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -2289,33 +2476,33 @@ Purpose and evidence: Exported writing + a named action for the next lesson.Show
 
 **Canvas 27 · Inference ladder**
 
-Write a source statement, cautious inference and unsupported leap about one advert.MAKE / KEEPThree evidence-status labels.
+Optional skill practice. Use the current Week 3 brief for submitted products.Write a source statement, cautious inference and unsupported leap about one advert.MAKE / KEEPThree evidence-status labels.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Three evidence-status labels.
 
 
 **Canvas 28 · Evidence alternatives**
 
-Find a different p.63 point that supports your chosen reason. Compare its usefulness.MAKE / KEEPAn evidence selection explanation.
+Optional skill practice. Use the current Week 3 brief for submitted products.Find a different p.63 point that supports your chosen reason. Compare its usefulness.MAKE / KEEPAn evidence selection explanation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: An evidence selection explanation.
 
 
 **Canvas 29 · Counter-question**
 
-Write a skeptical reader’s question and answer it without overstating the source.MAKE / KEEPA question/answer pair.
+Optional skill practice. Use the current Week 3 brief for submitted products.Write a skeptical reader’s question and answer it without overstating the source.MAKE / KEEPA question/answer pair.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A question/answer pair.
 
 
 **Canvas 30 · Position scope**
 
-Rewrite an absolute opinion as a qualified but clear position.MAKE / KEEPTwo versions and a scope explanation.
+Optional skill practice. Use the current Week 3 brief for submitted products.Rewrite an absolute opinion as a qualified but clear position.MAKE / KEEPTwo versions and a scope explanation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Two versions and a scope explanation.
 
 
-## Unit 3 · Lesson 2 · Digital Privacy: Develop and Teach
+## Unit 3 · Lesson 2 · The Privacy Survival Guide · Create, Revise and Teach
 
 Design: **Signal & Sentence**. Blue systems map · connected nodes · open space
 
@@ -2323,51 +2510,51 @@ Design: **Signal & Sentence**. Blue systems map · connected nodes · open space
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | Make every connectioncarry meaning. | A developed privacy opinion, two explained revisions and a full TTD #3 teaching rehearsal. |
-| 01–02 | 2 | Your 90-minute route. | Leave with a written product, source evidence, a meaningful revision and a clear next step. |
+| 00–01 | 1 | Your digital life.Your survival guide. | Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video. |
 | 02–05 | 3 | Retrieve the whole reasoning chain. | A checked position → reason → evidence → explanation chain. |
 | 05–07 | 4 | A connector cannot invent logic. | One reason the connection is irrelevant. |
 | 07–10 | 5 | Compound nouns need clear meanings. | Three meanings + one complete sentence. |
 | 10–15 | 6 | Advertising · follow the evidence route. | A labeled source route and three evidence notes. |
 | 15–18 | 7 | Does this example belong? | A relevant/irrelevant decision with a reason. |
 | 18–21 | 8 | Develop a reason beyond a label. | A two-sentence development of one reason. |
-| 21–23 | 9 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 23–25 | 9 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
+| 21–23 | 9 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 23–25 | 9 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
 | 25–28 | 10 | and / also / too · placement matters. | Two accurate addition sentences. |
 | 28–31 | 11 | Two clauses need a real join. | A corrected compound sentence. |
 | 31–34 | 12 | However needs a sentence boundary. | Two complete contrast versions. |
-| 34–36 | 13 | Teach the Document #3 · reconnect. | A packet with the document, draft and revision evidence open. |
-| 36–38 | 14 | Use the rubric as a revision tool. | One priority criterion and one sentence explaining the needed improvement. |
-| 38–41 | 15 | Choose two changes before rewriting. | One meaning/evidence goal + one language goal. |
-| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | A developed privacy paragraph with accurate sentence connections. |
-| 53–55 | 17 | Read it as someone new to the topic. | Two underlined strengths and one circled problem to discuss. |
-| 55–56 | 18 | Before you exchange the paragraph… | A partner and a specific question for the reader. |
-| 56–61 | 19 | Five-minute peer conference. | One located problem, one suggested repair and the writer’s decision. |
-| 61–65 | 20 | Revise the content before polishing. | A meaningful before → after → reason revision receipt. |
-| 65–68 | 20 | Edit the language that carries the meaning. | The final language revision receipt + corrected paragraph. |
-| 68–70 | 21 | A visual should help a listener read. | A credited document with readable labels and selected annotations. |
-| 70–73 | 22 | Build a 4-minute teaching route. | A cue outline, not a paragraph read aloud without explanation. |
-| 73–74 | 23 | Partners A and B · set the stage. | Document visible, listener question ready, roles assigned. |
-| 74–78 | 24 | TTD #3 · Partner A teaches. | A 4-minute explanation with a document-based listener check. |
-| 78–79 | 24 | Listener B · one minute of feedback. | One accurate observation + one next action for A. |
-| 79–83 | 24 | TTD #3 · Partner B teaches. | B’s 4-minute explanation; A answers the source question. |
-| 83–84 | 24 | Listener A · one minute of feedback. | One accurate observation + one next action for B. |
-| 84–86 | 25 | Make the rehearsal improve the writing. | One final change based on the listener’s response. |
-| 86–88 | 26 | Exit ticket · prove the skill. | A short written self-assessment with evidence from your paragraph. |
-| 88–90 | 27 | Check the packet. Export. Keep it. | A final packet and an exported editable copy. |
+| 34–36 | 13 | Teach the Document #3 · reconnect. | A specific decision that improves the current weekly project. |
+| 36–38 | 14 | Use the rubric as a revision tool. | One priority and a concrete improvement. |
+| 38–41 | 15 | Choose two changes before rewriting. | A task-specific organizer linked to your writing. |
+| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 53–55 | 17 | Read it as someone new to the topic. | A specific decision that improves the current weekly project. |
+| 55–56 | 18 | Before you exchange the paragraph… | A specific decision that improves the current weekly project. |
+| 56–61 | 19 | Five-minute peer conference. | One keep comment, one revision suggestion and the writer’s decision. |
+| 61–65 | 20 | Revise the content before polishing. | A better draft and an explained class revision. |
+| 65–68 | 20 | Edit the language that carries the meaning. | A better draft and an explained class revision. |
+| 68–70 | 21 | A visual should help a listener read. | A readable creative document that supports the required writing. |
+| 70–73 | 22 | Build a 4-minute teaching route. | An explanation of your evidence, design and writing choices. |
+| 73–74 | 23 | Partners A and B · set the stage. | An explanation of your evidence, design and writing choices. |
+| 74–78 | 24 | TTD #3 · Partner A teaches. | An explanation of your evidence, design and writing choices. |
+| 78–79 | 24 | Listener B · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 79–83 | 24 | TTD #3 · Partner B teaches. | An explanation of your evidence, design and writing choices. |
+| 83–84 | 24 | Listener A · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 84–86 | 25 | Make the rehearsal improve the writing. | A specific decision that improves the current weekly project. |
+| 86–88 | 26 | Exit ticket · prove the skill. | Three short evidence-based reflections. |
+| 88–90 | 27 | Check the packet. Export. Keep it. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 3 (pp.58–79). The complete unit and contents pp.4–5 are embedded. Reading 1: personal information/advertising; Reading 2: children and video games. The actual pp.69–78 language, critical-thinking, topic-sentence, planner and checklist tasks support the final opinion paragraph.The publisher advertising video is separate; the labeled p.63 reading fallback works offline. Students need paper or the Writing Desk. Export writing before switching computers.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Protect your digital life: submit a brainstorming organizer, an original one-page Privacy Survival Guide with three risks/solutions and 1–2 opinion paragraphs (8–12 sentences total), and a 3–5-minute teaching video.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
-Support: rehearse an opinion orally, use “I think ___ because ___,” and develop two accurate reasons before expanding to the course target. Keep source and inference separate. Stretch: qualify the scope of a claim, remove irrelevant evidence or explain why a counterpoint does not change the chosen position. All students retain the same one-sided writing goal. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · Make every connectioncarry meaning.**
+**Canvas 1 · 00–01 · Your digital life.Your survival guide.**
 
-Task: How can evidence make one clear position convincing?
+Task: Protect your digital life: submit a brainstorming organizer, an original one-page Privacy Survival Guide with three risks/solutions and 1–2 opinion paragraphs (8–12 sentences total), and a 3–5-minute teaching video.
 
-Product: A developed privacy opinion, two explained revisions and a full TTD #3 teaching rehearsal.
+Product: Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video
 
 Purpose and evidence: A developed privacy opinion, two explained revisions and a full TTD #3 teaching rehearsal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -2376,7 +2563,7 @@ Purpose and evidence: A developed privacy opinion, two explained revisions and a
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: Leave with a written product, source evidence, a meaningful revision and a clear next step.
+Product: I can complete the current weekly products: Risk/solution organizer · 1-page creative guide · 8–12 sentences total · 3–5-minute video.
 
 Purpose and evidence: Leave with a written product, source evidence, a meaningful revision and a clear next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -2387,7 +2574,7 @@ Task: Write your position, one reason and the source point that supports it. Cir
 
 Product: A checked position → reason → evidence → explanation chain.
 
-Purpose and evidence: A checked position → reason → evidence → explanation chain.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
+Purpose and evidence: A checked position → reason → evidence → explanation chain.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account. Textbook skill practice: p.63. The current weekly brief controls the submitted project.
 
 Book p.63 · Reading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
 
@@ -2407,7 +2594,7 @@ Task: Choose THREE p.69 compound nouns. Explain each as one concept and use one 
 
 Product: Three meanings + one complete sentence.
 
-Purpose and evidence: Three meanings + one complete sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.69 · page guidanceExercise 1: 1 d; 2 e; 3 b; 4 f; 5 a; 6 c.Exercise 2: 1 keyboard; 2 smartphone; 3 email address; 4 website; 5 video game; 6 computer program.
+Purpose and evidence: Three meanings + one complete sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.69 · page guidanceExercise 1: 1 d; 2 e; 3 b; 4 f; 5 a; 6 c.Exercise 2: 1 keyboard; 2 smartphone; 3 email address; 4 website; 5 video game; 6 computer program. Textbook skill practice: p.69. The current weekly brief controls the submitted project.
 
 Book p.69 · Exercise 1: 1 d; 2 e; 3 b; 4 f; 5 a; 6 c.
 
@@ -2420,7 +2607,7 @@ Task: Offline: reread the p.63 advert explanation and make a three-step summary.
 
 Product: A labeled source route and three evidence notes.
 
-Purpose and evidence: A labeled source route and three evidence notes.Default to the p.63 reading route; the course is complete offline. A video route requires the actual licensed media, not still-image guesses. Keep the total reading/viewing and note time to five minutes.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.60 · page guidanceMedia: Publisher video required for watch-only questions. Use the labeled p.63 reading fallback when unavailable.Book p.61 · page guidanceMedia: Exact video-only answers are not established by the still pages.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
+Purpose and evidence: A labeled source route and three evidence notes.Default to the p.63 reading route; the course is complete offline. A video route requires the actual licensed media, not still-image guesses. Keep the total reading/viewing and note time to five minutes.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.60 · page guidanceMedia: Publisher video required for watch-only questions. Use the labeled p.63 reading fallback when unavailable.Book p.61 · page guidanceMedia: Exact video-only answers are not established by the still pages.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account. Textbook skill practice: p.60, p.61, p.63. The current weekly brief controls the submitted project.
 
 Book p.60 · Media: Publisher video required for watch-only questions. Use the labeled p.63 reading fallback when unavailable.
 
@@ -2435,7 +2622,7 @@ Task: Choose ONE relevant-support item on p.72. Explain why the retained sentenc
 
 Product: A relevant/irrelevant decision with a reason.
 
-Purpose and evidence: A relevant/irrelevant decision with a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.72 · page guidanceConnecting ideas: And can join a shared subject’s objects/verbs. Also normally precedes a main verb; too normally ends the sentence, often with a comma.Exercise 1 — possible answers: 2 You can share photos and talk to your friends. 3 I use online banking and check my email. 4 She does homework and watches films on her computer. 5 I often shop online and pay with my credit card.
+Purpose and evidence: A relevant/irrelevant decision with a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.72 · page guidanceConnecting ideas: And can join a shared subject’s objects/verbs. Also normally precedes a main verb; too normally ends the sentence, often with a comma.Exercise 1 — possible answers: 2 You can share photos and talk to your friends. 3 I use online banking and check my email. 4 She does homework and watches films on her computer. 5 I often shop online and pay with my credit card. Textbook skill practice: p.72. The current weekly brief controls the submitted project.
 
 Book p.72 · Connecting ideas: And can join a shared subject’s objects/verbs. Also normally precedes a main verb; too normally ends the sentence, often with a comma.
 
@@ -2450,27 +2637,31 @@ Product: A two-sentence development of one reason.
 
 Starting phrase: For example, the article describes ___. This supports my view because ___.
 
-Purpose and evidence: A two-sentence development of one reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: For example, the article describes ___. This supports my view because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
+Purpose and evidence: A two-sentence development of one reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: For example, the article describes ___. This supports my view because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.63 · page guidanceReading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account. Textbook skill practice: p.63. The current weekly brief controls the submitted project.
 
 Book p.63 · Reading structure: ¶1 introduces collection; ¶2 targeted adverts; ¶3 data brokers; ¶4 social-media/security concerns; ¶5 law/GDPR in the published account.
 
 
 **Canvas 9 · 21–23 · Model lab · opening and support**
 
-Task: Mark a developed reason and its source point. Which sentence explains why that evidence matters?
+Task: Read the current The Privacy Survival Guide model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Position, Example, Reason, Reason, Reason, Reason, Example, Explanation, Qualification, Conclusion
 
 
 **Canvas 9 · 23–25 · Model lab · development and ending**
 
-Task: Find additions and transitions. Explain which connection you could use in your own paragraph and why.
+Task: Read the current The Privacy Survival Guide model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Position, Example, Reason, Reason, Reason, Reason, Example, Explanation, Qualification, Conclusion
 
 
 **Canvas 10 · 25–28 · and / also / too · placement matters.**
@@ -2479,7 +2670,7 @@ Task: Study selected p.73 items. Write the same added idea once with also and on
 
 Product: Two accurate addition sentences.
 
-Purpose and evidence: Two accurate addition sentences.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.73 · page guidanceCompound sentences: Two independent clauses, comma + and/but. Ex3: 2 but; 3 but; 4 and; 5 but; 6 and; 7 but; 8 but; 9 and; 10 but.
+Purpose and evidence: Two accurate addition sentences.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.73 · page guidanceCompound sentences: Two independent clauses, comma + and/but. Ex3: 2 but; 3 but; 4 and; 5 but; 6 and; 7 but; 8 but; 9 and; 10 but. Textbook skill practice: p.73. The current weekly brief controls the submitted project.
 
 Book p.73 · Compound sentences: Two independent clauses, comma + and/but. Ex3: 2 but; 3 but; 4 and; 5 but; 6 and; 7 but; 8 but; 9 and; 10 but.
 
@@ -2490,7 +2681,7 @@ Task: Use p.74’s compound-sentence pattern. Repair the comma splice and mark t
 
 Product: A corrected compound sentence.
 
-Purpose and evidence: A corrected compound sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Possible: “Users share information, and companies select adverts.” The conjunction joins two independent clauses; a comma alone does not.Book p.74 · page guidanceHowever: New sentence: However, + complete clause. Example: “Many apps are educational. However, some apps are a waste of time.”
+Purpose and evidence: A corrected compound sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Possible: “Users share information, and companies select adverts.” The conjunction joins two independent clauses; a comma alone does not.Book p.74 · page guidanceHowever: New sentence: However, + complete clause. Example: “Many apps are educational. However, some apps are a waste of time.” Textbook skill practice: p.74. The current weekly brief controls the submitted project.
 
 Answer/model: Possible: “Users share information, and companies select adverts.” The conjunction joins two independent clauses; a comma alone does not.
 
@@ -2503,194 +2694,240 @@ Task: Compare but and however. Rewrite the same contrast using both patterns, th
 
 Product: Two complete contrast versions.
 
-Purpose and evidence: Two complete contrast versions.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.74 · page guidanceHowever: New sentence: However, + complete clause. Example: “Many apps are educational. However, some apps are a waste of time.”
+Purpose and evidence: Two complete contrast versions.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.74 · page guidanceHowever: New sentence: However, + complete clause. Example: “Many apps are educational. However, some apps are a waste of time.” Textbook skill practice: p.74. The current weekly brief controls the submitted project.
 
 Book p.74 · However: New sentence: However, + complete clause. Example: “Many apps are educational. However, some apps are a waste of time.”
 
 
 **Canvas 13 · 34–36 · Teach the Document #3 · reconnect.**
 
-Task: This is TTD #3, begun in Lesson 1: the privacy-control question. Keep it separate from the official internet-time task introduced in Lesson 3.
+Task: Prepare, check or reflect on your The Privacy Survival Guide. Use the required products and the worked example as your checklist.
 
-Product: A packet with the document, draft and revision evidence open.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A packet with the document, draft and revision evidence open.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 14 · 36–38 · Use the rubric as a revision tool.**
 
-Task: Use the exact assignment rubric. Prioritize relevance, developed support and accurate source use before surface polish.
+Task: Use the suggested teaching rubric to prioritize improvement. The submission checklist follows the Word document; class revision practice supports the work.
 
-Product: One priority criterion and one sentence explaining the needed improvement.
+Product: One priority and a concrete improvement.
 
-Purpose and evidence: One priority criterion and one sentence explaining the needed improvement.Use the assignment’s exact five rubric categories in the brief. These five labels summarize the categories; assess the full descriptors, not word count or checkbox totals.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 15 · 38–41 · Choose two changes before rewriting.**
 
-Task: Write one position. Give each supporting idea a reason, a relevant example or source point, and an explanation of why it matters.
+Task: Complete this week’s project planner. Protect your digital life: submit a brainstorming organizer, an original one-page Privacy Survival Guide with three risks/solutions and 1–2 opinion paragraphs (8–12 sentences total), and a 3–5-minute teaching video.
 
-Product: One meaning/evidence goal + one language goal.
+Product: A task-specific organizer linked to your writing.
 
 Starting phrase: I will improve ___ by ___. My reader will be able to ___.
 
-Purpose and evidence: One meaning/evidence goal + one language goal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I will improve ___ by ___. My reader will be able to ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 16 · 41–53 · Writing studio · 12 uninterrupted minutes.**
 
-Task: Revise the 8–10-sentence privacy opinion. Develop at least two relevant reasons, make source/evidence links clear, and use addition or contrast accurately.
+Task: Write and develop your own one or two paragraphs for The Privacy Survival Guide. Use 8–12 total sentences, your organizer and source evidence. Read all of the writing aloud in the final video.
 
-Product: A developed privacy paragraph with accurate sentence connections.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: I believe ___. First, ___ because ___. For example, ___. This matters because ___. For these reasons, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: repair the biggest content or organization problem.; 3–9 min: develop support and connect the sentences.; 9–12 min: read the paragraph as a whole and check the ending.
 
-Purpose and evidence: A developed privacy paragraph with accurate sentence connections.Protect twelve minutes of independent writing. A student without a first draft starts from today’s planner; an early finisher checks claims against the source and improves precision. Do not require extra length as a substitute for revision.Support: I believe ___. First, ___ because ___. For example, ___. This matters because ___. For these reasons, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 17 · 53–55 · Read it as someone new to the topic.**
 
-Task: Underline the position and conclusion. Number the reasons, box examples, and circle an unsupported universal claim.
+Task: Prepare, check or reflect on your The Privacy Survival Guide. Use the required products and the worked example as your checklist.
 
-Product: Two underlined strengths and one circled problem to discuss.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: Two underlined strengths and one circled problem to discuss.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 18 · 55–56 · Before you exchange the paragraph…**
 
-Task: Check that each example supports a reason and every reason answers the prompt. Verify source statements and label invented illustrations.
+Task: Prepare, check or reflect on your The Privacy Survival Guide. Use the required products and the worked example as your checklist.
 
-Product: A partner and a specific question for the reader.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A partner and a specific question for the reader.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 19 · 56–61 · Five-minute peer conference.**
 
-Task: Underline the position. Number the supporting ideas. Trace one source point and draw an arrow from one example to its reason. Suggest one concrete revision.
+Task: Check your partner’s The Privacy Survival Guide against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One located problem, one suggested repair and the writer’s decision.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: I understood ___. I could not verify ___. Try ___ because ___.
 
 Checkpoints: 0–2 min: A checks B’s work against the task and source.; 2–4 min: B checks A’s work against the task and source.; 4–5 min: both record the action they will take.
 
-Purpose and evidence: One located problem, one suggested repair and the writer’s decision.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I understood ___. I could not verify ___. Try ___ because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 20 · 61–65 · Revise the content before polishing.**
 
-Task: Strengthen one weak reason by adding a source-linked example and an explanation. Remove evidence that does not answer the privacy question.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: A meaningful before → after → reason revision receipt.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: A meaningful before → after → reason revision receipt.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 20 · 65–68 · Edit the language that carries the meaning.**
 
-Task: Repair one sentence join or connector placement. Keep the before/after wording and explain the grammatical relationship.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: The final language revision receipt + corrected paragraph.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: The final language revision receipt + corrected paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 21 · 68–70 · A visual should help a listener read.**
 
-Task: Prepare an evidence table: source statement → your reason → explanation → limitation. Credit the document and label fictional illustrations.
+Task: Create or refine the week’s visual document in the project studio. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access. Use your own content and give credits.
 
-Product: A credited document with readable labels and selected annotations.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A credited document with readable labels and selected annotations.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 22 · 70–73 · Build a 4-minute teaching route.**
 
-Task: Plan four minutes: source and prompt; evidence versus inference; the reason plan; paragraph connections; two revisions; a listener question.
+Task: Rehearse The Privacy Survival Guide: Introduce the guide: Explain its purpose and relevance to university students.Show the organizer: Explain risks, solutions and your priorities.Present the one-page guide: Explain layout, visuals and recommendations.Read all paragraphs: Read your complete 8–12 sentences clearly.Explain your reasoning: Connect research and brainstorming to the final opinion.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: A cue outline, not a paragraph read aloud without explanation.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: A cue outline, not a paragraph read aloud without explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce the guide: Explain its purpose and relevance to university students.; Show the organizer: Explain risks, solutions and your priorities.; Present the one-page guide: Explain layout, visuals and recommendations.; Read all paragraphs: Read your complete 8–12 sentences clearly.; Explain your reasoning: Connect research and brainstorming to the final opinion.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 23 · 73–74 · Partners A and B · set the stage.**
 
-Task: Assign A/B. Put the evidence table beside the paragraph. Have the listener-check question ready and set a four-minute timer.
+Task: Rehearse The Privacy Survival Guide: Introduce the guide: Explain its purpose and relevance to university students.Show the organizer: Explain risks, solutions and your priorities.Present the one-page guide: Explain layout, visuals and recommendations.Read all paragraphs: Read your complete 8–12 sentences clearly.Explain your reasoning: Connect research and brainstorming to the final opinion.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: Document visible, listener question ready, roles assigned.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: Document visible, listener question ready, roles assigned.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce the guide: Explain its purpose and relevance to university students.; Show the organizer: Explain risks, solutions and your priorities.; Present the one-page guide: Explain layout, visuals and recommendations.; Read all paragraphs: Read your complete 8–12 sentences clearly.; Explain your reasoning: Connect research and brainstorming to the final opinion.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 24 · 74–78 · TTD #3 · Partner A teaches.**
 
-Task: Explain the p.63 document, a source statement versus your inference, the paragraph plan, and two revisions. Ask a question about evidence or scope.
+Task: Rehearse The Privacy Survival Guide: Introduce the guide: Explain its purpose and relevance to university students.Show the organizer: Explain risks, solutions and your priorities.Present the one-page guide: Explain layout, visuals and recommendations.Read all paragraphs: Read your complete 8–12 sentences clearly.Explain your reasoning: Connect research and brainstorming to the final opinion.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: A 4-minute explanation with a document-based listener check.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: identify the source and writing question.; 0:40–1:40: teach the evidence and a limitation.; 1:40–2:40: explain the paragraph’s organization.; 2:40–3:30: explain revision choices.; 3:30–4:00: ask, pause, answer and credit.
+Checkpoints: Introduce the guide: Explain its purpose and relevance to university students.; Show the organizer: Explain risks, solutions and your priorities.; Present the one-page guide: Explain layout, visuals and recommendations.; Read all paragraphs: Read your complete 8–12 sentences clearly.; Explain your reasoning: Connect research and brainstorming to the final opinion.
 
-Purpose and evidence: A 4-minute explanation with a document-based listener check.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 24 · 78–79 · Listener B · one minute of feedback.**
 
-Task: Name the speaker’s position and one reason you could trace to evidence. Give one action to improve the explanation.
+Task: Rehearse The Privacy Survival Guide: Introduce the guide: Explain its purpose and relevance to university students.Show the organizer: Explain risks, solutions and your priorities.Present the one-page guide: Explain layout, visuals and recommendations.Read all paragraphs: Read your complete 8–12 sentences clearly.Explain your reasoning: Connect research and brainstorming to the final opinion.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: One accurate observation + one next action for A.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for A.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce the guide: Explain its purpose and relevance to university students.; Show the organizer: Explain risks, solutions and your priorities.; Present the one-page guide: Explain layout, visuals and recommendations.; Read all paragraphs: Read your complete 8–12 sentences clearly.; Explain your reasoning: Connect research and brainstorming to the final opinion.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 24 · 79–83 · TTD #3 · Partner B teaches.**
 
-Task: Explain the p.63 document, a source statement versus your inference, the paragraph plan, and two revisions. Ask a question about evidence or scope.
+Task: Rehearse The Privacy Survival Guide: Introduce the guide: Explain its purpose and relevance to university students.Show the organizer: Explain risks, solutions and your priorities.Present the one-page guide: Explain layout, visuals and recommendations.Read all paragraphs: Read your complete 8–12 sentences clearly.Explain your reasoning: Connect research and brainstorming to the final opinion.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: B’s 4-minute explanation; A answers the source question.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: source and question.; 0:40–1:40: evidence and limit.; 1:40–2:40: paragraph choices.; 2:40–3:30: revision choices.; 3:30–4:00: listener check and credits.
+Checkpoints: Introduce the guide: Explain its purpose and relevance to university students.; Show the organizer: Explain risks, solutions and your priorities.; Present the one-page guide: Explain layout, visuals and recommendations.; Read all paragraphs: Read your complete 8–12 sentences clearly.; Explain your reasoning: Connect research and brainstorming to the final opinion.
 
-Purpose and evidence: B’s 4-minute explanation; A answers the source question.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 24 · 83–84 · Listener A · one minute of feedback.**
 
-Task: Name the speaker’s position and one reason you could trace to evidence. Give one action to improve the explanation.
+Task: Rehearse The Privacy Survival Guide: Introduce the guide: Explain its purpose and relevance to university students.Show the organizer: Explain risks, solutions and your priorities.Present the one-page guide: Explain layout, visuals and recommendations.Read all paragraphs: Read your complete 8–12 sentences clearly.Explain your reasoning: Connect research and brainstorming to the final opinion.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: One accurate observation + one next action for B.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for B.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce the guide: Explain its purpose and relevance to university students.; Show the organizer: Explain risks, solutions and your priorities.; Present the one-page guide: Explain layout, visuals and recommendations.; Read all paragraphs: Read your complete 8–12 sentences clearly.; Explain your reasoning: Connect research and brainstorming to the final opinion.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 25 · 84–86 · Make the rehearsal improve the writing.**
 
-Task: Use the listener’s response to strengthen an unclear evidence link or a sentence connection.
+Task: Prepare, check or reflect on your The Privacy Survival Guide. Use the required products and the worked example as your checklist.
 
-Product: One final change based on the listener’s response.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One final change based on the listener’s response.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 26 · 86–88 · Exit ticket · prove the skill.**
 
-Task: Quote a reason–evidence–explanation chain and one accurate sentence connection from your work.
+Task: Name one source detail, one writing/design choice and the next improvement in your The Privacy Survival Guide.
 
-Product: A short written self-assessment with evidence from your paragraph.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: A short written self-assessment with evidence from your paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 **Canvas 27 · 88–90 · Check the packet. Export. Keep it.**
 
-Task: Apply one listener comment. Check TTD #3’s seven requirements and export. Keep the opinion-writing method for the new internet-time prompt.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Submit the products named in the Word-document brief using your teacher’s route/date.
 
-Product: A final packet and an exported editable copy.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: A final packet and an exported editable copy.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
+
+Answer/model: Possible model: Think Before You Click: phishing → verify through a trusted channel; reused passwords → unique passwords/password manager and MFA; oversharing → review visibility/permissions. The opinion model prioritizes checking requests and account access.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -2698,33 +2935,33 @@ Purpose and evidence: A final packet and an exported editable copy.Show the task
 
 **Canvas 28 · Connector exchange**
 
-Rewrite one addition with and, also and too. Explain the placement changes.MAKE / KEEPThree grammatical versions.
+Optional skill practice. Use the current Week 3 brief for submitted products.Rewrite one addition with and, also and too. Explain the placement changes.MAKE / KEEPThree grammatical versions.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Three grammatical versions.
 
 
 **Canvas 29 · Logic audit**
 
-Remove connectors from a support chain. Check whether the ideas still relate.MAKE / KEEPA reasoning check and a revision.
+Optional skill practice. Use the current Week 3 brief for submitted products.Remove connectors from a support chain. Check whether the ideas still relate.MAKE / KEEPA reasoning check and a revision.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A reasoning check and a revision.
 
 
 **Canvas 30 · One reason, deeper**
 
-Develop one reason with a clearer example and explanation, not a new reason.MAKE / KEEPAn expanded support chain.
+Optional skill practice. Use the current Week 3 brief for submitted products.Develop one reason with a clearer example and explanation, not a new reason.MAKE / KEEPAn expanded support chain.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: An expanded support chain.
 
 
 **Canvas 31 · Teach a revision**
 
-Give a 90-second explanation of a comma-splice repair using your own sentence.MAKE / KEEPA short grammar teaching outline.
+Optional skill practice. Use the current Week 3 brief for submitted products.Give a 90-second explanation of a comma-splice repair using your own sentence.MAKE / KEEPA short grammar teaching outline.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A short grammar teaching outline.
 
 
-## Unit 3 · Lesson 3 · Internet Time: Choose and Draft
+## Unit 3 · Lesson 3 · Internet Time: A Clear Verdict · Investigate and Draft
 
 Design: **The Opinion Arena**. Burgundy debate hall · divided arguments · speech forms
 
@@ -2732,8 +2969,8 @@ Design: **The Opinion Arena**. Burgundy debate hall · divided arguments · spee
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | One question.Three reasons.Your verdict. | A p.77 stance, THREE developed supporting ideas and an 8–10-sentence first draft for TTD #4. |
-| 01–02 | 2 | Your 90-minute route. | I can interpret the official question, select three relevant ideas and keep a consistent opinion across the paragraph. |
+| 00–01 | 1 | One question.Three ideas.Your verdict. | Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion. |
 | 02–05 | 3 | Keep the method; change the question. | A transferable writing move. |
 | 05–07 | 4 | Quick verdict · choose a side. | A conditional opinion that distinguishes purposeful work from distraction. |
 | 07–10 | 5 | Benefits and drawbacks need verbs. | Three meanings and two short phrases. |
@@ -2742,41 +2979,41 @@ Design: **The Opinion Arena**. Burgundy debate hall · divided arguments · spee
 | 18–21 | 8 | A statistic has a population. | A scoped evidence note and a limit. |
 | 21–23 | 9 | Read the task, not just the topic. | An accurate statement of the required response. |
 | 23–25 | 10 | Select relevant ideas. | A relevance decision with an explanation. |
-| 25–27 | 11 | Teach the Document #4 · START HERE | An official p.77 opinion paragraph: one position, THREE supporting ideas, 8–10 sentences, two revisions, a relevant annotated document and a 3–5-minute lesson. |
-| 27–29 | 11 | Your document is on the table. | An exact task interpretation + one useful illustration. |
-| 29–31 | 11 | Annotate. Locate. Explain. | Two annotations + one limitation. |
-| 31–34 | 11 | Begin the assignment in class. | A stance and three developed points, ready for paragraph writing. |
-| 34–35 | 11 | What must your packet contain? | Circle what is already started. Put a star beside the next action for Lesson 4. |
+| 25–27 | 11 | Internet Time: A Clear Verdict | Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion |
+| 27–29 | 11 | Explore the worked document | A named product, a located source detail and a design choice you can explain. |
+| 29–31 | 11 | Trace evidence and explain choices | Three labeled evidence notes and one useful research question. |
+| 31–34 | 11 | Begin your own project | A project-specific organizer and an original opening sentence. |
+| 34–35 | 11 | Check this week’s required products | A truthful checklist and your next step. |
 | 35–37 | 12 | The opening must answer the question. | A task-focused opinion topic sentence. |
 | 37–40 | 13 | Three ideas need different jobs. | Three non-duplicate supporting ideas. |
 | 40–43 | 14 | Explain the illustration’s role. | A developed support chain with honest source framing. |
-| 43–45 | 15 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 45–47 | 15 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
-| 47–50 | 16 | Plan the jobs before the sentences. | A three-idea paragraph plan, with evidence status visible. |
-| 50–52 | 17 | A partner tests the plan. | One precise suggestion and one decision recorded by the writer. |
-| 52–53 | 18 | Set up a quiet writing sprint. | A visible plan, source, and a blank paragraph space. |
-| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An 8–10-sentence internet-time draft with three supporting ideas. |
-| 67–68 | 20 | Peer review · agree on the reader’s job. | Partner names + the part each reader will verify. |
-| 68–73 | 21 | Peer conference · evidence before advice. | One “keep” comment and one actionable “revise” comment per writer. |
-| 73–77 | 22 | Revision 1 · improve the meaning. | Before → after → why, with an improved sentence in the paragraph. |
-| 77–80 | 22 | Revision 2 · make the language accurate. | An edited sentence + a reason connected to this lesson’s language target. |
-| 80–82 | 23 | Build the document you will point to. | A labeled visual draft with a source credit. |
-| 82–85 | 24 | Teach a small part before the full talk. | Each partner gives a 60-second document explanation and receives 30 seconds of feedback. |
-| 85–88 | 25 | Exit ticket · show the writing skill. | Three short responses: evidence, writing choice, next step. |
-| 88–90 | 26 | Save today. Arrive ready next time. | Exported writing + a named action for the next lesson. |
+| 43–45 | 15 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 45–47 | 15 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
+| 47–50 | 16 | Plan the jobs before the sentences. | A task-specific organizer linked to your writing. |
+| 50–52 | 17 | A partner tests the plan. | A specific decision that improves the current weekly project. |
+| 52–53 | 18 | Set up a quiet writing sprint. | A specific decision that improves the current weekly project. |
+| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 67–68 | 20 | Peer review · agree on the reader’s job. | One keep comment, one revision suggestion and the writer’s decision. |
+| 68–73 | 21 | Peer conference · evidence before advice. | One keep comment, one revision suggestion and the writer’s decision. |
+| 73–77 | 22 | Revision 1 · improve the meaning. | A better draft and an explained class revision. |
+| 77–80 | 22 | Revision 2 · make the language accurate. | A better draft and an explained class revision. |
+| 80–82 | 23 | Build the document you will point to. | A readable creative document that supports the required writing. |
+| 82–85 | 24 | Teach a small part before the full talk. | An explanation of your evidence, design and writing choices. |
+| 85–88 | 25 | Exit ticket · show the writing skill. | Three short evidence-based reflections. |
+| 88–90 | 26 | Save today. Arrive ready next time. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 3 (pp.58–79). The complete unit and contents pp.4–5 are embedded. Reading 1: personal information/advertising; Reading 2: children and video games. The actual pp.69–78 language, critical-thinking, topic-sentence, planner and checklist tasks support the final opinion paragraph.The publisher advertising video is separate; the labeled p.63 reading fallback works offline. Students need paper or the Writing Desk. Export writing before switching computers.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Do you agree or disagree that “The internet wastes our time. It does not help us do more work”? Write an 8–10-sentence opinion paragraph using three supporting ideas.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
-Support: rehearse an opinion orally, use “I think ___ because ___,” and develop two accurate reasons before expanding to the course target. Keep source and inference separate. Stretch: qualify the scope of a claim, remove irrelevant evidence or explain why a counterpoint does not change the chosen position. All students retain the same one-sided writing goal. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · One question.Three reasons.Your verdict.**
+**Canvas 1 · 00–01 · One question.Three ideas.Your verdict.**
 
-Task: How can evidence make one clear position convincing?
+Task: Do you agree or disagree that “The internet wastes our time. It does not help us do more work”? Write an 8–10-sentence opinion paragraph using three supporting ideas.
 
-Product: A p.77 stance, THREE developed supporting ideas and an 8–10-sentence first draft for TTD #4.
+Product: Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion
 
 Purpose and evidence: A p.77 stance, THREE developed supporting ideas and an 8–10-sentence first draft for TTD #4.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -2785,7 +3022,7 @@ Purpose and evidence: A p.77 stance, THREE developed supporting ideas and an 8�
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: I can interpret the official question, select three relevant ideas and keep a consistent opinion across the paragraph.
+Product: I can complete the current weekly products: Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion.
 
 Purpose and evidence: I can interpret the official question, select three relevant ideas and keep a consistent opinion across the paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -2816,7 +3053,7 @@ Task: Choose THREE p.66 vocabulary items. Use one to describe a possible benefit
 
 Product: Three meanings and two short phrases.
 
-Purpose and evidence: Three meanings and two short phrases.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.66 · page guidanceVocabulary: 1 download; 2 educational; 3 improve; 4 imagination; 5 creative; 6 affect. Positive: advantage, benefit, positive. Negative: disadvantage, negative.
+Purpose and evidence: Three meanings and two short phrases.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.66 · page guidanceVocabulary: 1 download; 2 educational; 3 improve; 4 imagination; 5 creative; 6 affect. Positive: advantage, benefit, positive. Negative: disadvantage, negative. Textbook skill practice: p.66. The current weekly brief controls the submitted project.
 
 Book p.66 · Vocabulary: 1 download; 2 educational; 3 improve; 4 imagination; 5 creative; 6 affect. Positive: advantage, benefit, positive. Negative: disadvantage, negative.
 
@@ -2827,7 +3064,7 @@ Task: Read p.67’s games article. Label the advantages and disadvantages paragr
 
 Product: Paragraph labels and one supported point from each side.
 
-Purpose and evidence: Paragraph labels and one supported point from each side.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Advantages: paragraph 2; disadvantages: paragraph 3. The reading’s topic is games, not every possible internet use.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.Book p.68 · page guidanceExercise 5: Disadvantages: ¶3; advantages: ¶2. Underline each paragraph’s topic sentence.Exercise 6: Not mentioned: 3 teaching money, 5 exercise benefit, 7 boring, 10 parent/child problems.Text type: Best fit: essay. A student author is a plausible inference, rather than a verified identity.
+Purpose and evidence: Paragraph labels and one supported point from each side.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Advantages: paragraph 2; disadvantages: paragraph 3. The reading’s topic is games, not every possible internet use.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.Book p.68 · page guidanceExercise 5: Disadvantages: ¶3; advantages: ¶2. Underline each paragraph’s topic sentence.Exercise 6: Not mentioned: 3 teaching money, 5 exercise benefit, 7 boring, 10 parent/child problems.Text type: Best fit: essay. A student author is a plausible inference, rather than a verified identity. Textbook skill practice: p.67, p.68. The current weekly brief controls the submitted project.
 
 Answer/model: Advantages: paragraph 2; disadvantages: paragraph 3. The reading’s topic is games, not every possible internet use.
 
@@ -2848,7 +3085,7 @@ Task: On p.68 Exercise 6, choose FOUR of the ideas to test. Locate a source phra
 
 Product: Four source-checked decisions.
 
-Purpose and evidence: Four source-checked decisions.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Across the full exercise, 3, 5, 7 and 10 are unmentioned. Score only the four selected items; students justify with the actual article.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.Book p.68 · page guidanceExercise 5: Disadvantages: ¶3; advantages: ¶2. Underline each paragraph’s topic sentence.Exercise 6: Not mentioned: 3 teaching money, 5 exercise benefit, 7 boring, 10 parent/child problems.Text type: Best fit: essay. A student author is a plausible inference, rather than a verified identity.
+Purpose and evidence: Four source-checked decisions.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Across the full exercise, 3, 5, 7 and 10 are unmentioned. Score only the four selected items; students justify with the actual article.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.Book p.68 · page guidanceExercise 5: Disadvantages: ¶3; advantages: ¶2. Underline each paragraph’s topic sentence.Exercise 6: Not mentioned: 3 teaching money, 5 exercise benefit, 7 boring, 10 parent/child problems.Text type: Best fit: essay. A student author is a plausible inference, rather than a verified identity. Textbook skill practice: p.67, p.68. The current weekly brief controls the submitted project.
 
 Answer/model: Across the full exercise, 3, 5, 7 and 10 are unmentioned. Score only the four selected items; students justify with the actual article.
 
@@ -2869,7 +3106,7 @@ Task: Locate the article’s age-specific UK games figure. Record the who/where/
 
 Product: A scoped evidence note and a limit.
 
-Purpose and evidence: A scoped evidence note and a limit.Do not invent or update the percentage. Students read the printed figure and its population. The exact historical figure is not needed to support a universal internet claim.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.
+Purpose and evidence: A scoped evidence note and a limit.Do not invent or update the percentage. Students read the printed figure and its population. The exact historical figure is not needed to support a universal internet claim.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user. Textbook skill practice: p.67. The current weekly brief controls the submitted project.
 
 Book p.67 · Structure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.
 
@@ -2882,7 +3119,7 @@ Task: Compare the question types in p.71 Exercise 1. Identify which one asks for
 
 Product: An accurate statement of the required response.
 
-Purpose and evidence: An accurate statement of the required response.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: p.71: 1 b; 2 a. p.77 asks agree/disagree, so the final paragraph needs a chosen opinion.Book p.71 · page guidanceExercise 1: 1 b: describe both ways; 2 a: give an opinion with examples.Critical thinking: Select ideas relevant to the exact question, rather than every interesting internet fact.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
+Purpose and evidence: An accurate statement of the required response.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: p.71: 1 b; 2 a. p.77 asks agree/disagree, so the final paragraph needs a chosen opinion.Book p.71 · page guidanceExercise 1: 1 b: describe both ways; 2 a: give an opinion with examples.Critical thinking: Select ideas relevant to the exact question, rather than every interesting internet fact.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas. Textbook skill practice: p.71, p.77. The current weekly brief controls the submitted project.
 
 Answer/model: p.71: 1 b; 2 a. p.77 asks agree/disagree, so the final paragraph needs a chosen opinion.
 
@@ -2899,7 +3136,7 @@ Task: Use the p.71 student-opinion cards and p.72 idea table. Choose one idea th
 
 Product: A relevance decision with an explanation.
 
-Purpose and evidence: A relevance decision with an explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.71 · page guidanceExercise 1: 1 b: describe both ways; 2 a: give an opinion with examples.Critical thinking: Select ideas relevant to the exact question, rather than every interesting internet fact.Book p.72 · page guidanceConnecting ideas: And can join a shared subject’s objects/verbs. Also normally precedes a main verb; too normally ends the sentence, often with a comma.Exercise 1 — possible answers: 2 You can share photos and talk to your friends. 3 I use online banking and check my email. 4 She does homework and watches films on her computer. 5 I often shop online and pay with my credit card.
+Purpose and evidence: A relevance decision with an explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.71 · page guidanceExercise 1: 1 b: describe both ways; 2 a: give an opinion with examples.Critical thinking: Select ideas relevant to the exact question, rather than every interesting internet fact.Book p.72 · page guidanceConnecting ideas: And can join a shared subject’s objects/verbs. Also normally precedes a main verb; too normally ends the sentence, often with a comma.Exercise 1 — possible answers: 2 You can share photos and talk to your friends. 3 I use online banking and check my email. 4 She does homework and watches films on her computer. 5 I often shop online and pay with my credit card. Textbook skill practice: p.71, p.72. The current weekly brief controls the submitted project.
 
 Book p.71 · Exercise 1: 1 b: describe both ways; 2 a: give an opinion with examples.
 
@@ -2910,22 +3147,22 @@ Book p.72 · Connecting ideas: And can join a shared subject’s objects/verbs. 
 Book p.72 · Exercise 1 — possible answers: 2 You can share photos and talk to your friends. 3 I use online banking and check my email. 4 She does homework and watches films on her computer. 5 I often shop online and pay with my credit card.
 
 
-**Canvas 11 · 25–27 · Teach the Document #4 · START HERE**
+**Canvas 11 · 25–27 · Internet Time: A Clear Verdict**
 
-Task: Answer the textbook’s Unit 3 writing question on p.77: “The internet wastes our time. It does not help us do more work. Do you agree or disagree?” Write a one-sided opinion paragraph with THREE supporting ideas, annotate a relevant document, explain two revisions and teach your argument.
+Task: Do you agree or disagree that “The internet wastes our time. It does not help us do more work”? Write an 8–10-sentence opinion paragraph using three supporting ideas.
 
-Product: An official p.77 opinion paragraph: one position, THREE supporting ideas, 8–10 sentences, two revisions, a relevant annotated document and a 3–5-minute lesson.
+Product: Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion
 
-Purpose and evidence: An official p.77 opinion paragraph: one position, THREE supporting ideas, 8–10 sentences, two revisions, a relevant annotated document and a 3–5-minute lesson.This is a ten-minute classroom workshop, not a homework announcement. It starts here in Unit 3, Lesson 3. Keep the document visible. The same assignment is completed and taught in Lesson 4.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
-**Canvas 11 · 27–29 · Your document is on the table.**
+**Canvas 11 · 27–29 · Explore the worked document**
 
-Task: Read the official question on p.77. Then inspect this fictional classroom document; it is an illustration to discuss, not research data.
+Task: Explore the complete worked example on this canvas. Identify its required products and trace one detail to its source.
 
-Product: An exact task interpretation + one useful illustration.
+Product: A named product, a located source detail and a design choice you can explain.
 
-Purpose and evidence: An exact task interpretation + one useful illustration.The actual games reading on p.67 is also available. Keep its population/topic limits. Fictional examples may illustrate a reason; they are not studies or survey evidence.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research. Textbook skill practice: p.67, p.77. The current weekly brief controls the submitted project.
 
 Book p.67 · Structure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.
 
@@ -2934,13 +3171,13 @@ Book p.67 · Scope: The article concerns children and games. Do not present its 
 Book p.77 · Official task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
 
 
-**Canvas 11 · 29–31 · Annotate. Locate. Explain.**
+**Canvas 11 · 29–31 · Trace evidence and explain choices**
 
-Task: Circle each person’s purpose. Underline the time spent on the purpose. Add one sentence explaining what these examples cannot prove.
+Task: Read the evidence cards. Keep a fact, an explanation and a source limit for your own project.
 
-Product: Two annotations + one limitation.
+Product: Three labeled evidence notes and one useful research question.
 
-Purpose and evidence: Two annotations + one limitation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Mira’s session illustrates a clear purpose; Leon’s illustrates distraction. Neither proves a universal result.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research. Textbook skill practice: p.67, p.77. The current weekly brief controls the submitted project.
 
 Answer/model: Mira’s session illustrates a clear purpose; Leon’s illustrates distraction. Neither proves a universal result.
 
@@ -2951,15 +3188,15 @@ Book p.67 · Scope: The article concerns children and games. Do not present its 
 Book p.77 · Official task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
 
 
-**Canvas 11 · 31–34 · Begin the assignment in class.**
+**Canvas 11 · 31–34 · Begin your own project**
 
-Task: Choose agree or disagree. Follow the p.77 planner: topic sentence + THREE supporting ideas. Put one example or explanation beside each.
+Task: Open the project planner. Start the week’s organizer and choose the main idea for your own writing.
 
-Product: A stance and three developed points, ready for paragraph writing.
+Product: A project-specific organizer and an original opening sentence.
 
-Starting phrase: I agree / disagree because ___. First ___. Second ___. Third ___.
+Starting phrase: My document will show ___ using ___ because ___.
 
-Purpose and evidence: A stance and three developed points, ready for paragraph writing.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I agree / disagree because ___. First ___. Second ___. Third ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research. Textbook skill practice: p.67, p.77. The current weekly brief controls the submitted project.
 
 Book p.67 · Structure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.
 
@@ -2968,13 +3205,13 @@ Book p.67 · Scope: The article concerns children and games. Do not present its 
 Book p.77 · Official task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
 
 
-**Canvas 11 · 34–35 · What must your packet contain?**
+**Canvas 11 · 34–35 · Check this week’s required products**
 
-Task: The final task needs three supporting ideas. A balanced list alone does not answer the opinion question. Teach the finished work in Lesson 4.
+Task: Check the required products in this week’s Word-document brief. Star a useful next step for the completion lesson.
 
-Product: Circle what is already started. Put a star beside the next action for Lesson 4.
+Product: A truthful checklist and your next step.
 
-Purpose and evidence: Circle what is already started. Put a star beside the next action for Lesson 4.Open the full brief and the 20-point rubric if a student needs the detailed submission requirements. Every checklist item remains in the Writing Desk. No platform or calendar date is assumed.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 12 · 35–37 · The opening must answer the question.**
@@ -2983,7 +3220,7 @@ Task: Use the p.76 topic-sentence guidance. Write a stance that responds to time
 
 Product: A task-focused opinion topic sentence.
 
-Purpose and evidence: A task-focused opinion topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.76 · page guidanceTopic sentences: Topic + controlling idea. Ex3: a 2; b 4; c 1; d 3.Reading 2 reference: ¶2 topic: many see games as fun/educational. ¶3 topic: a study suggests games can also be bad for children.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
+Purpose and evidence: A task-focused opinion topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.76 · page guidanceTopic sentences: Topic + controlling idea. Ex3: a 2; b 4; c 1; d 3.Reading 2 reference: ¶2 topic: many see games as fun/educational. ¶3 topic: a study suggests games can also be bad for children.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas. Textbook skill practice: p.76, p.77. The current weekly brief controls the submitted project.
 
 Book p.76 · Topic sentences: Topic + controlling idea. Ex3: a 2; b 4; c 1; d 3.
 
@@ -2998,7 +3235,7 @@ Task: Plan THREE distinct supports for your chosen view. Test whether two are ac
 
 Product: Three non-duplicate supporting ideas.
 
-Purpose and evidence: Three non-duplicate supporting ideas.The displayed three are one possible disagree plan, not the only valid answer. Agree is equally acceptable when supported with relevant reasons.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
+Purpose and evidence: Three non-duplicate supporting ideas.The displayed three are one possible disagree plan, not the only valid answer. Agree is equally acceptable when supported with relevant reasons.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas. Textbook skill practice: p.77. The current weekly brief controls the submitted project.
 
 Book p.77 · Official task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
 
@@ -3016,142 +3253,170 @@ Purpose and evidence: A developed support chain with honest source framing.Show 
 
 **Canvas 15 · 43–45 · Model lab · opening and support**
 
-Task: Underline the stance and first two supporting ideas. How is the fictional example labeled?
+Task: Read the current Internet Time: A Clear Verdict model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Position, Reason, Example, Reason, Explanation, Reason, Qualification, Example, Explanation, Conclusion
 
 
 **Canvas 15 · 45–47 · Model lab · development and ending**
 
-Task: Find the third idea, the qualification and the conclusion. Explain why the qualification does not abandon the stance.
+Task: Read the current Internet Time: A Clear Verdict model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Position, Reason, Example, Reason, Explanation, Reason, Qualification, Example, Explanation, Conclusion
 
 
 **Canvas 16 · 47–50 · Plan the jobs before the sentences.**
 
-Task: Follow p.77 exactly: topic sentence, THREE supporting ideas, conclusion. Beside each idea, add a relevant example or explanation and a source label.
+Task: Complete this week’s project planner. Do you agree or disagree that “The internet wastes our time. It does not help us do more work”? Write an 8–10-sentence opinion paragraph using three supporting ideas.
 
-Product: A three-idea paragraph plan, with evidence status visible.
+Product: A task-specific organizer linked to your writing.
 
-Purpose and evidence: A three-idea paragraph plan, with evidence status visible.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research. Textbook skill practice: p.77. The current weekly brief controls the submitted project.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 Book p.77 · Official task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
 
 
 **Canvas 17 · 50–52 · A partner tests the plan.**
 
-Task: Give your position and explain each supporting idea briefly. Ask your partner which reason needs a clearer explanation.
+Task: Prepare, check or reflect on your Internet Time: A Clear Verdict. Explain three distinct supporting ideas.
 
-Product: One precise suggestion and one decision recorded by the writer.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One precise suggestion and one decision recorded by the writer.A speaks for 45 seconds; B asks one question for 30 seconds; writer records an action for 45 seconds. Review the plan, not every possible sentence.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 18 · 52–53 · Set up a quiet writing sprint.**
 
-Task: Keep the prompt, evidence notes and reason plan visible. Separate source statements from your own explanations.
+Task: Prepare, check or reflect on your Internet Time: A Clear Verdict. Explain three distinct supporting ideas.
 
-Product: A visible plan, source, and a blank paragraph space.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A visible plan, source, and a blank paragraph space.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 19 · 53–67 · Writing studio · 14 uninterrupted minutes.**
 
-Task: Answer the official p.77 question in 8–10 sentences. State agree or disagree, develop THREE supporting ideas, and end consistently. Use relevant evidence or clearly labeled examples.
+Task: Write and develop your own paragraph for Internet Time: A Clear Verdict. Use 8–10 sentences, your organizer and source evidence. Keep each supporting idea relevant to the same document or position.
 
-Product: An 8–10-sentence internet-time draft with three supporting ideas.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: I believe ___. First, ___ because ___. For example, ___. This matters because ___. For these reasons, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: write a clear opening and use the plan.; 3–10 min: develop the supporting sentences with source-based detail.; 10–14 min: finish the ending; reread and mark one uncertain sentence.
 
-Purpose and evidence: An 8–10-sentence internet-time draft with three supporting ideas.Protect the entire fourteen minutes. Do not switch slides at checkpoints or interrupt the class. Quietly conference with two or three writers. Support: use the sentence bank, then remove repeated frames. Stretch: improve precision and relevance before adding length.Support: I believe ___. First, ___ because ___. For example, ___. This matters because ___. For these reasons, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 20 · 67–68 · Peer review · agree on the reader’s job.**
 
-Task: Check that each example supports a reason and every reason answers the prompt. Verify source statements and label invented illustrations.
+Task: Check your partner’s Internet Time: A Clear Verdict against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: Partner names + the part each reader will verify.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
-Purpose and evidence: Partner names + the part each reader will verify.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 21 · 68–73 · Peer conference · evidence before advice.**
 
-Task: Underline the position. Number the supporting ideas. Trace one source point and draw an arrow from one example to its reason. Suggest one concrete revision.
+Task: Check your partner’s Internet Time: A Clear Verdict against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One “keep” comment and one actionable “revise” comment per writer.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: Keep ___ because ___. Revise sentence ___ by ___ so that ___.
 
 Checkpoints: 0–2 min: A reads B’s paragraph and traces the chosen evidence.; 2–4 min: B reads A’s paragraph and traces the chosen evidence.; 4–5 min: each writer records a revision decision.
 
-Purpose and evidence: One “keep” comment and one actionable “revise” comment per writer.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Keep ___ because ___. Revise sentence ___ by ___ so that ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 22 · 73–77 · Revision 1 · improve the meaning.**
 
-Task: Strengthen the weakest of the three ideas. Add a relevant example/explanation, or replace a duplicate idea. Keep the chosen stance clear.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: Before → after → why, with an improved sentence in the paragraph.
+Product: A better draft and an explained class revision.
 
 Starting phrase: Before: ___. After: ___. This helps the reader because ___.
 
-Purpose and evidence: Before → after → why, with an improved sentence in the paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Before: ___. After: ___. This helps the reader because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 22 · 77–80 · Revision 2 · make the language accurate.**
 
-Task: Repair a connector or a repeated opening. Use and/also/too or a suitable contrast while keeping complete clauses.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: An edited sentence + a reason connected to this lesson’s language target.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: An edited sentence + a reason connected to this lesson’s language target.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 23 · 80–82 · Build the document you will point to.**
 
-Task: Prepare an evidence table: source statement → your reason → explanation → limitation. Credit the document and label fictional illustrations.
+Task: Create or refine the week’s visual document in the project studio. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research. Use your own content and give credits.
 
-Product: A labeled visual draft with a source credit.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A labeled visual draft with a source credit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 24 · 82–85 · Teach a small part before the full talk.**
 
-Task: Teach one source statement and one inference as different things. Explain the reason/evidence connection, then ask the listener which part is your opinion.
+Task: Rehearse Internet Time: A Clear Verdict: State the verdict: Answer the complete textbook question.Explain three ideas: Connect each supporting idea to the same position.Teach the writing: Explain organization, evidence status and a useful language choice.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: A: 60-second explanation; B: 30-second feedback.; B: 60-second explanation; A: 30-second feedback.
+Checkpoints: State the verdict: Answer the complete textbook question.; Explain three ideas: Connect each supporting idea to the same position.; Teach the writing: Explain organization, evidence status and a useful language choice.
 
-Purpose and evidence: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.This is a short rehearsal, not the final 3–5-minute submission. The full paired teaching happens in the next lesson.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 25 · 85–88 · Exit ticket · show the writing skill.**
 
-Task: Write your position, your strongest support link, and one change that improved the paragraph.
+Task: Name one source detail, one writing/design choice and the next improvement in your Internet Time: A Clear Verdict.
 
-Product: Three short responses: evidence, writing choice, next step.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: Three short responses: evidence, writing choice, next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 26 · 88–90 · Save today. Arrive ready next time.**
 
-Task: Export the three-idea plan, draft and two revision receipts. Bring the annotated document and a relevance question for TTD #4 in Lesson 4.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Bring the draft and organizer to the next lesson.
 
-Product: Exported writing + a named action for the next lesson.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: Exported writing + a named action for the next lesson.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -3159,33 +3424,33 @@ Purpose and evidence: Exported writing + a named action for the next lesson.Show
 
 **Canvas 27 · Argue the other side**
 
-Plan three supports for the opposite position, then explain why your original stance remains defensible.MAKE / KEEPAn alternative plan, kept separate from the final paragraph.
+Optional skill practice. Use the current Week 4 brief for submitted products.Plan three supports for the opposite position, then explain why your original stance remains defensible.MAKE / KEEPAn alternative plan, kept separate from the final paragraph.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: An alternative plan, kept separate from the final paragraph.
 
 
 **Canvas 28 · Duplicate-reason test**
 
-Try to collapse two reasons into one. If possible, develop a genuinely different third support.MAKE / KEEPA non-duplicate three-idea plan.
+Optional skill practice. Use the current Week 4 brief for submitted products.Try to collapse two reasons into one. If possible, develop a genuinely different third support.MAKE / KEEPA non-duplicate three-idea plan.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A non-duplicate three-idea plan.
 
 
 **Canvas 29 · Fiction versus data**
 
-Rewrite an invented example as an honest illustration; explain what research would be needed for a population claim.MAKE / KEEPTwo evidence-status notes.
+Optional skill practice. Use the current Week 4 brief for submitted products.Rewrite an invented example as an honest illustration; explain what research would be needed for a population claim.MAKE / KEEPTwo evidence-status notes.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Two evidence-status notes.
 
 
 **Canvas 30 · Prompt drift detector**
 
-Write a plausible but off-topic sentence. Explain why the official question does not need it.MAKE / KEEPA relevance explanation.
+Optional skill practice. Use the current Week 4 brief for submitted products.Write a plausible but off-topic sentence. Explain why the official question does not need it.MAKE / KEEPA relevance explanation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A relevance explanation.
 
 
-## Unit 3 · Lesson 4 · Internet Time: Revise and Publish
+## Unit 3 · Lesson 4 · Internet Time: A Clear Verdict · Create, Revise and Teach
 
 Design: **The Opinion Press**. Black-and-white publishing · cobalt marginalia · numbered proofs
 
@@ -3193,51 +3458,51 @@ Design: **The Opinion Press**. Black-and-white publishing · cobalt marginalia �
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | A stronger argumentis an edited argument. | A polished p.77 opinion with three supports, two explained revisions and a full TTD #4 teaching rehearsal. |
-| 01–02 | 2 | Your 90-minute route. | Leave with a written product, source evidence, a meaningful revision and a clear next step. |
+| 00–01 | 1 | One question.Three ideas.Your verdict. | Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion. |
 | 02–05 | 3 | Say the answer before the reasons. | A compact argument map. |
 | 05–07 | 4 | A shiny number can distract a writer. | One evidence-check question. |
 | 07–10 | 5 | Find the controlling idea. | One choice with a reason. |
 | 10–15 | 6 | Source audit · what are you really using? | Three evidence-status labels + one scope limit. |
 | 15–18 | 7 | A paragraph has a logical sequence. | An ordered chain + a reminder of all three ideas. |
 | 18–21 | 8 | Use the actual checklist. | Two diagnosed issues with quoted evidence. |
-| 21–23 | 9 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 23–25 | 9 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
+| 21–23 | 9 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 23–25 | 9 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
 | 25–28 | 10 | Connect ideas without a comma splice. | A corrected join and one self-check. |
 | 28–31 | 11 | A qualification keeps the main position. | A qualified opinion with a complete sentence boundary. |
 | 31–34 | 12 | The ending must keep its promise. | A consistent concluding sentence. |
-| 34–36 | 13 | Teach the Document #4 · reconnect. | A packet with the document, draft and revision evidence open. |
-| 36–38 | 14 | Use the rubric as a revision tool. | One priority criterion and one sentence explaining the needed improvement. |
-| 38–41 | 15 | Choose two changes before rewriting. | One meaning/evidence goal + one language goal. |
-| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | A final opinion paragraph meeting the p.77–78 requirements. |
-| 53–55 | 17 | Read it as someone new to the topic. | Two underlined strengths and one circled problem to discuss. |
-| 55–56 | 18 | Before you exchange the paragraph… | A partner and a specific question for the reader. |
-| 56–61 | 19 | Five-minute peer conference. | One located problem, one suggested repair and the writer’s decision. |
-| 61–65 | 20 | Revise the content before polishing. | A meaningful before → after → reason revision receipt. |
-| 65–68 | 20 | Edit the language that carries the meaning. | The final language revision receipt + corrected paragraph. |
-| 68–70 | 21 | A visual should help a listener read. | A credited document with readable labels and selected annotations. |
-| 70–73 | 22 | Build a 4-minute teaching route. | A cue outline, not a paragraph read aloud without explanation. |
-| 73–74 | 23 | Partners A and B · set the stage. | Document visible, listener question ready, roles assigned. |
-| 74–78 | 24 | TTD #4 · Partner A teaches. | A 4-minute explanation with a document-based listener check. |
-| 78–79 | 24 | Listener B · one minute of feedback. | One accurate observation + one next action for A. |
-| 79–83 | 24 | TTD #4 · Partner B teaches. | B’s 4-minute explanation; A answers the source question. |
-| 83–84 | 24 | Listener A · one minute of feedback. | One accurate observation + one next action for B. |
-| 84–86 | 25 | Make the rehearsal improve the writing. | One final change based on the listener’s response. |
-| 86–88 | 26 | Exit ticket · prove the skill. | A short written self-assessment with evidence from your paragraph. |
-| 88–90 | 27 | Check the packet. Export. Keep it. | A final packet and an exported editable copy. |
+| 34–36 | 13 | Teach the Document #4 · reconnect. | A specific decision that improves the current weekly project. |
+| 36–38 | 14 | Use the rubric as a revision tool. | One priority and a concrete improvement. |
+| 38–41 | 15 | Choose two changes before rewriting. | A task-specific organizer linked to your writing. |
+| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 53–55 | 17 | Read it as someone new to the topic. | A specific decision that improves the current weekly project. |
+| 55–56 | 18 | Before you exchange the paragraph… | A specific decision that improves the current weekly project. |
+| 56–61 | 19 | Five-minute peer conference. | One keep comment, one revision suggestion and the writer’s decision. |
+| 61–65 | 20 | Revise the content before polishing. | A better draft and an explained class revision. |
+| 65–68 | 20 | Edit the language that carries the meaning. | A better draft and an explained class revision. |
+| 68–70 | 21 | A visual should help a listener read. | A readable creative document that supports the required writing. |
+| 70–73 | 22 | Build a 4-minute teaching route. | An explanation of your evidence, design and writing choices. |
+| 73–74 | 23 | Partners A and B · set the stage. | An explanation of your evidence, design and writing choices. |
+| 74–78 | 24 | TTD #4 · Partner A teaches. | An explanation of your evidence, design and writing choices. |
+| 78–79 | 24 | Listener B · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 79–83 | 24 | TTD #4 · Partner B teaches. | An explanation of your evidence, design and writing choices. |
+| 83–84 | 24 | Listener A · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 84–86 | 25 | Make the rehearsal improve the writing. | A specific decision that improves the current weekly project. |
+| 86–88 | 26 | Exit ticket · prove the skill. | Three short evidence-based reflections. |
+| 88–90 | 27 | Check the packet. Export. Keep it. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 3 (pp.58–79). The complete unit and contents pp.4–5 are embedded. Reading 1: personal information/advertising; Reading 2: children and video games. The actual pp.69–78 language, critical-thinking, topic-sentence, planner and checklist tasks support the final opinion paragraph.The publisher advertising video is separate; the labeled p.63 reading fallback works offline. Students need paper or the Writing Desk. Export writing before switching computers.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Do you agree or disagree that “The internet wastes our time. It does not help us do more work”? Write an 8–10-sentence opinion paragraph using three supporting ideas.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
-Support: rehearse an opinion orally, use “I think ___ because ___,” and develop two accurate reasons before expanding to the course target. Keep source and inference separate. Stretch: qualify the scope of a claim, remove irrelevant evidence or explain why a counterpoint does not change the chosen position. All students retain the same one-sided writing goal. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · A stronger argumentis an edited argument.**
+**Canvas 1 · 00–01 · One question.Three ideas.Your verdict.**
 
-Task: How can evidence make one clear position convincing?
+Task: Do you agree or disagree that “The internet wastes our time. It does not help us do more work”? Write an 8–10-sentence opinion paragraph using three supporting ideas.
 
-Product: A polished p.77 opinion with three supports, two explained revisions and a full TTD #4 teaching rehearsal.
+Product: Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion
 
 Purpose and evidence: A polished p.77 opinion with three supports, two explained revisions and a full TTD #4 teaching rehearsal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -3246,7 +3511,7 @@ Purpose and evidence: A polished p.77 opinion with three supports, two explained
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: Leave with a written product, source evidence, a meaningful revision and a clear next step.
+Product: I can complete the current weekly products: Clear agree/disagree · 3 supporting ideas · 8–10 sentences · Consistent conclusion.
 
 Purpose and evidence: Leave with a written product, source evidence, a meaningful revision and a clear next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -3257,7 +3522,7 @@ Task: Write your stance and the three supporting ideas in four short lines. Test
 
 Product: A compact argument map.
 
-Purpose and evidence: A compact argument map.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
+Purpose and evidence: A compact argument map.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas. Textbook skill practice: p.77. The current weekly brief controls the submitted project.
 
 Book p.77 · Official task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
 
@@ -3277,7 +3542,7 @@ Task: Select ONE p.76 paragraph from Exercise 3. Choose its topic sentence and e
 
 Product: One choice with a reason.
 
-Purpose and evidence: One choice with a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.76 · page guidanceTopic sentences: Topic + controlling idea. Ex3: a 2; b 4; c 1; d 3.Reading 2 reference: ¶2 topic: many see games as fun/educational. ¶3 topic: a study suggests games can also be bad for children.
+Purpose and evidence: One choice with a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.76 · page guidanceTopic sentences: Topic + controlling idea. Ex3: a 2; b 4; c 1; d 3.Reading 2 reference: ¶2 topic: many see games as fun/educational. ¶3 topic: a study suggests games can also be bad for children. Textbook skill practice: p.76. The current weekly brief controls the submitted project.
 
 Book p.76 · Topic sentences: Topic + controlling idea. Ex3: a 2; b 4; c 1; d 3.
 
@@ -3290,7 +3555,7 @@ Task: Revisit your selected p.67 source point or the fictional time log. Label s
 
 Product: Three evidence-status labels + one scope limit.
 
-Purpose and evidence: Three evidence-status labels + one scope limit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas.
+Purpose and evidence: Three evidence-status labels + one scope limit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.67 · page guidanceStructure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.Scope: The article concerns children and games. Do not present its UK age-specific figure as a current global statistic or as evidence about every internet user.Book p.77 · page guidanceOfficial task: Agree/disagree on internet wasting time/helping work. Choose one stance, a topic sentence and THREE supporting ideas. Textbook skill practice: p.67, p.77. The current weekly brief controls the submitted project.
 
 Book p.67 · Structure: ¶1 topic/context; ¶2 benefits; ¶3 drawbacks; ¶4 balanced conclusion and parental guidance.
 
@@ -3316,7 +3581,7 @@ Task: On p.78, choose one task check and one language check that reveal a real i
 
 Product: Two diagnosed issues with quoted evidence.
 
-Purpose and evidence: Two diagnosed issues with quoted evidence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.78 · page guidanceTask checklist: Answer the question; topic with controlling idea; opinion; three supporting ideas; conclusion.Language checklist: Compound nouns; opinion phrase sentence order; and/also/too; but/however; compound sentences.
+Purpose and evidence: Two diagnosed issues with quoted evidence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.78 · page guidanceTask checklist: Answer the question; topic with controlling idea; opinion; three supporting ideas; conclusion.Language checklist: Compound nouns; opinion phrase sentence order; and/also/too; but/however; compound sentences. Textbook skill practice: p.78. The current weekly brief controls the submitted project.
 
 Book p.78 · Task checklist: Answer the question; topic with controlling idea; opinion; three supporting ideas; conclusion.
 
@@ -3325,20 +3590,24 @@ Book p.78 · Language checklist: Compound nouns; opinion phrase sentence order; 
 
 **Canvas 9 · 21–23 · Model lab · opening and support**
 
-Task: Locate the stance and first two support chains. Explain how examples develop rather than replace the reasons.
+Task: Read the current Internet Time: A Clear Verdict model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Position, Reason, Example, Reason, Explanation, Reason, Qualification, Example, Explanation, Conclusion
 
 
 **Canvas 9 · 23–25 · Model lab · development and ending**
 
-Task: Find the third support, qualification and ending. Which choice makes the opinion consistent?
+Task: Read the current Internet Time: A Clear Verdict model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Position, Reason, Example, Reason, Explanation, Reason, Qualification, Example, Explanation, Conclusion
 
 
 **Canvas 10 · 25–28 · Connect ideas without a comma splice.**
@@ -3369,7 +3638,7 @@ Task: Compare your topic and conclusion. Remove a new reason or a conflicting st
 
 Product: A consistent concluding sentence.
 
-Purpose and evidence: A consistent concluding sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.78 · page guidanceTask checklist: Answer the question; topic with controlling idea; opinion; three supporting ideas; conclusion.Language checklist: Compound nouns; opinion phrase sentence order; and/also/too; but/however; compound sentences.
+Purpose and evidence: A consistent concluding sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.78 · page guidanceTask checklist: Answer the question; topic with controlling idea; opinion; three supporting ideas; conclusion.Language checklist: Compound nouns; opinion phrase sentence order; and/also/too; but/however; compound sentences. Textbook skill practice: p.78. The current weekly brief controls the submitted project.
 
 Book p.78 · Task checklist: Answer the question; topic with controlling idea; opinion; three supporting ideas; conclusion.
 
@@ -3378,187 +3647,233 @@ Book p.78 · Language checklist: Compound nouns; opinion phrase sentence order; 
 
 **Canvas 13 · 34–36 · Teach the Document #4 · reconnect.**
 
-Task: TTD #4 uses the official p.77 internet-time question, not the earlier privacy-control prompt. Check that your packet has THREE supporting ideas.
+Task: Prepare, check or reflect on your Internet Time: A Clear Verdict. Explain three distinct supporting ideas.
 
-Product: A packet with the document, draft and revision evidence open.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A packet with the document, draft and revision evidence open.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 14 · 36–38 · Use the rubric as a revision tool.**
 
-Task: Use the exact assignment rubric. Prioritize relevance, developed support and accurate source use before surface polish.
+Task: Use the suggested teaching rubric to prioritize improvement. The submission checklist follows the Word document; class revision practice supports the work.
 
-Product: One priority criterion and one sentence explaining the needed improvement.
+Product: One priority and a concrete improvement.
 
-Purpose and evidence: One priority criterion and one sentence explaining the needed improvement.Use the assignment’s exact five rubric categories in the brief. These five labels summarize the categories; assess the full descriptors, not word count or checkbox totals.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 15 · 38–41 · Choose two changes before rewriting.**
 
-Task: Choose a relevance/development goal and a sentence-connection goal from p.78. Preserve the original wording for the two receipts.
+Task: Complete this week’s project planner. Do you agree or disagree that “The internet wastes our time. It does not help us do more work”? Write an 8–10-sentence opinion paragraph using three supporting ideas.
 
-Product: One meaning/evidence goal + one language goal.
+Product: A task-specific organizer linked to your writing.
 
 Starting phrase: I will improve ___ by ___. My reader will be able to ___.
 
-Purpose and evidence: One meaning/evidence goal + one language goal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I will improve ___ by ___. My reader will be able to ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 16 · 41–53 · Writing studio · 12 uninterrupted minutes.**
 
-Task: Revise the 8–10-sentence internet-time paragraph. Keep three distinct, developed supports, honest source framing and a consistent conclusion.
+Task: Write and develop your own paragraph for Internet Time: A Clear Verdict. Use 8–10 sentences, your organizer and source evidence. Keep each supporting idea relevant to the same document or position.
 
-Product: A final opinion paragraph meeting the p.77–78 requirements.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: I believe ___. First, ___ because ___. For example, ___. This matters because ___. For these reasons, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: repair the biggest content or organization problem.; 3–9 min: develop support and connect the sentences.; 9–12 min: read the paragraph as a whole and check the ending.
 
-Purpose and evidence: A final opinion paragraph meeting the p.77–78 requirements.Protect twelve minutes of independent writing. A student without a first draft starts from today’s planner; an early finisher checks claims against the source and improves precision. Do not require extra length as a substitute for revision.Support: I believe ___. First, ___ because ___. For example, ___. This matters because ___. For these reasons, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 17 · 53–55 · Read it as someone new to the topic.**
 
-Task: Underline the position and conclusion. Number the reasons, box examples, and circle an unsupported universal claim.
+Task: Prepare, check or reflect on your Internet Time: A Clear Verdict. Explain three distinct supporting ideas.
 
-Product: Two underlined strengths and one circled problem to discuss.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: Two underlined strengths and one circled problem to discuss.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 18 · 55–56 · Before you exchange the paragraph…**
 
-Task: Check that each example supports a reason and every reason answers the prompt. Verify source statements and label invented illustrations.
+Task: Prepare, check or reflect on your Internet Time: A Clear Verdict. Explain three distinct supporting ideas.
 
-Product: A partner and a specific question for the reader.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A partner and a specific question for the reader.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 19 · 56–61 · Five-minute peer conference.**
 
-Task: Underline the position. Number the supporting ideas. Trace one source point and draw an arrow from one example to its reason. Suggest one concrete revision.
+Task: Check your partner’s Internet Time: A Clear Verdict against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One located problem, one suggested repair and the writer’s decision.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: I understood ___. I could not verify ___. Try ___ because ___.
 
 Checkpoints: 0–2 min: A checks B’s work against the task and source.; 2–4 min: B checks A’s work against the task and source.; 4–5 min: both record the action they will take.
 
-Purpose and evidence: One located problem, one suggested repair and the writer’s decision.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I understood ___. I could not verify ___. Try ___ because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 20 · 61–65 · Revise the content before polishing.**
 
-Task: Use the peer comment to develop or replace the weakest support. Explain why the new wording answers the question better.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: A meaningful before → after → reason revision receipt.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: A meaningful before → after → reason revision receipt.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 20 · 65–68 · Edit the language that carries the meaning.**
 
-Task: Correct one sentence join, connector placement or opinion phrase. Explain the relationship the revised sentence expresses.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: The final language revision receipt + corrected paragraph.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: The final language revision receipt + corrected paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 21 · 68–70 · A visual should help a listener read.**
 
-Task: Prepare an evidence table: source statement → your reason → explanation → limitation. Credit the document and label fictional illustrations.
+Task: Create or refine the week’s visual document in the project studio. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research. Use your own content and give credits.
 
-Product: A credited document with readable labels and selected annotations.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A credited document with readable labels and selected annotations.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 22 · 70–73 · Build a 4-minute teaching route.**
 
-Task: Teach the question, source status and three-idea plan. Explain one evidence/development revision and one sentence revision; ask a relevance question.
+Task: Rehearse Internet Time: A Clear Verdict: State the verdict: Answer the complete textbook question.Explain three ideas: Connect each supporting idea to the same position.Teach the writing: Explain organization, evidence status and a useful language choice.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: A cue outline, not a paragraph read aloud without explanation.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: A cue outline, not a paragraph read aloud without explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: State the verdict: Answer the complete textbook question.; Explain three ideas: Connect each supporting idea to the same position.; Teach the writing: Explain organization, evidence status and a useful language choice.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 23 · 73–74 · Partners A and B · set the stage.**
 
-Task: Assign A/B. Put the evidence table beside the paragraph. Have the listener-check question ready and set a four-minute timer.
+Task: Rehearse Internet Time: A Clear Verdict: State the verdict: Answer the complete textbook question.Explain three ideas: Connect each supporting idea to the same position.Teach the writing: Explain organization, evidence status and a useful language choice.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: Document visible, listener question ready, roles assigned.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: Document visible, listener question ready, roles assigned.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: State the verdict: Answer the complete textbook question.; Explain three ideas: Connect each supporting idea to the same position.; Teach the writing: Explain organization, evidence status and a useful language choice.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 24 · 74–78 · TTD #4 · Partner A teaches.**
 
-Task: Show why your evidence belongs, how each of three ideas supports the stance, and how the revisions improved clarity. Test the listener with a relevance/scope question.
+Task: Rehearse Internet Time: A Clear Verdict: State the verdict: Answer the complete textbook question.Explain three ideas: Connect each supporting idea to the same position.Teach the writing: Explain organization, evidence status and a useful language choice.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: A 4-minute explanation with a document-based listener check.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: identify the source and writing question.; 0:40–1:40: teach the evidence and a limitation.; 1:40–2:40: explain the paragraph’s organization.; 2:40–3:30: explain revision choices.; 3:30–4:00: ask, pause, answer and credit.
+Checkpoints: State the verdict: Answer the complete textbook question.; Explain three ideas: Connect each supporting idea to the same position.; Teach the writing: Explain organization, evidence status and a useful language choice.
 
-Purpose and evidence: A 4-minute explanation with a document-based listener check.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 24 · 78–79 · Listener B · one minute of feedback.**
 
-Task: Name the speaker’s position and one reason you could trace to evidence. Give one action to improve the explanation.
+Task: Rehearse Internet Time: A Clear Verdict: State the verdict: Answer the complete textbook question.Explain three ideas: Connect each supporting idea to the same position.Teach the writing: Explain organization, evidence status and a useful language choice.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: One accurate observation + one next action for A.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for A.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: State the verdict: Answer the complete textbook question.; Explain three ideas: Connect each supporting idea to the same position.; Teach the writing: Explain organization, evidence status and a useful language choice.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 24 · 79–83 · TTD #4 · Partner B teaches.**
 
-Task: Show why your evidence belongs, how each of three ideas supports the stance, and how the revisions improved clarity. Test the listener with a relevance/scope question.
+Task: Rehearse Internet Time: A Clear Verdict: State the verdict: Answer the complete textbook question.Explain three ideas: Connect each supporting idea to the same position.Teach the writing: Explain organization, evidence status and a useful language choice.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: B’s 4-minute explanation; A answers the source question.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: source and question.; 0:40–1:40: evidence and limit.; 1:40–2:40: paragraph choices.; 2:40–3:30: revision choices.; 3:30–4:00: listener check and credits.
+Checkpoints: State the verdict: Answer the complete textbook question.; Explain three ideas: Connect each supporting idea to the same position.; Teach the writing: Explain organization, evidence status and a useful language choice.
 
-Purpose and evidence: B’s 4-minute explanation; A answers the source question.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 24 · 83–84 · Listener A · one minute of feedback.**
 
-Task: Name the speaker’s position and one reason you could trace to evidence. Give one action to improve the explanation.
+Task: Rehearse Internet Time: A Clear Verdict: State the verdict: Answer the complete textbook question.Explain three ideas: Connect each supporting idea to the same position.Teach the writing: Explain organization, evidence status and a useful language choice.Use the class rehearsal to explain choices; follow the teacher’s announced final format and timing.
 
-Product: One accurate observation + one next action for B.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for B.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: State the verdict: Answer the complete textbook question.; Explain three ideas: Connect each supporting idea to the same position.; Teach the writing: Explain organization, evidence status and a useful language choice.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 25 · 84–86 · Make the rehearsal improve the writing.**
 
-Task: Use the listener’s response to strengthen an unclear evidence link or a sentence connection.
+Task: Prepare, check or reflect on your Internet Time: A Clear Verdict. Explain three distinct supporting ideas.
 
-Product: One final change based on the listener’s response.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One final change based on the listener’s response.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 26 · 86–88 · Exit ticket · prove the skill.**
 
-Task: Use p.79 to identify one evidenced writing strength. Quote a sentence and state a next step for data-based writing.
+Task: Name one source detail, one writing/design choice and the next improvement in your Internet Time: A Clear Verdict.
 
-Product: A short written self-assessment with evidence from your paragraph.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: A short written self-assessment with evidence from your paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 **Canvas 27 · 88–90 · Check the packet. Export. Keep it.**
 
-Task: Apply the listener’s suggestion, check all seven TTD #4 items and export the final packet. Keep the evidence-check habits for Unit 4 graphs.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Submit the products named in the Word-document brief using your teacher’s route/date.
 
-Product: A final packet and an exported editable copy.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: A final packet and an exported editable copy.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
+
+Answer/model: Possible model: Disagree with the broad statement: purposeful searching, sharing work and organizing notes. Mira/Leon are clearly labeled fictional illustrations, not research.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -3566,33 +3881,33 @@ Purpose and evidence: A final packet and an exported editable copy.Show the task
 
 **Canvas 28 · Reader interview**
 
-Ask a partner to restate your stance and three supports without looking. Diagnose one unclear part.MAKE / KEEPA feedback-based revision.
+Optional skill practice. Use the current Week 4 brief for submitted products.Ask a partner to restate your stance and three supports without looking. Diagnose one unclear part.MAKE / KEEPA feedback-based revision.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A feedback-based revision.
 
 
 **Canvas 29 · Precision edit**
 
-Remove five unnecessary words while preserving meaning and evidence.MAKE / KEEPA concise version and explanation.
+Optional skill practice. Use the current Week 4 brief for submitted products.Remove five unnecessary words while preserving meaning and evidence.MAKE / KEEPA concise version and explanation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A concise version and explanation.
 
 
 **Canvas 30 · Conclusion alternatives**
 
-Write two endings that keep the stance without adding a new reason.MAKE / KEEPTwo endings and a choice.
+Optional skill practice. Use the current Week 4 brief for submitted products.Write two endings that keep the stance without adding a new reason.MAKE / KEEPTwo endings and a choice.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Two endings and a choice.
 
 
 **Canvas 31 · Opinion portfolio**
 
-Compare your privacy and internet-time paragraphs. Identify a transferable improvement.MAKE / KEEPA comparison with quoted sentences.
+Optional skill practice. Use the current Week 4 brief for submitted products.Compare your privacy and internet-time paragraphs. Identify a transferable improvement.MAKE / KEEPA comparison with quoted sentences.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A comparison with quoted sentences.
 
 
-## Unit 4 · Lesson 1 · Chart Detective: Read and Plan
+## Unit 4 · Lesson 1 · Postcards from Around the World · Investigate and Draft
 
 Design: **Weather Fieldbook**. Olive field notes · contour maps · specimen labels
 
@@ -3600,8 +3915,8 @@ Design: **Weather Fieldbook**. Olive field notes · contour maps · specimen lab
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | Read the landscape.Write the evidence. | A one-place evidence card, four labeled values and a 6–8-sentence first draft for TTD #5. |
-| 01–02 | 2 | Your 90-minute route. | I can identify graph labels, select accurate data, describe a supported pattern and avoid an invented forecast or cause. |
+| 00–01 | 1 | Four postcards.A year of climate. | 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video. |
 | 02–05 | 3 | Opinion or observation? | Two sentences with different evidence needs. |
 | 05–07 | 4 | A number without a label is a puzzle. | A short data-label checklist. |
 | 07–10 | 5 | Weather words need clear meanings. | Three meanings + a duration sentence. |
@@ -3610,41 +3925,41 @@ Design: **Weather Fieldbook**. Olive field notes · contour maps · specimen lab
 | 18–21 | 8 | A text example is not a current forecast. | A source-framed claim and a limit. |
 | 21–23 | 9 | Watch or read · label the route. | One note labeled reading or video. |
 | 23–25 | 10 | What is the graph actually measuring? | Two graph types and their units. |
-| 25–27 | 11 | Teach the Document #5 · START HERE | One chosen-place graph description: four labeled values, 6–8 sentences, two revisions, a credited evidence card and a 3–5-minute lesson. |
-| 27–29 | 11 | Your document is on the table. | A complete document passport: place, measures, period, units and page. |
-| 29–31 | 11 | Annotate. Locate. Explain. | Two fully labeled observations + a source limitation. |
-| 31–34 | 11 | Begin the assignment in class. | Four labeled evidence notes + one topic sentence. |
-| 34–35 | 11 | What must your packet contain? | Circle what is already started. Put a star beside the next action for Lesson 2. |
+| 25–27 | 11 | Postcards from Around the World | 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video |
+| 27–29 | 11 | Explore the worked document | A named product, a located source detail and a design choice you can explain. |
+| 29–31 | 11 | Trace evidence and explain choices | Three labeled evidence notes and one useful research question. |
+| 31–34 | 11 | Begin your own project | A project-specific organizer and an original opening sentence. |
+| 34–35 | 11 | Check this week’s required products | A truthful checklist and your next step. |
 | 35–37 | 12 | Average high / low · keep the series. | Two correct labels and one distinction. |
 | 37–40 | 13 | Rise, fall and reach. | Two checked choices + a complete data sentence. |
 | 40–43 | 14 | To / by / from…to. | Two sentences with correct meanings. |
-| 43–45 | 15 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 45–47 | 15 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
-| 47–50 | 16 | Plan the jobs before the sentences. | A one-place paragraph plan and four fully labeled source notes. |
-| 50–52 | 17 | A partner tests the plan. | One precise suggestion and one decision recorded by the writer. |
-| 52–53 | 18 | Set up a quiet writing sprint. | A visible plan, source, and a blank paragraph space. |
-| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | A 6–8-sentence one-place draft with a traceable evidence card. |
-| 67–68 | 20 | Peer review · agree on the reader’s job. | Partner names + the part each reader will verify. |
-| 68–73 | 21 | Peer conference · evidence before advice. | One “keep” comment and one actionable “revise” comment per writer. |
-| 73–77 | 22 | Revision 1 · improve the meaning. | Before → after → why, with an improved sentence in the paragraph. |
-| 77–80 | 22 | Revision 2 · make the language accurate. | An edited sentence + a reason connected to this lesson’s language target. |
-| 80–82 | 23 | Build the document you will point to. | A labeled visual draft with a source credit. |
-| 82–85 | 24 | Teach a small part before the full talk. | Each partner gives a 60-second document explanation and receives 30 seconds of feedback. |
-| 85–88 | 25 | Exit ticket · show the writing skill. | Three short responses: evidence, writing choice, next step. |
-| 88–90 | 26 | Save today. Arrive ready next time. | Exported writing + a named action for the next lesson. |
+| 43–45 | 15 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 45–47 | 15 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
+| 47–50 | 16 | Plan the jobs before the sentences. | A task-specific organizer linked to your writing. |
+| 50–52 | 17 | A partner tests the plan. | A specific decision that improves the current weekly project. |
+| 52–53 | 18 | Set up a quiet writing sprint. | A specific decision that improves the current weekly project. |
+| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 67–68 | 20 | Peer review · agree on the reader’s job. | One keep comment, one revision suggestion and the writer’s decision. |
+| 68–73 | 21 | Peer conference · evidence before advice. | One keep comment, one revision suggestion and the writer’s decision. |
+| 73–77 | 22 | Revision 1 · improve the meaning. | A better draft and an explained class revision. |
+| 77–80 | 22 | Revision 2 · make the language accurate. | A better draft and an explained class revision. |
+| 80–82 | 23 | Build the document you will point to. | A readable creative document that supports the required writing. |
+| 82–85 | 24 | Teach a small part before the full talk. | An explanation of your evidence, design and writing choices. |
+| 85–88 | 25 | Exit ticket · show the writing skill. | Three short evidence-based reflections. |
+| 88–90 | 26 | Save today. Arrive ready next time. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 4 (pp.80–101). The complete unit and contents pp.4–5 are embedded. Lessons 1–2 include Extreme weather (pp.84–86) and the Sahara reading/graph (pp.87–89); pp.90–101 supply the language, analysis, writing models, final task and checklists.The publisher tornado video is separate; the labeled reading route works offline. Use printed table values for exact claims and about for estimates between graph gridlines. Students need paper or the Writing Desk; a calculator can help check differences.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Imagine a year in a city outside China. Research its monthly climate, make a four-part organizer and four illustrated postcards with a climate graph, write 1–2 descriptive paragraphs (8–12 sentences total), and teach them in a 3–5-minute video.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
-Support: read the title/axes/units/legend aloud, use a measure–place–month–value table, and build “In ___, ___ is ___ than ___.” Develop accurate data sentences before expanding. Stretch: calculate a justified difference, compare like measures across the same month, or identify a causal claim the graph cannot establish. Keep units and negative signs visible. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · Read the landscape.Write the evidence.**
+**Canvas 1 · 00–01 · Four postcards.A year of climate.**
 
-Task: How can a reader verify every data sentence?
+Task: Imagine a year in a city outside China. Research its monthly climate, make a four-part organizer and four illustrated postcards with a climate graph, write 1–2 descriptive paragraphs (8–12 sentences total), and teach them in a 3–5-minute video.
 
-Product: A one-place evidence card, four labeled values and a 6–8-sentence first draft for TTD #5.
+Product: 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video
 
 Purpose and evidence: A one-place evidence card, four labeled values and a 6–8-sentence first draft for TTD #5.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -3653,7 +3968,7 @@ Purpose and evidence: A one-place evidence card, four labeled values and a 6–8
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: I can identify graph labels, select accurate data, describe a supported pattern and avoid an invented forecast or cause.
+Product: I can complete the current weekly products: 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video.
 
 Purpose and evidence: I can identify graph labels, select accurate data, describe a supported pattern and avoid an invented forecast or cause.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -3664,7 +3979,7 @@ Task: Write one weather preference and one statement a thermometer could support
 
 Product: Two sentences with different evidence needs.
 
-Purpose and evidence: Two sentences with different evidence needs.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.80 · page guidanceObjectives: Tornado video; reading for detail/prediction; graph analysis; comparative/superlative forms; topic/support sentences; examples; data paragraph.
+Purpose and evidence: Two sentences with different evidence needs.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.80 · page guidanceObjectives: Tornado video; reading for detail/prediction; graph analysis; comparative/superlative forms; topic/support sentences; examples; data paragraph. Textbook skill practice: p.80. The current weekly brief controls the submitted project.
 
 Book p.80 · Objectives: Tornado video; reading for detail/prediction; graph analysis; comparative/superlative forms; topic/support sentences; examples; data paragraph.
 
@@ -3686,7 +4001,7 @@ Task: Choose THREE p.84 vocabulary items, including lightning or thunder. Write 
 
 Product: Three meanings + a duration sentence.
 
-Purpose and evidence: Three meanings + a duration sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Full key: cover, lightning, almost, last, thunder, huge, dangerous. Select three in class; thunder is sound, lightning is the electrical flash.Book p.84 · page guidanceVocabulary: 1 cover; 2 lightning; 3 almost; 4 last; 5 thunder; 6 huge; 7 dangerous.
+Purpose and evidence: Three meanings + a duration sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Full key: cover, lightning, almost, last, thunder, huge, dangerous. Select three in class; thunder is sound, lightning is the electrical flash.Book p.84 · page guidanceVocabulary: 1 cover; 2 lightning; 3 almost; 4 last; 5 thunder; 6 huge; 7 dangerous. Textbook skill practice: p.84. The current weekly brief controls the submitted project.
 
 Answer/model: Full key: cover, lightning, almost, last, thunder, huge, dangerous. Select three in class; thunder is sound, lightning is the electrical flash.
 
@@ -3699,7 +4014,7 @@ Task: Read p.85 and choose TWO p.86 main-idea items. Underline a paragraph clue 
 
 Product: Two main-idea decisions with clues.
 
-Purpose and evidence: Two main-idea decisions with clues.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Full Exercise 3 key: 1 a; 2 b; 3 a; 4 b; 5 a. Check only the two selected items here.Book p.85 · page guidanceReading structure: ¶1 extreme weather; ¶2 hurricanes/cyclones/typhoons; ¶3 heat waves/droughts; ¶4 floods; ¶5 sandstorms.Scope: Examples and dates belong to the published account. They do not establish current local conditions or long-term change.Book p.86 · page guidanceExercise 3: 1 a; 2 b; 3 a; 4 b; 5 a.Exercise 4: 1 b; 2 a; 3 a; 4 b.Exercise 5: 1 b textbook excerpt; 2 b climate student; 3 a facts.
+Purpose and evidence: Two main-idea decisions with clues.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Full Exercise 3 key: 1 a; 2 b; 3 a; 4 b; 5 a. Check only the two selected items here.Book p.85 · page guidanceReading structure: ¶1 extreme weather; ¶2 hurricanes/cyclones/typhoons; ¶3 heat waves/droughts; ¶4 floods; ¶5 sandstorms.Scope: Examples and dates belong to the published account. They do not establish current local conditions or long-term change.Book p.86 · page guidanceExercise 3: 1 a; 2 b; 3 a; 4 b; 5 a.Exercise 4: 1 b; 2 a; 3 a; 4 b.Exercise 5: 1 b textbook excerpt; 2 b climate student; 3 a facts. Textbook skill practice: p.85, p.86. The current weekly brief controls the submitted project.
 
 Answer/model: Full Exercise 3 key: 1 a; 2 b; 3 a; 4 b; 5 a. Check only the two selected items here.
 
@@ -3720,7 +4035,7 @@ Task: Choose TWO p.86 Exercise 4 detail items. Locate each answer and paraphrase
 
 Product: Two source-linked answers + one paraphrase.
 
-Purpose and evidence: Two source-linked answers + one paraphrase.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Full Exercise 4 key: 1 b; 2 a; 3 a; 4 b. Preserve the text’s dates and scope when paraphrasing.Book p.85 · page guidanceReading structure: ¶1 extreme weather; ¶2 hurricanes/cyclones/typhoons; ¶3 heat waves/droughts; ¶4 floods; ¶5 sandstorms.Scope: Examples and dates belong to the published account. They do not establish current local conditions or long-term change.Book p.86 · page guidanceExercise 3: 1 a; 2 b; 3 a; 4 b; 5 a.Exercise 4: 1 b; 2 a; 3 a; 4 b.Exercise 5: 1 b textbook excerpt; 2 b climate student; 3 a facts.
+Purpose and evidence: Two source-linked answers + one paraphrase.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Full Exercise 4 key: 1 b; 2 a; 3 a; 4 b. Preserve the text’s dates and scope when paraphrasing.Book p.85 · page guidanceReading structure: ¶1 extreme weather; ¶2 hurricanes/cyclones/typhoons; ¶3 heat waves/droughts; ¶4 floods; ¶5 sandstorms.Scope: Examples and dates belong to the published account. They do not establish current local conditions or long-term change.Book p.86 · page guidanceExercise 3: 1 a; 2 b; 3 a; 4 b; 5 a.Exercise 4: 1 b; 2 a; 3 a; 4 b.Exercise 5: 1 b textbook excerpt; 2 b climate student; 3 a facts. Textbook skill practice: p.85, p.86. The current weekly brief controls the submitted project.
 
 Answer/model: Full Exercise 4 key: 1 b; 2 a; 3 a; 4 b. Preserve the text’s dates and scope when paraphrasing.
 
@@ -3741,7 +4056,7 @@ Task: Take one weather event from the article. Identify what the account describ
 
 Product: A source-framed claim and a limit.
 
-Purpose and evidence: A source-framed claim and a limit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.85 · page guidanceReading structure: ¶1 extreme weather; ¶2 hurricanes/cyclones/typhoons; ¶3 heat waves/droughts; ¶4 floods; ¶5 sandstorms.Scope: Examples and dates belong to the published account. They do not establish current local conditions or long-term change.
+Purpose and evidence: A source-framed claim and a limit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.85 · page guidanceReading structure: ¶1 extreme weather; ¶2 hurricanes/cyclones/typhoons; ¶3 heat waves/droughts; ¶4 floods; ¶5 sandstorms.Scope: Examples and dates belong to the published account. They do not establish current local conditions or long-term change. Textbook skill practice: p.85. The current weekly brief controls the submitted project.
 
 Book p.85 · Reading structure: ¶1 extreme weather; ¶2 hurricanes/cyclones/typhoons; ¶3 heat waves/droughts; ¶4 floods; ¶5 sandstorms.
 
@@ -3754,7 +4069,7 @@ Task: Offline: reread p.85’s storm paragraph and note one supported observatio
 
 Product: One note labeled reading or video.
 
-Purpose and evidence: One note labeled reading or video.Choose the route before class. This two-minute activity is a short observation only, not the full publisher video task. Never infer unseen video-only answers from still images.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.82 · page guidanceVideo: Publisher media required for exact watch-only answers. If unavailable, use the labeled p.85 reading fallback.Book p.83 · page guidanceVideo: The still page does not establish the actual film’s answers.Book p.85 · page guidanceReading structure: ¶1 extreme weather; ¶2 hurricanes/cyclones/typhoons; ¶3 heat waves/droughts; ¶4 floods; ¶5 sandstorms.Scope: Examples and dates belong to the published account. They do not establish current local conditions or long-term change.
+Purpose and evidence: One note labeled reading or video.Choose the route before class. This two-minute activity is a short observation only, not the full publisher video task. Never infer unseen video-only answers from still images.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.82 · page guidanceVideo: Publisher media required for exact watch-only answers. If unavailable, use the labeled p.85 reading fallback.Book p.83 · page guidanceVideo: The still page does not establish the actual film’s answers.Book p.85 · page guidanceReading structure: ¶1 extreme weather; ¶2 hurricanes/cyclones/typhoons; ¶3 heat waves/droughts; ¶4 floods; ¶5 sandstorms.Scope: Examples and dates belong to the published account. They do not establish current local conditions or long-term change. Textbook skill practice: p.82, p.83, p.85. The current weekly brief controls the submitted project.
 
 Book p.82 · Video: Publisher media required for exact watch-only answers. If unavailable, use the labeled p.85 reading fallback.
 
@@ -3771,7 +4086,7 @@ Task: Preview pp.92–93. Identify one temperature line graph and one precipitat
 
 Product: Two graph types and their units.
 
-Purpose and evidence: Two graph types and their units.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Purpose and evidence: Two graph types and their units.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -3780,22 +4095,22 @@ Book p.93 · Exercise 3: 1 precipitation in millimetres; 2 temperature in Celsiu
 Book p.93 · Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
 
 
-**Canvas 11 · 25–27 · Teach the Document #5 · START HERE**
+**Canvas 11 · 25–27 · Postcards from Around the World**
 
-Task: Choose one place in the textbook graphs (pp.92–93). Teach the title, axes, units and legend; select accurate data; write a 6–8-sentence descriptive paragraph; show two revisions and a credited evidence card.
+Task: Imagine a year in a city outside China. Research its monthly climate, make a four-part organizer and four illustrated postcards with a climate graph, write 1–2 descriptive paragraphs (8–12 sentences total), and teach them in a 3–5-minute video.
 
-Product: One chosen-place graph description: four labeled values, 6–8 sentences, two revisions, a credited evidence card and a 3–5-minute lesson.
+Product: 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video
 
-Purpose and evidence: One chosen-place graph description: four labeled values, 6–8 sentences, two revisions, a credited evidence card and a 3–5-minute lesson.This is a ten-minute classroom workshop, not a homework announcement. It starts here in Unit 4, Lesson 1. Keep the document visible. The same assignment is completed and taught in Lesson 2.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
-**Canvas 11 · 27–29 · Your document is on the table.**
+**Canvas 11 · 27–29 · Explore the worked document**
 
-Task: Choose Svalbard or Amman in pp.92–93. Point to the title, axes, units and temperature legend. Identify the table as another representation.
+Task: Explore the complete worked example on this canvas. Identify its required products and trace one detail to its source.
 
-Product: A complete document passport: place, measures, period, units and page.
+Product: A named product, a located source detail and a design choice you can explain.
 
-Purpose and evidence: A complete document passport: place, measures, period, units and page.Students may choose Svalbard; all source pages are embedded. The model uses unambiguous printed Amman cells. Use about when reading an estimated point between gridlines.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -3804,13 +4119,13 @@ Book p.93 · Exercise 3: 1 precipitation in millimetres; 2 temperature in Celsiu
 Book p.93 · Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
 
 
-**Canvas 11 · 29–31 · Annotate. Locate. Explain.**
+**Canvas 11 · 29–31 · Trace evidence and explain choices**
 
-Task: Make one temperature note and one precipitation note, each with month, measure, value and unit. Write one limit.
+Task: Read the evidence cards. Keep a fact, an explanation and a source limit for your own project.
 
-Product: Two fully labeled observations + a source limitation.
+Product: Three labeled evidence notes and one useful research question.
 
-Purpose and evidence: Two fully labeled observations + a source limitation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Temperature uses °C; precipitation uses mm. The document does not supply tomorrow’s forecast.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Answer/model: Temperature uses °C; precipitation uses mm. The document does not supply tomorrow’s forecast.
 
@@ -3821,15 +4136,15 @@ Book p.93 · Exercise 3: 1 precipitation in millimetres; 2 temperature in Celsiu
 Book p.93 · Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
 
 
-**Canvas 11 · 31–34 · Begin the assignment in class.**
+**Canvas 11 · 31–34 · Begin your own project**
 
-Task: Choose one place. Select FOUR values across the two measures. Draft a topic sentence that names place, measures and one-year period.
+Task: Open the project planner. Start the week’s organizer and choose the main idea for your own writing.
 
-Product: Four labeled evidence notes + one topic sentence.
+Product: A project-specific organizer and an original opening sentence.
 
-Starting phrase: The printed table gives ___ for ___ in ___.
+Starting phrase: My document will show ___ using ___ because ___.
 
-Purpose and evidence: Four labeled evidence notes + one topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: The printed table gives ___ for ___ in ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -3838,13 +4153,13 @@ Book p.93 · Exercise 3: 1 precipitation in millimetres; 2 temperature in Celsiu
 Book p.93 · Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
 
 
-**Canvas 11 · 34–35 · What must your packet contain?**
+**Canvas 11 · 34–35 · Check this week’s required products**
 
-Task: Today: one-place plan and first draft. Lesson 2: develop patterns, audit labels, complete two revisions and teach. Keep average highs/lows distinct.
+Task: Check the required products in this week’s Word-document brief. Star a useful next step for the completion lesson.
 
-Product: Circle what is already started. Put a star beside the next action for Lesson 2.
+Product: A truthful checklist and your next step.
 
-Purpose and evidence: Circle what is already started. Put a star beside the next action for Lesson 2.Open the full brief and the 20-point rubric if a student needs the detailed submission requirements. Every checklist item remains in the Writing Desk. No platform or calendar date is assumed.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 12 · 35–37 · Average high / low · keep the series.**
@@ -3853,7 +4168,7 @@ Task: On p.90, identify a high and a low. Explain why an average high is differe
 
 Product: Two correct labels and one distinction.
 
-Purpose and evidence: Two correct labels and one distinction.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.90 · page guidanceExercise 1: 1 high; 2 low; 3 maximum; 4 minimum.Exercise 2: 1 A; 2 B; 3 A; 4 B; 5 B; 6 A.
+Purpose and evidence: Two correct labels and one distinction.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.90 · page guidanceExercise 1: 1 high; 2 low; 3 maximum; 4 minimum.Exercise 2: 1 A; 2 B; 3 A; 4 B; 5 B; 6 A. Textbook skill practice: p.90. The current weekly brief controls the submitted project.
 
 Book p.90 · Exercise 1: 1 high; 2 low; 3 maximum; 4 minimum.
 
@@ -3866,7 +4181,7 @@ Task: Use TWO selected p.90–91 items to distinguish direction from endpoint. W
 
 Product: Two checked choices + a complete data sentence.
 
-Purpose and evidence: Two checked choices + a complete data sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.90 · page guidanceExercise 1: 1 high; 2 low; 3 maximum; 4 minimum.Exercise 2: 1 A; 2 B; 3 A; 4 B; 5 B; 6 A.Book p.91 · page guidanceExercise 3: Increase: rise/reach (reach names an endpoint); decrease: drop/fall.Exercise 4: 1 increase/reaches; 2 decrease/drops; 3 increase/reaches; 4 decrease/falls.
+Purpose and evidence: Two checked choices + a complete data sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.90 · page guidanceExercise 1: 1 high; 2 low; 3 maximum; 4 minimum.Exercise 2: 1 A; 2 B; 3 A; 4 B; 5 B; 6 A.Book p.91 · page guidanceExercise 3: Increase: rise/reach (reach names an endpoint); decrease: drop/fall.Exercise 4: 1 increase/reaches; 2 decrease/drops; 3 increase/reaches; 4 decrease/falls. Textbook skill practice: p.90, p.91. The current weekly brief controls the submitted project.
 
 Book p.90 · Exercise 1: 1 high; 2 low; 3 maximum; 4 minimum.
 
@@ -3883,7 +4198,7 @@ Task: Using the printed Amman table, compare January 13°C and July 31°C averag
 
 Product: Two sentences with correct meanings.
 
-Purpose and evidence: Two sentences with correct meanings.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: 31°C is a source value. 18°C is calculated: 31 − 13. Do not substitute one for the other.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Purpose and evidence: Two sentences with correct meanings.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: 31°C is a source value. 18°C is calculated: 31 − 13. Do not substitute one for the other.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm. Textbook skill practice: p.93. The current weekly brief controls the submitted project.
 
 Answer/model: 31°C is a source value. 18°C is calculated: 31 − 13. Do not substitute one for the other.
 
@@ -3894,29 +4209,35 @@ Book p.93 · Values used in this course: January average high: Amman 13°C, Sval
 
 **Canvas 15 · 43–45 · Model lab · opening and support**
 
-Task: Identify the topic’s place, measures and period. Locate the two temperature values and the calculated difference.
+Task: Read the current Postcards from Around the World model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Data, Data, Comparison, Data, Comparison, Pattern, Explanation, Example, Summary
 
 
 **Canvas 15 · 45–47 · Model lab · development and ending**
 
-Task: Find precipitation support and the summary. Explain which figures are source values and which are derived.
+Task: Read the current Postcards from Around the World model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Data, Data, Comparison, Data, Comparison, Pattern, Explanation, Example, Summary
 
 
 **Canvas 16 · 47–50 · Plan the jobs before the sentences.**
 
-Task: Choose Amman or Svalbard. Plan 6–8 sentence jobs using both measures and at least FOUR labeled values. Keep source values, estimates and calculations distinct.
+Task: Complete this week’s project planner. Imagine a year in a city outside China. Research its monthly climate, make a four-part organizer and four illustrated postcards with a climate graph, write 1–2 descriptive paragraphs (8–12 sentences total), and teach them in a 3–5-minute video.
 
-Product: A one-place paragraph plan and four fully labeled source notes.
+Product: A task-specific organizer linked to your writing.
 
-Purpose and evidence: A one-place paragraph plan and four fully labeled source notes.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.Book p.96 · page guidanceExercise 3: 1 higher; 2 colder; 3 lowest (book’s “of the two” wording); 4 wetter; 5 drier; 6 rainiest; 7 sunny.Topic sentences: Graph shows + measure + time period + place. A: precipitation, mm, one year, Svalbard/Norway. B: temperature, °C, one year, Svalbard/Norway.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern. Textbook skill practice: p.92, p.93, p.96. The current weekly brief controls the submitted project.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -3931,113 +4252,135 @@ Book p.96 · Topic sentences: Graph shows + measure + time period + place. A: pr
 
 **Canvas 17 · 50–52 · A partner tests the plan.**
 
-Task: Explain your main pattern without reading every number. Ask your partner to trace one supporting value to the source.
+Task: Prepare, check or reflect on your Postcards from Around the World. Use the required products and the worked example as your checklist.
 
-Product: One precise suggestion and one decision recorded by the writer.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One precise suggestion and one decision recorded by the writer.A speaks for 45 seconds; B asks one question for 30 seconds; writer records an action for 45 seconds. Review the plan, not every possible sentence.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 18 · 52–53 · Set up a quiet writing sprint.**
 
-Task: Keep the original graphs/table and evidence card open. Say the place, month, measure and unit before writing each number.
+Task: Prepare, check or reflect on your Postcards from Around the World. Use the required products and the worked example as your checklist.
 
-Product: A visible plan, source, and a blank paragraph space.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A visible plan, source, and a blank paragraph space.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 19 · 53–67 · Writing studio · 14 uninterrupted minutes.**
 
-Task: Write 6–8 sentences about your chosen place. Name the document, measures and one-year period. Describe temperature and precipitation with at least four labeled values and a supported summary.
+Task: Write and develop your own one or two paragraphs for Postcards from Around the World. Use 8–12 total sentences, your organizer and source evidence. Read all of the writing aloud in the final video.
 
-Product: A 6–8-sentence one-place draft with a traceable evidence card.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: The graphs show ___. The table gives ___ in ___. For example, ___. Overall, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: write a clear opening and use the plan.; 3–10 min: develop the supporting sentences with source-based detail.; 10–14 min: finish the ending; reread and mark one uncertain sentence.
 
-Purpose and evidence: A 6–8-sentence one-place draft with a traceable evidence card.Protect the entire fourteen minutes. Do not switch slides at checkpoints or interrupt the class. Quietly conference with two or three writers. Support: use the sentence bank, then remove repeated frames. Stretch: improve precision and relevance before adding length.Support: The graphs show ___. The table gives ___ in ___. For example, ___. Overall, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 20 · 67–68 · Peer review · agree on the reader’s job.**
 
-Task: Trace the place, month, measure, value, sign and unit. Distinguish printed values, estimates and calculated differences.
+Task: Check your partner’s Postcards from Around the World against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: Partner names + the part each reader will verify.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
-Purpose and evidence: Partner names + the part each reader will verify.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 21 · 68–73 · Peer conference · evidence before advice.**
 
-Task: Find four values in the source. Check each label and one calculation. Underline the main pattern and suggest one repair.
+Task: Check your partner’s Postcards from Around the World against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One “keep” comment and one actionable “revise” comment per writer.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: Keep ___ because ___. Revise sentence ___ by ___ so that ___.
 
 Checkpoints: 0–2 min: A reads B’s paragraph and traces the chosen evidence.; 2–4 min: B reads A’s paragraph and traces the chosen evidence.; 4–5 min: each writer records a revision decision.
 
-Purpose and evidence: One “keep” comment and one actionable “revise” comment per writer.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Keep ___ because ___. Revise sentence ___ by ___ so that ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 22 · 73–77 · Revision 1 · improve the meaning.**
 
-Task: Find a value with a missing label or an unsupported causal claim. Repair it using the source. Keep one data/units revision receipt.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: Before → after → why, with an improved sentence in the paragraph.
+Product: A better draft and an explained class revision.
 
 Starting phrase: Before: ___. After: ___. This helps the reader because ___.
 
-Purpose and evidence: Before → after → why, with an improved sentence in the paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Before: ___. After: ___. This helps the reader because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 22 · 77–80 · Revision 2 · make the language accurate.**
 
-Task: Improve a trend or endpoint sentence. Check to/by/from…to and the distinction between a value and a difference.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: An edited sentence + a reason connected to this lesson’s language target.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: An edited sentence + a reason connected to this lesson’s language target.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 23 · 80–82 · Build the document you will point to.**
 
-Task: Make a selected-data card with readable place/month/measure labels, units, source page and a stated limit. Label calculations separately.
+Task: Create or refine the week’s visual document in the project studio. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern. Use your own content and give credits.
 
-Product: A labeled visual draft with a source credit.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A labeled visual draft with a source credit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 24 · 82–85 · Teach a small part before the full talk.**
 
-Task: Point to the axes and legend, locate a value, then explain how you made a complete data sentence. Ask the listener to verify a label.
+Task: Rehearse Postcards from Around the World: Introduce the destination: Name the international city and the data source/period.Explain your choices: Show the four-part organizer and why you chose the months.Tour four postcards: Explain images, temperature, precipitation and the annual graph.Read all paragraphs: Read all 8–12 sentences aloud.Explain the pattern: Show the main climate discovery and design decisions.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: A: 60-second explanation; B: 30-second feedback.; B: 60-second explanation; A: 30-second feedback.
+Checkpoints: Introduce the destination: Name the international city and the data source/period.; Explain your choices: Show the four-part organizer and why you chose the months.; Tour four postcards: Explain images, temperature, precipitation and the annual graph.; Read all paragraphs: Read all 8–12 sentences aloud.; Explain the pattern: Show the main climate discovery and design decisions.
 
-Purpose and evidence: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.This is a short rehearsal, not the final 3–5-minute submission. The full paired teaching happens in the next lesson.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 25 · 85–88 · Exit ticket · show the writing skill.**
 
-Task: Write one fully labeled source value, one calculated difference if used, and a limit. Say which is which.
+Task: Name one source detail, one writing/design choice and the next improvement in your Postcards from Around the World.
 
-Product: Three short responses: evidence, writing choice, next step.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: Three short responses: evidence, writing choice, next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 26 · 88–90 · Save today. Arrive ready next time.**
 
-Task: Export the one-place paragraph and evidence card. Preview p.89’s temperature graph before Lesson 2, marking its highest/lowest values and times.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Bring the draft and organizer to the next lesson.
 
-Product: Exported writing + a named action for the next lesson.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: Exported writing + a named action for the next lesson.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -4045,33 +4388,33 @@ Purpose and evidence: Exported writing + a named action for the next lesson.Show
 
 **Canvas 27 · Estimate responsibly**
 
-Choose a plotted point between gridlines. Write an approximate value with all labels.MAKE / KEEPA cautious graph reading.
+Optional skill practice. Use the current Week 5 brief for submitted products.Choose a plotted point between gridlines. Write an approximate value with all labels.MAKE / KEEPA cautious graph reading.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A cautious graph reading.
 
 
 **Canvas 28 · Value or change?**
 
-Explain the difference between reaches 31°C and rises by 18°C using p.93.MAKE / KEEPTwo labeled meanings.
+Optional skill practice. Use the current Week 5 brief for submitted products.Explain the difference between reaches 31°C and rises by 18°C using p.93.MAKE / KEEPTwo labeled meanings.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Two labeled meanings.
 
 
 **Canvas 29 · Scope challenge**
 
-Explain why the selected monthly graphs cannot establish tomorrow’s weather.MAKE / KEEPA source-limit statement.
+Optional skill practice. Use the current Week 5 brief for submitted products.Explain why the selected monthly graphs cannot establish tomorrow’s weather.MAKE / KEEPA source-limit statement.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A source-limit statement.
 
 
 **Canvas 30 · Graph caption**
 
-Write a caption that names place, measure, period, unit and source without describing every point.MAKE / KEEPA complete caption.
+Optional skill practice. Use the current Week 5 brief for submitted products.Write a caption that names place, measure, period, unit and source without describing every point.MAKE / KEEPA complete caption.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A complete caption.
 
 
-## Unit 4 · Lesson 2 · Chart Detective: Describe and Teach
+## Unit 4 · Lesson 2 · Postcards from Around the World · Create, Revise and Teach
 
 Design: **Desert Data Atlas**. Terracotta dunes · deep-blue instruments · sand panels
 
@@ -4079,51 +4422,51 @@ Design: **Desert Data Atlas**. Terracotta dunes · deep-blue instruments · sand
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | A day in the desert.A pattern in the data. | A precise one-place description, two explained revisions and a full TTD #5 teaching rehearsal. |
-| 01–02 | 2 | Your 90-minute route. | Leave with a written product, source evidence, a meaningful revision and a clear next step. |
+| 00–01 | 1 | Four postcards.A year of climate. | 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video. |
 | 02–05 | 3 | Retrieve a value with all its labels. | A complete evidence note. |
 | 05–07 | 4 | One day and one year are different documents. | One time-scale distinction. |
 | 07–10 | 5 | Predict, then verify. | Three meanings and one reading question. |
 | 10–15 | 6 | Sahara · text and graph together. | Two graph-linked notes and two heading/paragraph matches. |
 | 15–18 | 7 | Give the graph a complete caption. | A caption with accurate labels and a bounded claim. |
 | 18–21 | 8 | Transfer the method, not the values. | An observation + relevant supporting value. |
-| 21–23 | 9 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 23–25 | 9 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
+| 21–23 | 9 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 23–25 | 9 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
 | 25–28 | 10 | A topic sentence names the document. | An accurate topic sentence. |
 | 28–31 | 11 | Relevant numbers support an observation. | Two matches + one supported observation. |
 | 31–34 | 12 | Examples need natural sentence shapes. | A correctly framed data example. |
-| 34–36 | 13 | Teach the Document #5 · reconnect. | A packet with the document, draft and revision evidence open. |
-| 36–38 | 14 | Use the rubric as a revision tool. | One priority criterion and one sentence explaining the needed improvement. |
-| 38–41 | 15 | Choose two changes before rewriting. | One meaning/evidence goal + one language goal. |
-| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | A final one-place graph paragraph with four accurate labeled values. |
-| 53–55 | 17 | Read it as someone new to the topic. | Two underlined strengths and one circled problem to discuss. |
-| 55–56 | 18 | Before you exchange the paragraph… | A partner and a specific question for the reader. |
-| 56–61 | 19 | Five-minute peer conference. | One located problem, one suggested repair and the writer’s decision. |
-| 61–65 | 20 | Revise the content before polishing. | A meaningful before → after → reason revision receipt. |
-| 65–68 | 20 | Edit the language that carries the meaning. | The final language revision receipt + corrected paragraph. |
-| 68–70 | 21 | A visual should help a listener read. | A credited document with readable labels and selected annotations. |
-| 70–73 | 22 | Build a 4-minute teaching route. | A cue outline, not a paragraph read aloud without explanation. |
-| 73–74 | 23 | Partners A and B · set the stage. | Document visible, listener question ready, roles assigned. |
-| 74–78 | 24 | TTD #5 · Partner A teaches. | A 4-minute explanation with a document-based listener check. |
-| 78–79 | 24 | Listener B · one minute of feedback. | One accurate observation + one next action for A. |
-| 79–83 | 24 | TTD #5 · Partner B teaches. | B’s 4-minute explanation; A answers the source question. |
-| 83–84 | 24 | Listener A · one minute of feedback. | One accurate observation + one next action for B. |
-| 84–86 | 25 | Make the rehearsal improve the writing. | One final change based on the listener’s response. |
-| 86–88 | 26 | Exit ticket · prove the skill. | A short written self-assessment with evidence from your paragraph. |
-| 88–90 | 27 | Check the packet. Export. Keep it. | A final packet and an exported editable copy. |
+| 34–36 | 13 | Teach the Document #5 · reconnect. | A specific decision that improves the current weekly project. |
+| 36–38 | 14 | Use the rubric as a revision tool. | One priority and a concrete improvement. |
+| 38–41 | 15 | Choose two changes before rewriting. | A task-specific organizer linked to your writing. |
+| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 53–55 | 17 | Read it as someone new to the topic. | A specific decision that improves the current weekly project. |
+| 55–56 | 18 | Before you exchange the paragraph… | A specific decision that improves the current weekly project. |
+| 56–61 | 19 | Five-minute peer conference. | One keep comment, one revision suggestion and the writer’s decision. |
+| 61–65 | 20 | Revise the content before polishing. | A better draft and an explained class revision. |
+| 65–68 | 20 | Edit the language that carries the meaning. | A better draft and an explained class revision. |
+| 68–70 | 21 | A visual should help a listener read. | A readable creative document that supports the required writing. |
+| 70–73 | 22 | Build a 4-minute teaching route. | An explanation of your evidence, design and writing choices. |
+| 73–74 | 23 | Partners A and B · set the stage. | An explanation of your evidence, design and writing choices. |
+| 74–78 | 24 | TTD #5 · Partner A teaches. | An explanation of your evidence, design and writing choices. |
+| 78–79 | 24 | Listener B · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 79–83 | 24 | TTD #5 · Partner B teaches. | An explanation of your evidence, design and writing choices. |
+| 83–84 | 24 | Listener A · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 84–86 | 25 | Make the rehearsal improve the writing. | A specific decision that improves the current weekly project. |
+| 86–88 | 26 | Exit ticket · prove the skill. | Three short evidence-based reflections. |
+| 88–90 | 27 | Check the packet. Export. Keep it. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 4 (pp.80–101). The complete unit and contents pp.4–5 are embedded. Lessons 1–2 include Extreme weather (pp.84–86) and the Sahara reading/graph (pp.87–89); pp.90–101 supply the language, analysis, writing models, final task and checklists.The publisher tornado video is separate; the labeled reading route works offline. Use printed table values for exact claims and about for estimates between graph gridlines. Students need paper or the Writing Desk; a calculator can help check differences.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Imagine a year in a city outside China. Research its monthly climate, make a four-part organizer and four illustrated postcards with a climate graph, write 1–2 descriptive paragraphs (8–12 sentences total), and teach them in a 3–5-minute video.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
-Support: read the title/axes/units/legend aloud, use a measure–place–month–value table, and build “In ___, ___ is ___ than ___.” Develop accurate data sentences before expanding. Stretch: calculate a justified difference, compare like measures across the same month, or identify a causal claim the graph cannot establish. Keep units and negative signs visible. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · A day in the desert.A pattern in the data.**
+**Canvas 1 · 00–01 · Four postcards.A year of climate.**
 
-Task: How can a reader verify every data sentence?
+Task: Imagine a year in a city outside China. Research its monthly climate, make a four-part organizer and four illustrated postcards with a climate graph, write 1–2 descriptive paragraphs (8–12 sentences total), and teach them in a 3–5-minute video.
 
-Product: A precise one-place description, two explained revisions and a full TTD #5 teaching rehearsal.
+Product: 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video
 
 Purpose and evidence: A precise one-place description, two explained revisions and a full TTD #5 teaching rehearsal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -4132,7 +4475,7 @@ Purpose and evidence: A precise one-place description, two explained revisions a
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: Leave with a written product, source evidence, a meaningful revision and a clear next step.
+Product: I can complete the current weekly products: 4-part seasonal chart · 4 original postcards + graph · 8–12 sentences total · 3–5-minute video.
 
 Purpose and evidence: Leave with a written product, source evidence, a meaningful revision and a clear next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -4143,7 +4486,7 @@ Task: Write one value from your evidence card with place, month, measure, unit a
 
 Product: A complete evidence note.
 
-Purpose and evidence: A complete evidence note.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Purpose and evidence: A complete evidence note.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -4167,7 +4510,7 @@ Task: Use p.87 to locate the Sahara and check THREE vocabulary words, including 
 
 Product: Three meanings and one reading question.
 
-Purpose and evidence: Three meanings and one reading question.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: North Africa. Full vocabulary set: careful, drop, decide, shock, rise, precipitation. The reading gives a particular illustrative account, not all days in every location.Book p.87 · page guidancePredict + vocabulary: Sahara: North Africa; hot/dry. Vocabulary: a careful; b drop; c decide; d shock; e rise; f precipitation.
+Purpose and evidence: Three meanings and one reading question.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: North Africa. Full vocabulary set: careful, drop, decide, shock, rise, precipitation. The reading gives a particular illustrative account, not all days in every location.Book p.87 · page guidancePredict + vocabulary: Sahara: North Africa; hot/dry. Vocabulary: a careful; b drop; c decide; d shock; e rise; f precipitation. Textbook skill practice: p.87. The current weekly brief controls the submitted project.
 
 Answer/model: North Africa. Full vocabulary set: careful, drop, decide, shock, rise, precipitation. The reading gives a particular illustrative account, not all days in every location.
 
@@ -4180,7 +4523,7 @@ Task: Read p.89’s temperature paragraph and graph. Find high/low values and ti
 
 Product: Two graph-linked notes and two heading/paragraph matches.
 
-Purpose and evidence: Two graph-linked notes and two heading/paragraph matches.The class focuses on document reading. The survival advice is analyzed as source content, not independently verified practical guidance. Students should have previewed p.89; allow the full five minutes here.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: The article’s account gives 33°C at 2–4 pm and −1°C at 4 am. Full heading key: a8, b6, c4, d7, e5. Select only two headings here.Book p.88 · page guidanceExercise 4: a ¶8; b ¶6; c ¶4; d ¶7; e ¶5.Exercise 5: 1 d; 2 c; 3 a; 4 b.Exercise 6: Best fit: travel magazine. The survival advice is analyzed as text, not independently verified practical guidance.Book p.89 · page guidanceData in the article: Illustrative account/graph: hottest 2–4 pm, 33°C; coldest 4 am, −1°C; stated average annual precipitation 70 mm.Source framing: Use “the article/graph shows…”; do not turn this illustrative day into a claim about all days or every part of the Sahara.
+Purpose and evidence: Two graph-linked notes and two heading/paragraph matches.The class focuses on document reading. The survival advice is analyzed as source content, not independently verified practical guidance. Students should have previewed p.89; allow the full five minutes here.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: The article’s account gives 33°C at 2–4 pm and −1°C at 4 am. Full heading key: a8, b6, c4, d7, e5. Select only two headings here.Book p.88 · page guidanceExercise 4: a ¶8; b ¶6; c ¶4; d ¶7; e ¶5.Exercise 5: 1 d; 2 c; 3 a; 4 b.Exercise 6: Best fit: travel magazine. The survival advice is analyzed as text, not independently verified practical guidance.Book p.89 · page guidanceData in the article: Illustrative account/graph: hottest 2–4 pm, 33°C; coldest 4 am, −1°C; stated average annual precipitation 70 mm.Source framing: Use “the article/graph shows…”; do not turn this illustrative day into a claim about all days or every part of the Sahara. Textbook skill practice: p.88, p.89. The current weekly brief controls the submitted project.
 
 Answer/model: The article’s account gives 33°C at 2–4 pm and −1°C at 4 am. Full heading key: a8, b6, c4, d7, e5. Select only two headings here.
 
@@ -4201,7 +4544,7 @@ Task: Use p.92 Exercise 1 with p.89. Name axes, units and time scale. Write a tw
 
 Product: A caption with accurate labels and a bounded claim.
 
-Purpose and evidence: A caption with accurate labels and a bounded claim.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.89 · page guidanceData in the article: Illustrative account/graph: hottest 2–4 pm, 33°C; coldest 4 am, −1°C; stated average annual precipitation 70 mm.Source framing: Use “the article/graph shows…”; do not turn this illustrative day into a claim about all days or every part of the Sahara.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
+Purpose and evidence: A caption with accurate labels and a bounded claim.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.89 · page guidanceData in the article: Illustrative account/graph: hottest 2–4 pm, 33°C; coldest 4 am, −1°C; stated average annual precipitation 70 mm.Source framing: Use “the article/graph shows…”; do not turn this illustrative day into a claim about all days or every part of the Sahara.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines. Textbook skill practice: p.89, p.92. The current weekly brief controls the submitted project.
 
 Book p.89 · Data in the article: Illustrative account/graph: hottest 2–4 pm, 33°C; coldest 4 am, −1°C; stated average annual precipitation 70 mm.
 
@@ -4216,7 +4559,7 @@ Task: Return to your chosen Amman/Svalbard paragraph. Locate one observation tha
 
 Product: An observation + relevant supporting value.
 
-Purpose and evidence: An observation + relevant supporting value.Do not mix the Sahara day’s 33°C with the Amman/Svalbard annual graphs. The common skill is source labeling and relevant support.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.Book p.97 · page guidanceSupporting sentences: Main idea describes a feature/trend; data illustrates it. Matching: 1 c; 2 b; 3 a; 4 d.Relevance task: a, b, c, d and f concern weather; e concerns rainforest animals and does not support this weather topic.
+Purpose and evidence: An observation + relevant supporting value.Do not mix the Sahara day’s 33°C with the Amman/Svalbard annual graphs. The common skill is source labeling and relevant support.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.Book p.97 · page guidanceSupporting sentences: Main idea describes a feature/trend; data illustrates it. Matching: 1 c; 2 b; 3 a; 4 d.Relevance task: a, b, c, d and f concern weather; e concerns rainforest animals and does not support this weather topic. Textbook skill practice: p.92, p.93, p.97. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -4231,20 +4574,24 @@ Book p.97 · Relevance task: a, b, c, d and f concern weather; e concerns rainfo
 
 **Canvas 9 · 21–23 · Model lab · opening and support**
 
-Task: Mark topic, source values and derived difference. Why is 18°C described as a difference?
+Task: Read the current Postcards from Around the World model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Data, Data, Comparison, Data, Comparison, Pattern, Explanation, Example, Summary
 
 
 **Canvas 9 · 23–25 · Model lab · development and ending**
 
-Task: Find the example phrase and summary. How does the model avoid inventing a cause or forecast?
+Task: Read the current Postcards from Around the World model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Data, Data, Comparison, Data, Comparison, Pattern, Explanation, Example, Summary
 
 
 **Canvas 10 · 25–28 · A topic sentence names the document.**
@@ -4255,7 +4602,7 @@ Product: An accurate topic sentence.
 
 Starting phrase: The graphs show monthly ___ and ___ in ___ over one year.
 
-Purpose and evidence: An accurate topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: The graphs show monthly ___ and ___ in ___ over one year. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.96 · page guidanceExercise 3: 1 higher; 2 colder; 3 lowest (book’s “of the two” wording); 4 wetter; 5 drier; 6 rainiest; 7 sunny.Topic sentences: Graph shows + measure + time period + place. A: precipitation, mm, one year, Svalbard/Norway. B: temperature, °C, one year, Svalbard/Norway.
+Purpose and evidence: An accurate topic sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: The graphs show monthly ___ and ___ in ___ over one year. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.96 · page guidanceExercise 3: 1 higher; 2 colder; 3 lowest (book’s “of the two” wording); 4 wetter; 5 drier; 6 rainiest; 7 sunny.Topic sentences: Graph shows + measure + time period + place. A: precipitation, mm, one year, Svalbard/Norway. B: temperature, °C, one year, Svalbard/Norway. Textbook skill practice: p.96. The current weekly brief controls the submitted project.
 
 Book p.96 · Exercise 3: 1 higher; 2 colder; 3 lowest (book’s “of the two” wording); 4 wetter; 5 drier; 6 rainiest; 7 sunny.
 
@@ -4268,7 +4615,7 @@ Task: Use TWO p.97 matching items. Explain why each data point supports the obse
 
 Product: Two matches + one supported observation.
 
-Purpose and evidence: Two matches + one supported observation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Full matching key: 1 c; 2 b; 3 a; 4 d. Score the two selected items.Book p.97 · page guidanceSupporting sentences: Main idea describes a feature/trend; data illustrates it. Matching: 1 c; 2 b; 3 a; 4 d.Relevance task: a, b, c, d and f concern weather; e concerns rainforest animals and does not support this weather topic.
+Purpose and evidence: Two matches + one supported observation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Full matching key: 1 c; 2 b; 3 a; 4 d. Score the two selected items.Book p.97 · page guidanceSupporting sentences: Main idea describes a feature/trend; data illustrates it. Matching: 1 c; 2 b; 3 a; 4 d.Relevance task: a, b, c, d and f concern weather; e concerns rainforest animals and does not support this weather topic. Textbook skill practice: p.97. The current weekly brief controls the submitted project.
 
 Answer/model: Full matching key: 1 c; 2 b; 3 a; 4 d. Score the two selected items.
 
@@ -4283,194 +4630,240 @@ Task: Use p.98 to compare for example with such as. Add one natural example sent
 
 Product: A correctly framed data example.
 
-Purpose and evidence: A correctly framed data example.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.98 · page guidanceExamples: Possible: “Bring important items, such as water and sunscreen.” Book examples and graphs are writing material; they do not by themselves establish travel safety guidance.
+Purpose and evidence: A correctly framed data example.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.98 · page guidanceExamples: Possible: “Bring important items, such as water and sunscreen.” Book examples and graphs are writing material; they do not by themselves establish travel safety guidance. Textbook skill practice: p.98. The current weekly brief controls the submitted project.
 
 Book p.98 · Examples: Possible: “Bring important items, such as water and sunscreen.” Book examples and graphs are writing material; they do not by themselves establish travel safety guidance.
 
 
 **Canvas 13 · 34–36 · Teach the Document #5 · reconnect.**
 
-Task: Open your graph/table, evidence card and paragraph. Find every selected value again before revising.
+Task: Prepare, check or reflect on your Postcards from Around the World. Use the required products and the worked example as your checklist.
 
-Product: A packet with the document, draft and revision evidence open.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A packet with the document, draft and revision evidence open.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 14 · 36–38 · Use the rubric as a revision tool.**
 
-Task: Prioritize correct labels, relevant support and document interpretation. A smooth paragraph still needs accurate data.
+Task: Use the suggested teaching rubric to prioritize improvement. The submission checklist follows the Word document; class revision practice supports the work.
 
-Product: One priority criterion and one sentence explaining the needed improvement.
+Product: One priority and a concrete improvement.
 
-Purpose and evidence: One priority criterion and one sentence explaining the needed improvement.Use the assignment’s exact five rubric categories in the brief. These five labels summarize the categories; assess the full descriptors, not word count or checkbox totals.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 15 · 38–41 · Choose two changes before rewriting.**
 
-Task: Choose the main pattern. Plan a topic, related temperature support, precipitation support and a short summary. Give each number its labels.
+Task: Complete this week’s project planner. Imagine a year in a city outside China. Research its monthly climate, make a four-part organizer and four illustrated postcards with a climate graph, write 1–2 descriptive paragraphs (8–12 sentences total), and teach them in a 3–5-minute video.
 
-Product: One meaning/evidence goal + one language goal.
+Product: A task-specific organizer linked to your writing.
 
 Starting phrase: I will improve ___ by ___. My reader will be able to ___.
 
-Purpose and evidence: One meaning/evidence goal + one language goal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I will improve ___ by ___. My reader will be able to ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 16 · 41–53 · Writing studio · 12 uninterrupted minutes.**
 
-Task: Revise your 6–8-sentence one-place description. Verify four or more source values, develop temperature and precipitation observations and introduce an example naturally.
+Task: Write and develop your own one or two paragraphs for Postcards from Around the World. Use 8–12 total sentences, your organizer and source evidence. Read all of the writing aloud in the final video.
 
-Product: A final one-place graph paragraph with four accurate labeled values.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: The graphs show ___. The table gives ___ in ___. For example, ___. Overall, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: repair the biggest content or organization problem.; 3–9 min: develop support and connect the sentences.; 9–12 min: read the paragraph as a whole and check the ending.
 
-Purpose and evidence: A final one-place graph paragraph with four accurate labeled values.Protect twelve minutes of independent writing. A student without a first draft starts from today’s planner; an early finisher checks claims against the source and improves precision. Do not require extra length as a substitute for revision.Support: The graphs show ___. The table gives ___ in ___. For example, ___. Overall, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 17 · 53–55 · Read it as someone new to the topic.**
 
-Task: Underline the main pattern. Check every value’s place/month/measure/unit, and circle estimates and calculations.
+Task: Prepare, check or reflect on your Postcards from Around the World. Use the required products and the worked example as your checklist.
 
-Product: Two underlined strengths and one circled problem to discuss.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: Two underlined strengths and one circled problem to discuss.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 18 · 55–56 · Before you exchange the paragraph…**
 
-Task: Trace the place, month, measure, value, sign and unit. Distinguish printed values, estimates and calculated differences.
+Task: Prepare, check or reflect on your Postcards from Around the World. Use the required products and the worked example as your checklist.
 
-Product: A partner and a specific question for the reader.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A partner and a specific question for the reader.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 19 · 56–61 · Five-minute peer conference.**
 
-Task: Find four values in the source. Check each label and one calculation. Underline the main pattern and suggest one repair.
+Task: Check your partner’s Postcards from Around the World against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One located problem, one suggested repair and the writer’s decision.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: I understood ___. I could not verify ___. Try ___ because ___.
 
 Checkpoints: 0–2 min: A checks B’s work against the task and source.; 2–4 min: B checks A’s work against the task and source.; 4–5 min: both record the action they will take.
 
-Purpose and evidence: One located problem, one suggested repair and the writer’s decision.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I understood ___. I could not verify ___. Try ___ because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 20 · 61–65 · Revise the content before polishing.**
 
-Task: Repair a data/units error or an unsupported interpretation. State the source location and why the new claim fits it.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: A meaningful before → after → reason revision receipt.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: A meaningful before → after → reason revision receipt.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 20 · 65–68 · Edit the language that carries the meaning.**
 
-Task: Improve a topic sentence, example phrase or comparison. Keep both the original and corrected wording for the second receipt.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: The final language revision receipt + corrected paragraph.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: The final language revision receipt + corrected paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 21 · 68–70 · A visual should help a listener read.**
 
-Task: Make a selected-data card with readable place/month/measure labels, units, source page and a stated limit. Label calculations separately.
+Task: Create or refine the week’s visual document in the project studio. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern. Use your own content and give credits.
 
-Product: A credited document with readable labels and selected annotations.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A credited document with readable labels and selected annotations.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 22 · 70–73 · Build a 4-minute teaching route.**
 
-Task: Plan four minutes: source and labels; selected values and patterns; paragraph choices; two revisions; one data-reading question and source credit.
+Task: Rehearse Postcards from Around the World: Introduce the destination: Name the international city and the data source/period.Explain your choices: Show the four-part organizer and why you chose the months.Tour four postcards: Explain images, temperature, precipitation and the annual graph.Read all paragraphs: Read all 8–12 sentences aloud.Explain the pattern: Show the main climate discovery and design decisions.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: A cue outline, not a paragraph read aloud without explanation.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: A cue outline, not a paragraph read aloud without explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce the destination: Name the international city and the data source/period.; Explain your choices: Show the four-part organizer and why you chose the months.; Tour four postcards: Explain images, temperature, precipitation and the annual graph.; Read all paragraphs: Read all 8–12 sentences aloud.; Explain the pattern: Show the main climate discovery and design decisions.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 23 · 73–74 · Partners A and B · set the stage.**
 
-Task: Assign A/B. Display the source large enough to read. Keep the evidence card and paragraph ready; set four minutes.
+Task: Rehearse Postcards from Around the World: Introduce the destination: Name the international city and the data source/period.Explain your choices: Show the four-part organizer and why you chose the months.Tour four postcards: Explain images, temperature, precipitation and the annual graph.Read all paragraphs: Read all 8–12 sentences aloud.Explain the pattern: Show the main climate discovery and design decisions.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: Document visible, listener question ready, roles assigned.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: Document visible, listener question ready, roles assigned.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce the destination: Name the international city and the data source/period.; Explain your choices: Show the four-part organizer and why you chose the months.; Tour four postcards: Explain images, temperature, precipitation and the annual graph.; Read all paragraphs: Read all 8–12 sentences aloud.; Explain the pattern: Show the main climate discovery and design decisions.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 24 · 74–78 · TTD #5 · Partner A teaches.**
 
-Task: Teach axes/units/legend, locate four selected values and explain the paragraph’s patterns. Show two revisions and ask one source-reading question.
+Task: Rehearse Postcards from Around the World: Introduce the destination: Name the international city and the data source/period.Explain your choices: Show the four-part organizer and why you chose the months.Tour four postcards: Explain images, temperature, precipitation and the annual graph.Read all paragraphs: Read all 8–12 sentences aloud.Explain the pattern: Show the main climate discovery and design decisions.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: A 4-minute explanation with a document-based listener check.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: identify the source and writing question.; 0:40–1:40: teach the evidence and a limitation.; 1:40–2:40: explain the paragraph’s organization.; 2:40–3:30: explain revision choices.; 3:30–4:00: ask, pause, answer and credit.
+Checkpoints: Introduce the destination: Name the international city and the data source/period.; Explain your choices: Show the four-part organizer and why you chose the months.; Tour four postcards: Explain images, temperature, precipitation and the annual graph.; Read all paragraphs: Read all 8–12 sentences aloud.; Explain the pattern: Show the main climate discovery and design decisions.
 
-Purpose and evidence: A 4-minute explanation with a document-based listener check.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 24 · 78–79 · Listener B · one minute of feedback.**
 
-Task: Repeat one value with all labels and explain one writing choice you understood. Give one precise improvement.
+Task: Rehearse Postcards from Around the World: Introduce the destination: Name the international city and the data source/period.Explain your choices: Show the four-part organizer and why you chose the months.Tour four postcards: Explain images, temperature, precipitation and the annual graph.Read all paragraphs: Read all 8–12 sentences aloud.Explain the pattern: Show the main climate discovery and design decisions.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: One accurate observation + one next action for A.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for A.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce the destination: Name the international city and the data source/period.; Explain your choices: Show the four-part organizer and why you chose the months.; Tour four postcards: Explain images, temperature, precipitation and the annual graph.; Read all paragraphs: Read all 8–12 sentences aloud.; Explain the pattern: Show the main climate discovery and design decisions.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 24 · 79–83 · TTD #5 · Partner B teaches.**
 
-Task: Teach axes/units/legend, locate four selected values and explain the paragraph’s patterns. Show two revisions and ask one source-reading question.
+Task: Rehearse Postcards from Around the World: Introduce the destination: Name the international city and the data source/period.Explain your choices: Show the four-part organizer and why you chose the months.Tour four postcards: Explain images, temperature, precipitation and the annual graph.Read all paragraphs: Read all 8–12 sentences aloud.Explain the pattern: Show the main climate discovery and design decisions.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: B’s 4-minute explanation; A answers the source question.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: source and question.; 0:40–1:40: evidence and limit.; 1:40–2:40: paragraph choices.; 2:40–3:30: revision choices.; 3:30–4:00: listener check and credits.
+Checkpoints: Introduce the destination: Name the international city and the data source/period.; Explain your choices: Show the four-part organizer and why you chose the months.; Tour four postcards: Explain images, temperature, precipitation and the annual graph.; Read all paragraphs: Read all 8–12 sentences aloud.; Explain the pattern: Show the main climate discovery and design decisions.
 
-Purpose and evidence: B’s 4-minute explanation; A answers the source question.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 24 · 83–84 · Listener A · one minute of feedback.**
 
-Task: Repeat one value with all labels and explain one writing choice you understood. Give one precise improvement.
+Task: Rehearse Postcards from Around the World: Introduce the destination: Name the international city and the data source/period.Explain your choices: Show the four-part organizer and why you chose the months.Tour four postcards: Explain images, temperature, precipitation and the annual graph.Read all paragraphs: Read all 8–12 sentences aloud.Explain the pattern: Show the main climate discovery and design decisions.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: One accurate observation + one next action for B.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for B.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce the destination: Name the international city and the data source/period.; Explain your choices: Show the four-part organizer and why you chose the months.; Tour four postcards: Explain images, temperature, precipitation and the annual graph.; Read all paragraphs: Read all 8–12 sentences aloud.; Explain the pattern: Show the main climate discovery and design decisions.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 25 · 84–86 · Make the rehearsal improve the writing.**
 
-Task: Use the listener’s answer to identify a missing label or unclear comparison and revise it.
+Task: Prepare, check or reflect on your Postcards from Around the World. Use the required products and the worked example as your checklist.
 
-Product: One final change based on the listener’s response.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One final change based on the listener’s response.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 26 · 86–88 · Exit ticket · prove the skill.**
 
-Task: Quote one accurate data sentence and explain how a reader can verify it. Name one comparison skill to build next.
+Task: Name one source detail, one writing/design choice and the next improvement in your Postcards from Around the World.
 
-Product: A short written self-assessment with evidence from your paragraph.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: A short written self-assessment with evidence from your paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 **Canvas 27 · 88–90 · Check the packet. Export. Keep it.**
 
-Task: Apply one listener comment, check TTD #5’s seven requirements, and export. Keep the evidence-label method for a two-place comparison.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Submit the products named in the Word-document brief using your teacher’s route/date.
 
-Product: A final packet and an exported editable copy.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: A final packet and an exported editable copy.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
+
+Answer/model: Possible model: Tokyo, Japan: January, April, July and October. Each card combines a creative illustration, monthly mean temperature and precipitation; a full 12-month graph supports the annual pattern.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -4478,33 +4871,33 @@ Purpose and evidence: A final packet and an exported editable copy.Show the task
 
 **Canvas 28 · Two time scales**
 
-Compare the Sahara daily graph with a monthly place graph. Explain what each can answer.MAKE / KEEPA time-scale comparison.
+Optional skill practice. Use the current Week 5 brief for submitted products.Compare the Sahara daily graph with a monthly place graph. Explain what each can answer.MAKE / KEEPA time-scale comparison.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A time-scale comparison.
 
 
 **Canvas 29 · Visual redesign**
 
-Redesign your evidence card for a listener at the back of the room. Keep all source labels.MAKE / KEEPA readable card and design explanation.
+Optional skill practice. Use the current Week 5 brief for submitted products.Redesign your evidence card for a listener at the back of the room. Keep all source labels.MAKE / KEEPA readable card and design explanation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A readable card and design explanation.
 
 
 **Canvas 30 · Zero is a value**
 
-Explain the difference between 0 mm and missing data. Check the source before labeling either.MAKE / KEEPA data-reading note.
+Optional skill practice. Use the current Week 5 brief for submitted products.Explain the difference between 0 mm and missing data. Check the source before labeling either.MAKE / KEEPA data-reading note.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A data-reading note.
 
 
 **Canvas 31 · Verb precision**
 
-Write to/by/from…to versions and identify endpoint versus change.MAKE / KEEPThree accurate forms.
+Optional skill practice. Use the current Week 5 brief for submitted products.Write to/by/from…to versions and identify endpoint versus change.MAKE / KEEPThree accurate forms.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Three accurate forms.
 
 
-## Unit 4 · Lesson 3 · Weather Comparison: Compare and Draft
+## Unit 4 · Lesson 3 · Climate Doppelgängers · Investigate and Draft
 
 Design: **Polar Observatory**. Midnight blue · ice geometry · comparison instruments
 
@@ -4512,8 +4905,8 @@ Design: **Polar Observatory**. Midnight blue · ice geometry · comparison instr
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | Same month.Same measure.A fair comparison. | A matched-value comparison card and an 8–10-sentence first draft for TTD #6. |
-| 01–02 | 2 | Your 90-minute route. | I can compare both places and both measures, calculate a defensible difference and use accurate comparative language. |
+| 00–01 | 1 | Two cities.A climate mystery. | 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video. |
 | 02–05 | 3 | Say both sides of the comparison. | One traceable comparison. |
 | 05–07 | 4 | A positive difference can cross zero. | A prediction to check later. |
 | 07–10 | 5 | Comparative forms need a clear target. | A form bank + one complete comparison. |
@@ -4522,41 +4915,41 @@ Design: **Polar Observatory**. Midnight blue · ice geometry · comparison instr
 | 18–21 | 8 | Keep the practice source separate. | Two checked forms with source labels. |
 | 21–23 | 9 | The final task has two dimensions. | A task checklist with both dimensions. |
 | 23–25 | 10 | What does a fair pair share? | A fair pair + a justified rejection. |
-| 25–27 | 11 | Teach the Document #6 · START HERE | A two-place comparison: both measures, four or more labeled values, 8–10 sentences, two revisions, a credited comparison visual and 3–5-minute teaching. |
-| 27–29 | 11 | Your document is on the table. | Two fair comparison pairs with their source labels. |
-| 29–31 | 11 | Annotate. Locate. Explain. | S / D / D / L annotations on the source or comparison card. |
-| 31–34 | 11 | Begin the assignment in class. | A comparison plan and a source-labeled first support sentence. |
-| 34–35 | 11 | What must your packet contain? | Circle what is already started. Put a star beside the next action for Lesson 4. |
+| 25–27 | 11 | Climate Doppelgängers | 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video |
+| 27–29 | 11 | Explore the worked document | A named product, a located source detail and a design choice you can explain. |
+| 29–31 | 11 | Trace evidence and explain choices | Three labeled evidence notes and one useful research question. |
+| 31–34 | 11 | Begin your own project | A project-specific organizer and an original opening sentence. |
+| 34–35 | 11 | Check this week’s required products | A truthful checklist and your next step. |
 | 35–37 | 12 | Run the comparison instrument. | A checked 26°C difference and a checked 25 mm difference. |
 | 37–40 | 13 | Colder than · not more cold then. | A grammatical, bounded comparison. |
 | 40–43 | 14 | Similarity is not exact equality. | A similarity and a difference. |
-| 43–45 | 15 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 45–47 | 15 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
-| 47–50 | 16 | Plan the jobs before the sentences. | A two-measure comparison plan with matched data. |
-| 50–52 | 17 | A partner tests the plan. | One precise suggestion and one decision recorded by the writer. |
-| 52–53 | 18 | Set up a quiet writing sprint. | A visible plan, source, and a blank paragraph space. |
-| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An 8–10-sentence two-place, two-measure first draft. |
-| 67–68 | 20 | Peer review · agree on the reader’s job. | Partner names + the part each reader will verify. |
-| 68–73 | 21 | Peer conference · evidence before advice. | One “keep” comment and one actionable “revise” comment per writer. |
-| 73–77 | 22 | Revision 1 · improve the meaning. | Before → after → why, with an improved sentence in the paragraph. |
-| 77–80 | 22 | Revision 2 · make the language accurate. | An edited sentence + a reason connected to this lesson’s language target. |
-| 80–82 | 23 | Build the document you will point to. | A labeled visual draft with a source credit. |
-| 82–85 | 24 | Teach a small part before the full talk. | Each partner gives a 60-second document explanation and receives 30 seconds of feedback. |
-| 85–88 | 25 | Exit ticket · show the writing skill. | Three short responses: evidence, writing choice, next step. |
-| 88–90 | 26 | Save today. Arrive ready next time. | Exported writing + a named action for the next lesson. |
+| 43–45 | 15 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 45–47 | 15 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
+| 47–50 | 16 | Plan the jobs before the sentences. | A task-specific organizer linked to your writing. |
+| 50–52 | 17 | A partner tests the plan. | A specific decision that improves the current weekly project. |
+| 52–53 | 18 | Set up a quiet writing sprint. | A specific decision that improves the current weekly project. |
+| 53–67 | 19 | Writing studio · 14 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 67–68 | 20 | Peer review · agree on the reader’s job. | One keep comment, one revision suggestion and the writer’s decision. |
+| 68–73 | 21 | Peer conference · evidence before advice. | One keep comment, one revision suggestion and the writer’s decision. |
+| 73–77 | 22 | Revision 1 · improve the meaning. | A better draft and an explained class revision. |
+| 77–80 | 22 | Revision 2 · make the language accurate. | A better draft and an explained class revision. |
+| 80–82 | 23 | Build the document you will point to. | A readable creative document that supports the required writing. |
+| 82–85 | 24 | Teach a small part before the full talk. | An explanation of your evidence, design and writing choices. |
+| 85–88 | 25 | Exit ticket · show the writing skill. | Three short evidence-based reflections. |
+| 88–90 | 26 | Save today. Arrive ready next time. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 4 (pp.80–101). The complete unit and contents pp.4–5 are embedded. Lessons 1–2 include Extreme weather (pp.84–86) and the Sahara reading/graph (pp.87–89); pp.90–101 supply the language, analysis, writing models, final task and checklists.The publisher tornado video is separate; the labeled reading route works offline. Use printed table values for exact claims and about for estimates between graph gridlines. Students need paper or the Writing Desk; a calculator can help check differences.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Investigate two cities sharing a climate characteristic. Show one similarity, at least three meaningful comparisons and four numerical observations across temperature and precipitation; write 1–2 paragraphs (8–12 sentences total) and record a 3–5-minute investigation video.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
-Support: read the title/axes/units/legend aloud, use a measure–place–month–value table, and build “In ___, ___ is ___ than ___.” Develop accurate data sentences before expanding. Stretch: calculate a justified difference, compare like measures across the same month, or identify a causal claim the graph cannot establish. Keep units and negative signs visible. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · Same month.Same measure.A fair comparison.**
+**Canvas 1 · 00–01 · Two cities.A climate mystery.**
 
-Task: How can a reader verify every data sentence?
+Task: Investigate two cities sharing a climate characteristic. Show one similarity, at least three meaningful comparisons and four numerical observations across temperature and precipitation; write 1–2 paragraphs (8–12 sentences total) and record a 3–5-minute investigation video.
 
-Product: A matched-value comparison card and an 8–10-sentence first draft for TTD #6.
+Product: 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video
 
 Purpose and evidence: A matched-value comparison card and an 8–10-sentence first draft for TTD #6.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -4565,7 +4958,7 @@ Purpose and evidence: A matched-value comparison card and an 8–10-sentence fir
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: I can compare both places and both measures, calculate a defensible difference and use accurate comparative language.
+Product: I can complete the current weekly products: 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video.
 
 Purpose and evidence: I can compare both places and both measures, calculate a defensible difference and use accurate comparative language.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -4576,7 +4969,7 @@ Task: Write a temperature comparison with both places, a matched month, the same
 
 Product: One traceable comparison.
 
-Purpose and evidence: One traceable comparison.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Purpose and evidence: One traceable comparison.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -4600,7 +4993,7 @@ Task: Use p.94 to form warmer, colder, wetter, drier and one longer adjective. W
 
 Product: A form bank + one complete comparison.
 
-Purpose and evidence: A form bank + one complete comparison.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.94 · page guidanceComparatives: warmer; wetter; lower; drier; rainier; better/worse; more/less + longer adjective. Compare with than; equality with as…as.
+Purpose and evidence: A form bank + one complete comparison.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.94 · page guidanceComparatives: warmer; wetter; lower; drier; rainier; better/worse; more/less + longer adjective. Compare with than; equality with as…as. Textbook skill practice: p.94. The current weekly brief controls the submitted project.
 
 Book p.94 · Comparatives: warmer; wetter; lower; drier; rainier; better/worse; more/less + longer adjective. Compare with than; equality with as…as.
 
@@ -4611,7 +5004,7 @@ Task: Inspect pp.92–93. Record one shared temperature pattern and one matched 
 
 Product: One similarity and one fully labeled difference.
 
-Purpose and evidence: One similarity and one fully labeled difference.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: A possible shared pattern is warming towards the middle of the year. Printed January average highs provide a clear matched difference: Amman13°C and Svalbard−13°C.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Purpose and evidence: One similarity and one fully labeled difference.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: A possible shared pattern is warming towards the middle of the year. Printed January average highs provide a clear matched difference: Amman13°C and Svalbard−13°C.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Answer/model: A possible shared pattern is warming towards the middle of the year. Printed January average highs provide a clear matched difference: Amman13°C and Svalbard−13°C.
 
@@ -4628,7 +5021,7 @@ Task: Choose TWO p.95 items. Explain why “the warmest month” requires checki
 
 Product: Two forms + one evidence rule.
 
-Purpose and evidence: Two forms + one evidence rule.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.95 · page guidanceExercise 1: cold/colder/the coldest; low/lower/the lowest; extreme/more extreme/the most extreme; dry/drier/the driest; big/bigger/the biggest; easy/easier/the easiest.Exercise 2: 1 the driest; 2 colder; 3 the most extreme; 4 lower; 5 the biggest.
+Purpose and evidence: Two forms + one evidence rule.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.95 · page guidanceExercise 1: cold/colder/the coldest; low/lower/the lowest; extreme/more extreme/the most extreme; dry/drier/the driest; big/bigger/the biggest; easy/easier/the easiest.Exercise 2: 1 the driest; 2 colder; 3 the most extreme; 4 lower; 5 the biggest. Textbook skill practice: p.95. The current weekly brief controls the submitted project.
 
 Book p.95 · Exercise 1: cold/colder/the coldest; low/lower/the lowest; extreme/more extreme/the most extreme; dry/drier/the driest; big/bigger/the biggest; easy/easier/the easiest.
 
@@ -4641,7 +5034,7 @@ Task: Choose TWO p.96 Exercise 3 Cuba/Iceland items. Practice the comparative/eq
 
 Product: Two checked forms with source labels.
 
-Purpose and evidence: Two checked forms with source labels.The Cuba/Iceland practice does not supply data for the final Amman/Svalbard comparison. Keep its facts in their own task.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.96 · page guidanceExercise 3: 1 higher; 2 colder; 3 lowest (book’s “of the two” wording); 4 wetter; 5 drier; 6 rainiest; 7 sunny.Topic sentences: Graph shows + measure + time period + place. A: precipitation, mm, one year, Svalbard/Norway. B: temperature, °C, one year, Svalbard/Norway.
+Purpose and evidence: Two checked forms with source labels.The Cuba/Iceland practice does not supply data for the final Amman/Svalbard comparison. Keep its facts in their own task.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.96 · page guidanceExercise 3: 1 higher; 2 colder; 3 lowest (book’s “of the two” wording); 4 wetter; 5 drier; 6 rainiest; 7 sunny.Topic sentences: Graph shows + measure + time period + place. A: precipitation, mm, one year, Svalbard/Norway. B: temperature, °C, one year, Svalbard/Norway. Textbook skill practice: p.96. The current weekly brief controls the submitted project.
 
 Book p.96 · Exercise 3: 1 higher; 2 colder; 3 lowest (book’s “of the two” wording); 4 wetter; 5 drier; 6 rainiest; 7 sunny.
 
@@ -4654,7 +5047,7 @@ Task: Read pp.99–100. Underline the requirement to compare the two places and 
 
 Product: A task checklist with both dimensions.
 
-Purpose and evidence: A task checklist with both dimensions.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.99 · page guidanceTask: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
+Purpose and evidence: A task checklist with both dimensions.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.99 · page guidanceTask: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms. Textbook skill practice: p.99, p.100. The current weekly brief controls the submitted project.
 
 Book p.99 · Task: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.
 
@@ -4670,22 +5063,22 @@ Product: A fair pair + a justified rejection.
 Purpose and evidence: A fair pair + a justified rejection.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
 
-**Canvas 11 · 25–27 · Teach the Document #6 · START HERE**
+**Canvas 11 · 25–27 · Climate Doppelgängers**
 
-Task: Complete the official Unit 4 task: compare the weather in two places using information from graphs. Use Svalbard and Amman, compare matched measures, support a coherent paragraph with data and teach your revisions.
+Task: Investigate two cities sharing a climate characteristic. Show one similarity, at least three meaningful comparisons and four numerical observations across temperature and precipitation; write 1–2 paragraphs (8–12 sentences total) and record a 3–5-minute investigation video.
 
-Product: A two-place comparison: both measures, four or more labeled values, 8–10 sentences, two revisions, a credited comparison visual and 3–5-minute teaching.
+Product: 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video
 
-Purpose and evidence: A two-place comparison: both measures, four or more labeled values, 8–10 sentences, two revisions, a credited comparison visual and 3–5-minute teaching.This is a ten-minute classroom workshop, not a homework announcement. It starts here in Unit 4, Lesson 3. Keep the document visible. The same assignment is completed and taught in Lesson 4.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
-**Canvas 11 · 27–29 · Your document is on the table.**
+**Canvas 11 · 27–29 · Explore the worked document**
 
-Task: Inspect the matched cells. Check that each pair compares the same month, measure and unit before calculating.
+Task: Explore the complete worked example on this canvas. Identify its required products and trace one detail to its source.
 
-Product: Two fair comparison pairs with their source labels.
+Product: A named product, a located source detail and a design choice you can explain.
 
-Purpose and evidence: Two fair comparison pairs with their source labels.The task is the official Unit 4 comparison. Source values and derived differences must be distinguished. A larger positive value is not automatically the wetter place across the full year.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.Book p.99 · page guidanceTask: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China. Textbook skill practice: p.92, p.93, p.99, p.100. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -4698,13 +5091,13 @@ Book p.99 · Task: Compare weather in two places using graph information. Plan b
 Book p.100 · Checklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
 
 
-**Canvas 11 · 29–31 · Annotate. Locate. Explain.**
+**Canvas 11 · 29–31 · Trace evidence and explain choices**
 
-Task: Label one similarity from the full graphs, two matched differences and one limit. Circle the negative sign in the January pair.
+Task: Read the evidence cards. Keep a fact, an explanation and a source limit for your own project.
 
-Product: S / D / D / L annotations on the source or comparison card.
+Product: Three labeled evidence notes and one useful research question.
 
-Purpose and evidence: S / D / D / L annotations on the source or comparison card.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: Possible similarity: both temperature patterns rise towards mid-year. January average highs and September precipitation are valid matched differences. No calendar year/long-term cause is established.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.Book p.99 · page guidanceTask: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China. Textbook skill practice: p.92, p.93, p.99, p.100. The current weekly brief controls the submitted project.
 
 Answer/model: Possible similarity: both temperature patterns rise towards mid-year. January average highs and September precipitation are valid matched differences. No calendar year/long-term cause is established.
 
@@ -4719,15 +5112,15 @@ Book p.99 · Task: Compare weather in two places using graph information. Plan b
 Book p.100 · Checklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
 
 
-**Canvas 11 · 31–34 · Begin the assignment in class.**
+**Canvas 11 · 31–34 · Begin your own project**
 
-Task: Plan by measure: temperature in both places, then precipitation in both places. Draft a topic sentence and one numerical comparison.
+Task: Open the project planner. Start the week’s organizer and choose the main idea for your own writing.
 
-Product: A comparison plan and a source-labeled first support sentence.
+Product: A project-specific organizer and an original opening sentence.
 
-Starting phrase: In ___, ___ has an average high of ___, whereas ___ has ___.
+Starting phrase: My document will show ___ using ___ because ___.
 
-Purpose and evidence: A comparison plan and a source-labeled first support sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: In ___, ___ has an average high of ___, whereas ___ has ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.Book p.99 · page guidanceTask: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China. Textbook skill practice: p.92, p.93, p.99, p.100. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -4740,13 +5133,13 @@ Book p.99 · Task: Compare weather in two places using graph information. Plan b
 Book p.100 · Checklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
 
 
-**Canvas 11 · 34–35 · What must your packet contain?**
+**Canvas 11 · 34–35 · Check this week’s required products**
 
-Task: Include both places AND both measures, one similarity, two differences and at least four source values. Complete and teach in Lesson 4.
+Task: Check the required products in this week’s Word-document brief. Star a useful next step for the completion lesson.
 
-Product: Circle what is already started. Put a star beside the next action for Lesson 4.
+Product: A truthful checklist and your next step.
 
-Purpose and evidence: Circle what is already started. Put a star beside the next action for Lesson 4.Open the full brief and the 20-point rubric if a student needs the detailed submission requirements. Every checklist item remains in the Writing Desk. No platform or calendar date is assumed.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Use the current weekly Word-document brief. Examples are models, not student submissions. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 12 · 35–37 · Run the comparison instrument.**
@@ -4755,7 +5148,7 @@ Task: Switch the metric. Read both labeled values, calculate the difference and 
 
 Product: A checked 26°C difference and a checked 25 mm difference.
 
-Purpose and evidence: A checked 26°C difference and a checked 25 mm difference.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: January average-high difference:26°C. September precipitation difference:25mm. These are different measures and cannot be combined into one number.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Purpose and evidence: A checked 26°C difference and a checked 25 mm difference.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Check: January average-high difference:26°C. September precipitation difference:25mm. These are different measures and cannot be combined into one number.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm. Textbook skill practice: p.93. The current weekly brief controls the submitted project.
 
 Answer/model: January average-high difference:26°C. September precipitation difference:25mm. These are different measures and cannot be combined into one number.
 
@@ -4770,7 +5163,7 @@ Task: Repair “Svalbard is more cold then Amman.” Add a month and the correct
 
 Product: A grammatical, bounded comparison.
 
-Purpose and evidence: A grammatical, bounded comparison.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.94 · page guidanceComparatives: warmer; wetter; lower; drier; rainier; better/worse; more/less + longer adjective. Compare with than; equality with as…as.
+Purpose and evidence: A grammatical, bounded comparison.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.94 · page guidanceComparatives: warmer; wetter; lower; drier; rainier; better/worse; more/less + longer adjective. Compare with than; equality with as…as. Textbook skill practice: p.94. The current weekly brief controls the submitted project.
 
 Book p.94 · Comparatives: warmer; wetter; lower; drier; rainier; better/worse; more/less + longer adjective. Compare with than; equality with as…as.
 
@@ -4783,7 +5176,7 @@ Product: A similarity and a difference.
 
 Starting phrase: Both places ___. However, in ___, ___.
 
-Purpose and evidence: A similarity and a difference.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Both places ___. However, in ___, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Purpose and evidence: A similarity and a difference.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Both places ___. However, in ___, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -4794,29 +5187,35 @@ Book p.93 · Values used in this course: January average high: Amman 13°C, Sval
 
 **Canvas 15 · 43–45 · Model lab · opening and support**
 
-Task: Find the whole-comparison topic sentence, shared pattern and January evidence. Check the 26°C calculation.
+Task: Read the current Climate Doppelgängers model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Similarity, Comparison, Calculation, Comparison, Data, Pattern, Qualification, Summary, Conclusion
 
 
 **Canvas 15 · 45–47 · Model lab · development and ending**
 
-Task: Locate both places in the precipitation support. Explain how the paragraph groups by measure rather than writing two separate reports.
+Task: Read the current Climate Doppelgängers model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Similarity, Comparison, Calculation, Comparison, Data, Pattern, Qualification, Summary, Conclusion
 
 
 **Canvas 16 · 47–50 · Plan the jobs before the sentences.**
 
-Task: Plan by measure: topic → shared pattern/temperature in both places → precipitation in both places → summary. Include a similarity, two differences and four or more labeled source values.
+Task: Complete this week’s project planner. Investigate two cities sharing a climate characteristic. Show one similarity, at least three meaningful comparisons and four numerical observations across temperature and precipitation; write 1–2 paragraphs (8–12 sentences total) and record a 3–5-minute investigation video.
 
-Product: A two-measure comparison plan with matched data.
+Product: A task-specific organizer linked to your writing.
 
-Purpose and evidence: A two-measure comparison plan with matched data.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.Book p.99 · page guidanceTask: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China. Textbook skill practice: p.92, p.93, p.99, p.100. The current weekly brief controls the submitted project.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -4831,113 +5230,135 @@ Book p.100 · Checklists: Content: topic/support, examples, both measures, compa
 
 **Canvas 17 · 50–52 · A partner tests the plan.**
 
-Task: Explain your main pattern without reading every number. Ask your partner to trace one supporting value to the source.
+Task: Prepare, check or reflect on your Climate Doppelgängers. Use the required products and the worked example as your checklist.
 
-Product: One precise suggestion and one decision recorded by the writer.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One precise suggestion and one decision recorded by the writer.A speaks for 45 seconds; B asks one question for 30 seconds; writer records an action for 45 seconds. Review the plan, not every possible sentence.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 18 · 52–53 · Set up a quiet writing sprint.**
 
-Task: Keep the original graphs/table and evidence card open. Say the place, month, measure and unit before writing each number.
+Task: Prepare, check or reflect on your Climate Doppelgängers. Use the required products and the worked example as your checklist.
 
-Product: A visible plan, source, and a blank paragraph space.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A visible plan, source, and a blank paragraph space.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 19 · 53–67 · Writing studio · 14 uninterrupted minutes.**
 
-Task: Write 8–10 sentences comparing Svalbard and Amman. Include both temperature and precipitation, one similarity, two differences and at least four fully labeled source values. Keep calculated differences distinct.
+Task: Write and develop your own one or two paragraphs for Climate Doppelgängers. Use 8–12 total sentences, your organizer and source evidence. Read all of the writing aloud in the final video.
 
-Product: An 8–10-sentence two-place, two-measure first draft.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: The graphs show ___. The table gives ___ in ___. For example, ___. Overall, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: write a clear opening and use the plan.; 3–10 min: develop the supporting sentences with source-based detail.; 10–14 min: finish the ending; reread and mark one uncertain sentence.
 
-Purpose and evidence: An 8–10-sentence two-place, two-measure first draft.Protect the entire fourteen minutes. Do not switch slides at checkpoints or interrupt the class. Quietly conference with two or three writers. Support: use the sentence bank, then remove repeated frames. Stretch: improve precision and relevance before adding length.Support: The graphs show ___. The table gives ___ in ___. For example, ___. Overall, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 20 · 67–68 · Peer review · agree on the reader’s job.**
 
-Task: Trace the place, month, measure, value, sign and unit. Distinguish printed values, estimates and calculated differences.
+Task: Check your partner’s Climate Doppelgängers against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: Partner names + the part each reader will verify.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
-Purpose and evidence: Partner names + the part each reader will verify.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 21 · 68–73 · Peer conference · evidence before advice.**
 
-Task: Find four values in the source. Check each label and one calculation. Underline the main pattern and suggest one repair.
+Task: Check your partner’s Climate Doppelgängers against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One “keep” comment and one actionable “revise” comment per writer.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: Keep ___ because ___. Revise sentence ___ by ___ so that ___.
 
 Checkpoints: 0–2 min: A reads B’s paragraph and traces the chosen evidence.; 2–4 min: B reads A’s paragraph and traces the chosen evidence.; 4–5 min: each writer records a revision decision.
 
-Purpose and evidence: One “keep” comment and one actionable “revise” comment per writer.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Keep ___ because ___. Revise sentence ___ by ___ so that ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 22 · 73–77 · Revision 1 · improve the meaning.**
 
-Task: Repair a mismatched value pair, unsupported preference or invented climate cause. Keep the exact labels and source reference.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: Before → after → why, with an improved sentence in the paragraph.
+Product: A better draft and an explained class revision.
 
 Starting phrase: Before: ___. After: ___. This helps the reader because ___.
 
-Purpose and evidence: Before → after → why, with an improved sentence in the paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Before: ___. After: ___. This helps the reader because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 22 · 77–80 · Revision 2 · make the language accurate.**
 
-Task: Improve a comparative/equality sentence or an example phrase. Check than, the comparison set and complete sentence structure.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: An edited sentence + a reason connected to this lesson’s language target.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: An edited sentence + a reason connected to this lesson’s language target.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 23 · 80–82 · Build the document you will point to.**
 
-Task: Make a selected-data card with readable place/month/measure labels, units, source page and a stated limit. Label calculations separately.
+Task: Create or refine the week’s visual document in the project studio. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China. Use your own content and give credits.
 
-Product: A labeled visual draft with a source credit.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A labeled visual draft with a source credit.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 24 · 82–85 · Teach a small part before the full talk.**
 
-Task: Point to the axes and legend, locate a value, then explain how you made a complete data sentence. Ask the listener to verify a label.
+Task: Rehearse Climate Doppelgängers: Introduce both cities: Explain their apparent similarity and your research question.Show the investigation: Explain the original visual and English-language reading.Reveal discoveries: Use the similarity, three comparisons and labeled numbers.Read all paragraphs: Read the complete 8–12 sentences aloud.Explain the conclusion: Explain choices, evidence and the surprising annual patterns.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: A: 60-second explanation; B: 30-second feedback.; B: 60-second explanation; A: 30-second feedback.
+Checkpoints: Introduce both cities: Explain their apparent similarity and your research question.; Show the investigation: Explain the original visual and English-language reading.; Reveal discoveries: Use the similarity, three comparisons and labeled numbers.; Read all paragraphs: Read the complete 8–12 sentences aloud.; Explain the conclusion: Explain choices, evidence and the surprising annual patterns.
 
-Purpose and evidence: Each partner gives a 60-second document explanation and receives 30 seconds of feedback.This is a short rehearsal, not the final 3–5-minute submission. The full paired teaching happens in the next lesson.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 25 · 85–88 · Exit ticket · show the writing skill.**
 
-Task: Write one fully labeled value, one supported pattern and one limitation of the source.
+Task: Name one source detail, one writing/design choice and the next improvement in your Climate Doppelgängers.
 
-Product: Three short responses: evidence, writing choice, next step.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: Three short responses: evidence, writing choice, next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 26 · 88–90 · Save today. Arrive ready next time.**
 
-Task: Export the comparison plan, draft, visual and two revisions. Bring a fair-comparison listener question for TTD #6 in Lesson 4.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Bring the draft and organizer to the next lesson.
 
-Product: Exported writing + a named action for the next lesson.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: Exported writing + a named action for the next lesson.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -4945,33 +5366,33 @@ Purpose and evidence: Exported writing + a named action for the next lesson.Show
 
 **Canvas 27 · Fair-pair challenge**
 
-Create one matched pair and two misleading pairs. Ask a partner to justify the fair one.MAKE / KEEPA comparison check with answer reasoning.
+Optional skill practice. Use the current Week 6 brief for submitted products.Create one matched pair and two misleading pairs. Ask a partner to justify the fair one.MAKE / KEEPA comparison check with answer reasoning.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A comparison check with answer reasoning.
 
 
 **Canvas 28 · Negative-sign clinic**
 
-Explain the January difference on a number line, labeling both values and the calculated distance.MAKE / KEEPA labeled calculation.
+Optional skill practice. Use the current Week 6 brief for submitted products.Explain the January difference on a number line, labeling both values and the calculated distance.MAKE / KEEPA labeled calculation.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A labeled calculation.
 
 
 **Canvas 29 · Organization experiment**
 
-Draft a place-by-place outline and a measure-by-measure outline. Explain the reader’s task in each.MAKE / KEEPTwo outlines and a reasoned choice.
+Optional skill practice. Use the current Week 6 brief for submitted products.Draft a place-by-place outline and a measure-by-measure outline. Explain the reader’s task in each.MAKE / KEEPTwo outlines and a reasoned choice.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: Two outlines and a reasoned choice.
 
 
 **Canvas 30 · Superlative audit**
 
-Check all months in one series before writing a superlative. Name the comparison set.MAKE / KEEPA defensible superlative or a cautious alternative.
+Optional skill practice. Use the current Week 6 brief for submitted products.Check all months in one series before writing a superlative. Name the comparison set.MAKE / KEEPA defensible superlative or a cautious alternative.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A defensible superlative or a cautious alternative.
 
 
-## Unit 4 · Lesson 4 · Weather Comparison: Revise and Publish
+## Unit 4 · Lesson 4 · Climate Doppelgängers · Create, Revise and Teach
 
 Design: **The Weather Exhibition**. Ivory gallery · forest-green labels · bronze details
 
@@ -4979,51 +5400,51 @@ Design: **The Weather Exhibition**. Ivory gallery · forest-green labels · bron
 
 | Minutes | Canvas | Activity | Product |
 |---|---|---|---|
-| 00–01 | 1 | Put the evidenceon display. | A polished two-place comparison, two revisions and a complete TTD #6 teaching rehearsal. |
-| 01–02 | 2 | Your 90-minute route. | Leave with a written product, source evidence, a meaningful revision and a clear next step. |
+| 00–01 | 1 | Two cities.A climate mystery. | 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video |
+| 01–02 | 2 | Your 90-minute route. | I can complete the current weekly products: 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video. |
 | 02–05 | 3 | The whole paragraph in three lines. | A three-line comparison summary. |
 | 05–07 | 4 | A gallery label must stand alone. | One missing-label action. |
 | 07–10 | 5 | Relevant sentences belong to the main idea. | Two checked decisions + one self-check. |
 | 10–15 | 6 | Audit every source value. | A source-checked evidence table. |
 | 15–18 | 7 | Examples should clarify the comparison. | Two practice forms and one comparison example. |
 | 18–21 | 8 | Apply the official task checklist. | A checklist diagnosis with a quoted sentence. |
-| 21–23 | 9 | Model lab · opening and support | A marked sentence job and a one-sentence explanation. |
-| 23–25 | 9 | Model lab · development and ending | A marked sentence job and a one-sentence explanation. |
+| 21–23 | 9 | Model lab · opening and support | A sentence-role map and one writing choice you can adapt. |
+| 23–25 | 9 | Model lab · development and ending | A sentence-role map and one writing choice you can adapt. |
 | 25–28 | 10 | Repair form, measure and time. | Three reasoned corrections. |
 | 28–31 | 11 | Use a superlative only when it is supported. | A verified superlative or a precise comparison. |
 | 31–34 | 12 | The paragraph needs a readable route. | A revised sequence with a reason. |
-| 34–36 | 13 | Teach the Document #6 · reconnect. | A packet with the document, draft and revision evidence open. |
-| 36–38 | 14 | Use the rubric as a revision tool. | One priority criterion and one sentence explaining the needed improvement. |
-| 38–41 | 15 | Choose two changes before rewriting. | One meaning/evidence goal + one language goal. |
-| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | A final comparison meeting the pp.99–100 task and language checklists. |
-| 53–55 | 17 | Read it as someone new to the topic. | Two underlined strengths and one circled problem to discuss. |
-| 55–56 | 18 | Before you exchange the paragraph… | A partner and a specific question for the reader. |
-| 56–61 | 19 | Five-minute peer conference. | One located problem, one suggested repair and the writer’s decision. |
-| 61–65 | 20 | Revise the content before polishing. | A meaningful before → after → reason revision receipt. |
-| 65–68 | 20 | Edit the language that carries the meaning. | The final language revision receipt + corrected paragraph. |
-| 68–70 | 21 | A visual should help a listener read. | A credited document with readable labels and selected annotations. |
-| 70–73 | 22 | Build a 4-minute teaching route. | A cue outline, not a paragraph read aloud without explanation. |
-| 73–74 | 23 | Partners A and B · set the stage. | Document visible, listener question ready, roles assigned. |
-| 74–78 | 24 | TTD #6 · Partner A teaches. | A 4-minute explanation with a document-based listener check. |
-| 78–79 | 24 | Listener B · one minute of feedback. | One accurate observation + one next action for A. |
-| 79–83 | 24 | TTD #6 · Partner B teaches. | B’s 4-minute explanation; A answers the source question. |
-| 83–84 | 24 | Listener A · one minute of feedback. | One accurate observation + one next action for B. |
-| 84–86 | 25 | Make the rehearsal improve the writing. | One final change based on the listener’s response. |
-| 86–88 | 26 | Exit ticket · prove the skill. | A short written self-assessment with evidence from your paragraph. |
-| 88–90 | 27 | Check the packet. Export. Keep it. | A final packet and an exported editable copy. |
+| 34–36 | 13 | Teach the Document #6 · reconnect. | A specific decision that improves the current weekly project. |
+| 36–38 | 14 | Use the rubric as a revision tool. | One priority and a concrete improvement. |
+| 38–41 | 15 | Choose two changes before rewriting. | A task-specific organizer linked to your writing. |
+| 41–53 | 16 | Writing studio · 12 uninterrupted minutes. | An original draft meeting the weekly writing range, with evidence checked. |
+| 53–55 | 17 | Read it as someone new to the topic. | A specific decision that improves the current weekly project. |
+| 55–56 | 18 | Before you exchange the paragraph… | A specific decision that improves the current weekly project. |
+| 56–61 | 19 | Five-minute peer conference. | One keep comment, one revision suggestion and the writer’s decision. |
+| 61–65 | 20 | Revise the content before polishing. | A better draft and an explained class revision. |
+| 65–68 | 20 | Edit the language that carries the meaning. | A better draft and an explained class revision. |
+| 68–70 | 21 | A visual should help a listener read. | A readable creative document that supports the required writing. |
+| 70–73 | 22 | Build a 4-minute teaching route. | An explanation of your evidence, design and writing choices. |
+| 73–74 | 23 | Partners A and B · set the stage. | An explanation of your evidence, design and writing choices. |
+| 74–78 | 24 | TTD #6 · Partner A teaches. | An explanation of your evidence, design and writing choices. |
+| 78–79 | 24 | Listener B · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 79–83 | 24 | TTD #6 · Partner B teaches. | An explanation of your evidence, design and writing choices. |
+| 83–84 | 24 | Listener A · one minute of feedback. | An explanation of your evidence, design and writing choices. |
+| 84–86 | 25 | Make the rehearsal improve the writing. | A specific decision that improves the current weekly project. |
+| 86–88 | 26 | Exit ticket · prove the skill. | Three short evidence-based reflections. |
+| 88–90 | 27 | Check the packet. Export. Keep it. | A saved packet and a specific next action. |
 
 ### Facilitation and answers
 
-Bring Unlock 2, second edition, Reading & Writing, Unit 4 (pp.80–101). The complete unit and contents pp.4–5 are embedded. Lessons 1–2 include Extreme weather (pp.84–86) and the Sahara reading/graph (pp.87–89); pp.90–101 supply the language, analysis, writing models, final task and checklists.The publisher tornado video is separate; the labeled reading route works offline. Use printed table values for exact claims and about for estimates between graph gridlines. Students need paper or the Writing Desk; a calculator can help check differences.Expanded edition: 32 timed core screens, a printable lesson worksheet and a visible Teach the Document workshop route. Complete the named selected textbook items, rather than attempting every item on every referenced page. All original Unit 2 Lesson 1 information remains in its original-information panel.
+Current weekly assignment: Investigate two cities sharing a climate characteristic. Show one similarity, at least three meaningful comparisons and four numerical observations across temperature and precipitation; write 1–2 paragraphs (8–12 sentences total) and record a 3–5-minute investigation video.Read XXU_TTD_Writing.docx and preview the model creative document. Textbook pages continue to teach reading/writing methods; use the weekly brief for submission requirements. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
-Support: read the title/axes/units/legend aloud, use a measure–place–month–value table, and build “In ___, ___ is ___ than ___.” Develop accurate data sentences before expanding. Stretch: calculate a justified difference, compare like measures across the same month, or identify a causal claim the graph cannot establish. Keep units and negative signs visible. Use the optional response pad or paper. Keep protected writing uninterrupted; advanced writers improve evidence, organization and precision before adding length.
+Support: rehearse a sentence aloud, use a worked organizer and select a small set of traceable details. Stretch: improve source precision, explanation and design hierarchy before adding length. Keep the current weekly sentence range and required products.
 
 
-**Canvas 1 · 00–01 · Put the evidenceon display.**
+**Canvas 1 · 00–01 · Two cities.A climate mystery.**
 
-Task: How can a reader verify every data sentence?
+Task: Investigate two cities sharing a climate characteristic. Show one similarity, at least three meaningful comparisons and four numerical observations across temperature and precipitation; write 1–2 paragraphs (8–12 sentences total) and record a 3–5-minute investigation video.
 
-Product: A polished two-place comparison, two revisions and a complete TTD #6 teaching rehearsal.
+Product: 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video
 
 Purpose and evidence: A polished two-place comparison, two revisions and a complete TTD #6 teaching rehearsal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -5032,7 +5453,7 @@ Purpose and evidence: A polished two-place comparison, two revisions and a compl
 
 Task: Follow the exact phase timings shown in the agenda. Keep the named written products; optional challenges sit outside the 90-minute sequence.
 
-Product: Leave with a written product, source evidence, a meaningful revision and a clear next step.
+Product: I can complete the current weekly products: 2 cities + research visual · 1 similarity / 3 comparisons · 4 values / both measures · 8–12 sentences + video.
 
 Purpose and evidence: Leave with a written product, source evidence, a meaningful revision and a clear next step.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
 
@@ -5043,7 +5464,7 @@ Task: Write your main comparison, a temperature support and a precipitation supp
 
 Product: A three-line comparison summary.
 
-Purpose and evidence: A three-line comparison summary.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Purpose and evidence: A three-line comparison summary.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -5067,7 +5488,7 @@ Task: Choose TWO p.97 Costa Rica relevance items. Explain one keep/remove decisi
 
 Product: Two checked decisions + one self-check.
 
-Purpose and evidence: Two checked decisions + one self-check.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.97 · page guidanceSupporting sentences: Main idea describes a feature/trend; data illustrates it. Matching: 1 c; 2 b; 3 a; 4 d.Relevance task: a, b, c, d and f concern weather; e concerns rainforest animals and does not support this weather topic.
+Purpose and evidence: Two checked decisions + one self-check.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.97 · page guidanceSupporting sentences: Main idea describes a feature/trend; data illustrates it. Matching: 1 c; 2 b; 3 a; 4 d.Relevance task: a, b, c, d and f concern weather; e concerns rainforest animals and does not support this weather topic. Textbook skill practice: p.97. The current weekly brief controls the submitted project.
 
 Book p.97 · Supporting sentences: Main idea describes a feature/trend; data illustrates it. Matching: 1 c; 2 b; 3 a; 4 d.
 
@@ -5080,7 +5501,7 @@ Task: Reopen pp.92–93 and trace your four or more values. Mark P for printed, 
 
 Product: A source-checked evidence table.
 
-Purpose and evidence: A source-checked evidence table.A calculation is not a printed observation. Use about for a graph estimate. If a label is unclear, choose an unambiguous source point rather than invent precision.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm.
+Purpose and evidence: A source-checked evidence table.A calculation is not a printed observation. Use about for a graph estimate. If a label is unclear, choose an unambiguous source point rather than invent precision.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.92 · page guidanceGraph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.Book p.93 · page guidanceExercise 3: 1 precipitation in millimetres; 2 temperature in Celsius; 3 Amman; 4 average temperatures; 5 bar charts; 6 line graphs.Values used in this course: January average high: Amman 13°C, Svalbard −13°C. September precipitation: Amman 0 mm, Svalbard 25 mm. Other printed Amman values: July average high 31°C; February precipitation 61 mm; November 28 mm. Textbook skill practice: p.92, p.93. The current weekly brief controls the submitted project.
 
 Book p.92 · Graph literacy: A: Svalbard precipitation in mm over one year, bars. B: Svalbard average high/low temperatures in °C over one year, lines.
 
@@ -5095,7 +5516,7 @@ Task: Choose TWO p.98 Exercise 6 items using like, such as or for example. Trans
 
 Product: Two practice forms and one comparison example.
 
-Purpose and evidence: Two practice forms and one comparison example.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.98 · page guidanceExamples: Possible: “Bring important items, such as water and sunscreen.” Book examples and graphs are writing material; they do not by themselves establish travel safety guidance.
+Purpose and evidence: Two practice forms and one comparison example.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.98 · page guidanceExamples: Possible: “Bring important items, such as water and sunscreen.” Book examples and graphs are writing material; they do not by themselves establish travel safety guidance. Textbook skill practice: p.98. The current weekly brief controls the submitted project.
 
 Book p.98 · Examples: Possible: “Bring important items, such as water and sunscreen.” Book examples and graphs are writing material; they do not by themselves establish travel safety guidance.
 
@@ -5106,7 +5527,7 @@ Task: On p.100, check topic/support, both measures, comparisons, examples and da
 
 Product: A checklist diagnosis with a quoted sentence.
 
-Purpose and evidence: A checklist diagnosis with a quoted sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.99 · page guidanceTask: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
+Purpose and evidence: A checklist diagnosis with a quoted sentence.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.99 · page guidanceTask: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms. Textbook skill practice: p.99, p.100. The current weekly brief controls the submitted project.
 
 Book p.99 · Task: Compare weather in two places using graph information. Plan both temperature and precipitation, support observations with numbers, then draft.
 
@@ -5115,20 +5536,24 @@ Book p.100 · Checklists: Content: topic/support, examples, both measures, compa
 
 **Canvas 9 · 21–23 · Model lab · opening and support**
 
-Task: Find the similarity, temperature difference and matched January figures. How does the topic cover the whole task?
+Task: Read the current Climate Doppelgängers model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Similarity, Comparison, Calculation, Comparison, Data, Pattern, Qualification, Summary, Conclusion
 
 
 **Canvas 9 · 23–25 · Model lab · development and ending**
 
-Task: Check the precipitation comparison and final summary. Explain why a universal travel recommendation would exceed the graph evidence.
+Task: Read the current Climate Doppelgängers model. Identify the opening, source-based details, explanations and conclusion. Explain how the writing supports the creative document.
 
-Product: A marked sentence job and a one-sentence explanation.
+Product: A sentence-role map and one writing choice you can adapt.
 
-Purpose and evidence: A marked sentence job and a one-sentence explanation.Students identify roles before selecting Show sentence roles. Supporting development includes reasons, evidence, examples, qualification or comparisons as appropriate; discuss the more precise job of each sentence. Coloring alone does not explain its relevance.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+The model contains 10 sentences and meets the current range. It is teacher-created and is not for copying.
+
+Answer/model: Roles: Topic, Similarity, Comparison, Calculation, Comparison, Data, Pattern, Qualification, Summary, Conclusion
 
 
 **Canvas 10 · 25–28 · Repair form, measure and time.**
@@ -5148,7 +5573,7 @@ Task: Check one superlative in your paragraph or write a cautious alternative. N
 
 Product: A verified superlative or a precise comparison.
 
-Purpose and evidence: A verified superlative or a precise comparison.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.95 · page guidanceExercise 1: cold/colder/the coldest; low/lower/the lowest; extreme/more extreme/the most extreme; dry/drier/the driest; big/bigger/the biggest; easy/easier/the easiest.Exercise 2: 1 the driest; 2 colder; 3 the most extreme; 4 lower; 5 the biggest.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
+Purpose and evidence: A verified superlative or a precise comparison.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.95 · page guidanceExercise 1: cold/colder/the coldest; low/lower/the lowest; extreme/more extreme/the most extreme; dry/drier/the driest; big/bigger/the biggest; easy/easier/the easiest.Exercise 2: 1 the driest; 2 colder; 3 the most extreme; 4 lower; 5 the biggest.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms. Textbook skill practice: p.95, p.100. The current weekly brief controls the submitted project.
 
 Book p.95 · Exercise 1: cold/colder/the coldest; low/lower/the lowest; extreme/more extreme/the most extreme; dry/drier/the driest; big/bigger/the biggest; easy/easier/the easiest.
 
@@ -5163,194 +5588,240 @@ Task: Draw a line between temperature and precipitation support. Move one mispla
 
 Product: A revised sequence with a reason.
 
-Purpose and evidence: A revised sequence with a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
+Purpose and evidence: A revised sequence with a reason.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.Book p.100 · page guidanceChecklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms. Textbook skill practice: p.100. The current weekly brief controls the submitted project.
 
 Book p.100 · Checklists: Content: topic/support, examples, both measures, comparisons, supporting data. Language: temperature collocations, graph vocabulary, comparative/superlative forms.
 
 
 **Canvas 13 · 34–36 · Teach the Document #6 · reconnect.**
 
-Task: TTD #6 completes the official Unit 4 graph comparison. Confirm both places, both measures, four source values, similarity/differences and two revisions.
+Task: Prepare, check or reflect on your Climate Doppelgängers. Use the required products and the worked example as your checklist.
 
-Product: A packet with the document, draft and revision evidence open.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A packet with the document, draft and revision evidence open.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 14 · 36–38 · Use the rubric as a revision tool.**
 
-Task: Prioritize correct labels, relevant support and document interpretation. A smooth paragraph still needs accurate data.
+Task: Use the suggested teaching rubric to prioritize improvement. The submission checklist follows the Word document; class revision practice supports the work.
 
-Product: One priority criterion and one sentence explaining the needed improvement.
+Product: One priority and a concrete improvement.
 
-Purpose and evidence: One priority criterion and one sentence explaining the needed improvement.Use the assignment’s exact five rubric categories in the brief. These five labels summarize the categories; assess the full descriptors, not word count or checkbox totals.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 15 · 38–41 · Choose two changes before rewriting.**
 
-Task: Choose the main pattern. Plan a topic, related temperature support, precipitation support and a short summary. Give each number its labels.
+Task: Complete this week’s project planner. Investigate two cities sharing a climate characteristic. Show one similarity, at least three meaningful comparisons and four numerical observations across temperature and precipitation; write 1–2 paragraphs (8–12 sentences total) and record a 3–5-minute investigation video.
 
-Product: One meaning/evidence goal + one language goal.
+Product: A task-specific organizer linked to your writing.
 
 Starting phrase: I will improve ___ by ___. My reader will be able to ___.
 
-Purpose and evidence: One meaning/evidence goal + one language goal.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I will improve ___ by ___. My reader will be able to ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 16 · 41–53 · Writing studio · 12 uninterrupted minutes.**
 
-Task: Finalize your 8–10-sentence comparison. Group by measure, verify all labels/signs, explain the main patterns and remove unsupported causes, forecasts or personal rankings.
+Task: Write and develop your own one or two paragraphs for Climate Doppelgängers. Use 8–12 total sentences, your organizer and source evidence. Read all of the writing aloud in the final video.
 
-Product: A final comparison meeting the pp.99–100 task and language checklists.
+Product: An original draft meeting the weekly writing range, with evidence checked.
 
-Starting phrase: The graphs show ___. The table gives ___ in ___. For example, ___. Overall, ___.
+Starting phrase: Opening → organized support and explanations → conclusion.
 
 Checkpoints: 0–3 min: repair the biggest content or organization problem.; 3–9 min: develop support and connect the sentences.; 9–12 min: read the paragraph as a whole and check the ending.
 
-Purpose and evidence: A final comparison meeting the pp.99–100 task and language checklists.Protect twelve minutes of independent writing. A student without a first draft starts from today’s planner; an early finisher checks claims against the source and improves precision. Do not require extra length as a substitute for revision.Support: The graphs show ___. The table gives ___ in ___. For example, ___. Overall, ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 17 · 53–55 · Read it as someone new to the topic.**
 
-Task: Underline the main pattern. Check every value’s place/month/measure/unit, and circle estimates and calculations.
+Task: Prepare, check or reflect on your Climate Doppelgängers. Use the required products and the worked example as your checklist.
 
-Product: Two underlined strengths and one circled problem to discuss.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: Two underlined strengths and one circled problem to discuss.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 18 · 55–56 · Before you exchange the paragraph…**
 
-Task: Trace the place, month, measure, value, sign and unit. Distinguish printed values, estimates and calculated differences.
+Task: Prepare, check or reflect on your Climate Doppelgängers. Use the required products and the worked example as your checklist.
 
-Product: A partner and a specific question for the reader.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: A partner and a specific question for the reader.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 19 · 56–61 · Five-minute peer conference.**
 
-Task: Find four values in the source. Check each label and one calculation. Underline the main pattern and suggest one repair.
+Task: Check your partner’s Climate Doppelgängers against this week’s requirements. Locate a source-supported strength, one gap and a clear improvement.
 
-Product: One located problem, one suggested repair and the writer’s decision.
+Product: One keep comment, one revision suggestion and the writer’s decision.
 
 Starting phrase: I understood ___. I could not verify ___. Try ___ because ___.
 
 Checkpoints: 0–2 min: A checks B’s work against the task and source.; 2–4 min: B checks A’s work against the task and source.; 4–5 min: both record the action they will take.
 
-Purpose and evidence: One located problem, one suggested repair and the writer’s decision.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 5 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: I understood ___. I could not verify ___. Try ___ because ___. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 20 · 61–65 · Revise the content before polishing.**
 
-Task: Act on the peer’s most important data/organization comment. Keep the original claim and explain why the revision is more accurate or clearer.
+Task: Improve evidence, relevance and organization. Keep a before → after → reason class revision receipt.
 
-Product: A meaningful before → after → reason revision receipt.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: A meaningful before → after → reason revision receipt.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 20 · 65–68 · Edit the language that carries the meaning.**
 
-Task: Use p.100’s language checklist to edit a comparison form, trend verb or example phrase. Keep a second explained receipt.
+Task: Edit the language and units that carry your meaning. Keep a before → after → reason class revision receipt.
 
-Product: The final language revision receipt + corrected paragraph.
+Product: A better draft and an explained class revision.
 
-Purpose and evidence: The final language revision receipt + corrected paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 21 · 68–70 · A visual should help a listener read.**
 
-Task: Make a selected-data card with readable place/month/measure labels, units, source page and a stated limit. Label calculations separately.
+Task: Create or refine the week’s visual document in the project studio. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China. Use your own content and give credits.
 
-Product: A credited document with readable labels and selected annotations.
+Product: A readable creative document that supports the required writing.
 
-Purpose and evidence: A credited document with readable labels and selected annotations.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 22 · 70–73 · Build a 4-minute teaching route.**
 
-Task: Plan four minutes: source and labels; selected values and patterns; paragraph choices; two revisions; one data-reading question and source credit.
+Task: Rehearse Climate Doppelgängers: Introduce both cities: Explain their apparent similarity and your research question.Show the investigation: Explain the original visual and English-language reading.Reveal discoveries: Use the similarity, three comparisons and labeled numbers.Read all paragraphs: Read the complete 8–12 sentences aloud.Explain the conclusion: Explain choices, evidence and the surprising annual patterns.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: A cue outline, not a paragraph read aloud without explanation.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: A cue outline, not a paragraph read aloud without explanation.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 3 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce both cities: Explain their apparent similarity and your research question.; Show the investigation: Explain the original visual and English-language reading.; Reveal discoveries: Use the similarity, three comparisons and labeled numbers.; Read all paragraphs: Read the complete 8–12 sentences aloud.; Explain the conclusion: Explain choices, evidence and the surprising annual patterns.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 23 · 73–74 · Partners A and B · set the stage.**
 
-Task: Assign A/B. Display the source large enough to read. Keep the evidence card and paragraph ready; set four minutes.
+Task: Rehearse Climate Doppelgängers: Introduce both cities: Explain their apparent similarity and your research question.Show the investigation: Explain the original visual and English-language reading.Reveal discoveries: Use the similarity, three comparisons and labeled numbers.Read all paragraphs: Read the complete 8–12 sentences aloud.Explain the conclusion: Explain choices, evidence and the surprising annual patterns.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: Document visible, listener question ready, roles assigned.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: Document visible, listener question ready, roles assigned.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce both cities: Explain their apparent similarity and your research question.; Show the investigation: Explain the original visual and English-language reading.; Reveal discoveries: Use the similarity, three comparisons and labeled numbers.; Read all paragraphs: Read the complete 8–12 sentences aloud.; Explain the conclusion: Explain choices, evidence and the surprising annual patterns.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 24 · 74–78 · TTD #6 · Partner A teaches.**
 
-Task: Teach the document labels, fair comparisons and calculations. Show how the paragraph covers both places/measures, then explain two revisions and ask a fair-pair question.
+Task: Rehearse Climate Doppelgängers: Introduce both cities: Explain their apparent similarity and your research question.Show the investigation: Explain the original visual and English-language reading.Reveal discoveries: Use the similarity, three comparisons and labeled numbers.Read all paragraphs: Read the complete 8–12 sentences aloud.Explain the conclusion: Explain choices, evidence and the surprising annual patterns.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: A 4-minute explanation with a document-based listener check.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: identify the source and writing question.; 0:40–1:40: teach the evidence and a limitation.; 1:40–2:40: explain the paragraph’s organization.; 2:40–3:30: explain revision choices.; 3:30–4:00: ask, pause, answer and credit.
+Checkpoints: Introduce both cities: Explain their apparent similarity and your research question.; Show the investigation: Explain the original visual and English-language reading.; Reveal discoveries: Use the similarity, three comparisons and labeled numbers.; Read all paragraphs: Read the complete 8–12 sentences aloud.; Explain the conclusion: Explain choices, evidence and the surprising annual patterns.
 
-Purpose and evidence: A 4-minute explanation with a document-based listener check.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 24 · 78–79 · Listener B · one minute of feedback.**
 
-Task: Repeat one value with all labels and explain one writing choice you understood. Give one precise improvement.
+Task: Rehearse Climate Doppelgängers: Introduce both cities: Explain their apparent similarity and your research question.Show the investigation: Explain the original visual and English-language reading.Reveal discoveries: Use the similarity, three comparisons and labeled numbers.Read all paragraphs: Read the complete 8–12 sentences aloud.Explain the conclusion: Explain choices, evidence and the surprising annual patterns.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: One accurate observation + one next action for A.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for A.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce both cities: Explain their apparent similarity and your research question.; Show the investigation: Explain the original visual and English-language reading.; Reveal discoveries: Use the similarity, three comparisons and labeled numbers.; Read all paragraphs: Read the complete 8–12 sentences aloud.; Explain the conclusion: Explain choices, evidence and the surprising annual patterns.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 24 · 79–83 · TTD #6 · Partner B teaches.**
 
-Task: Teach the document labels, fair comparisons and calculations. Show how the paragraph covers both places/measures, then explain two revisions and ask a fair-pair question.
+Task: Rehearse Climate Doppelgängers: Introduce both cities: Explain their apparent similarity and your research question.Show the investigation: Explain the original visual and English-language reading.Reveal discoveries: Use the similarity, three comparisons and labeled numbers.Read all paragraphs: Read the complete 8–12 sentences aloud.Explain the conclusion: Explain choices, evidence and the surprising annual patterns.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: B’s 4-minute explanation; A answers the source question.
+Product: An explanation of your evidence, design and writing choices.
 
-Checkpoints: 0:00–0:40: source and question.; 0:40–1:40: evidence and limit.; 1:40–2:40: paragraph choices.; 2:40–3:30: revision choices.; 3:30–4:00: listener check and credits.
+Checkpoints: Introduce both cities: Explain their apparent similarity and your research question.; Show the investigation: Explain the original visual and English-language reading.; Reveal discoveries: Use the similarity, three comparisons and labeled numbers.; Read all paragraphs: Read the complete 8–12 sentences aloud.; Explain the conclusion: Explain choices, evidence and the surprising annual patterns.
 
-Purpose and evidence: B’s 4-minute explanation; A answers the source question.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Pacing: brief directions (about 30 seconds), student work for most of the 4 minutes, then a short check of the named output. Select only the requested textbook items; the full page is available for later practice.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 24 · 83–84 · Listener A · one minute of feedback.**
 
-Task: Repeat one value with all labels and explain one writing choice you understood. Give one precise improvement.
+Task: Rehearse Climate Doppelgängers: Introduce both cities: Explain their apparent similarity and your research question.Show the investigation: Explain the original visual and English-language reading.Reveal discoveries: Use the similarity, three comparisons and labeled numbers.Read all paragraphs: Read the complete 8–12 sentences aloud.Explain the conclusion: Explain choices, evidence and the surprising annual patterns.Record 3–5 minutes and read all of your paragraph(s) aloud. Rehearse with a timer.
 
-Product: One accurate observation + one next action for B.
+Product: An explanation of your evidence, design and writing choices.
 
-Purpose and evidence: One accurate observation + one next action for B.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Checkpoints: Introduce both cities: Explain their apparent similarity and your research question.; Show the investigation: Explain the original visual and English-language reading.; Reveal discoveries: Use the similarity, three comparisons and labeled numbers.; Read all paragraphs: Read the complete 8–12 sentences aloud.; Explain the conclusion: Explain choices, evidence and the surprising annual patterns.
+
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 25 · 84–86 · Make the rehearsal improve the writing.**
 
-Task: Use the listener’s answer to identify a missing label or unclear comparison and revise it.
+Task: Prepare, check or reflect on your Climate Doppelgängers. Use the required products and the worked example as your checklist.
 
-Product: One final change based on the listener’s response.
+Product: A specific decision that improves the current weekly project.
 
-Purpose and evidence: One final change based on the listener’s response.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 26 · 86–88 · Exit ticket · prove the skill.**
 
-Task: Use p.101 to name one skill you can demonstrate. Quote a data sentence and explain how it shows progress since Unit 2.
+Task: Name one source detail, one writing/design choice and the next improvement in your Climate Doppelgängers.
 
-Product: A short written self-assessment with evidence from your paragraph.
+Product: Three short evidence-based reflections.
 
-Purpose and evidence: A short written self-assessment with evidence from your paragraph.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 **Canvas 27 · 88–90 · Check the packet. Export. Keep it.**
 
-Task: Apply the final listener comment, check every TTD #6 item and export. Keep all six assignments as a writing portfolio.
+Task: Check the current weekly requirements, export your editable work and creative document, and keep your sources. Submit the products named in the Word-document brief using your teacher’s route/date.
 
-Product: A final packet and an exported editable copy.
+Product: A saved packet and a specific next action.
 
-Purpose and evidence: A final packet and an exported editable copy.Show the task first; give students the full allocated time. Ask for the named product before sharing. Use the source page or worked model to settle factual questions.Support: Use the visible model, source locator and a short oral rehearsal before writing. Stretch: justify a choice, improve precision, or explain a source limit; do not add unsupported claims.
+Protect the original class timing. Use the current weekly requirements, without adding compulsory products from the older brief. Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
+
+Answer/model: Possible model: Tokyo and Hong Kong: both have warm Augusts. Compare January means, June precipitation and the wettest month. All reference values use 1991–2020 normals; Tokyo is a city in Japan and Hong Kong is a city in China.
 
 
 ### Optional extensions · outside the 90 minutes
@@ -5358,27 +5829,27 @@ Purpose and evidence: A final packet and an exported editable copy.Show the task
 
 **Canvas 28 · Exhibition label**
 
-Write a 50-word label for your final visual with the main pattern, source and limit.MAKE / KEEPA concise source-aware label.
+Optional skill practice. Use the current Week 6 brief for submitted products.Write a 50-word label for your final visual with the main pattern, source and limit.MAKE / KEEPA concise source-aware label.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A concise source-aware label.
 
 
 **Canvas 29 · Portfolio comparison**
 
-Compare an early festival sentence with a final data sentence. Explain how evidence use developed.MAKE / KEEPA reflection using quoted examples.
+Optional skill practice. Use the current Week 6 brief for submitted products.Compare an early festival sentence with a final data sentence. Explain how evidence use developed.MAKE / KEEPA reflection using quoted examples.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A reflection using quoted examples.
 
 
 **Canvas 30 · Reader reconstruction**
 
-Ask a partner to sketch your selected comparison from the paragraph alone. Diagnose a missing label.MAKE / KEEPA clarity test and repair.
+Optional skill practice. Use the current Week 6 brief for submitted products.Ask a partner to sketch your selected comparison from the paragraph alone. Diagnose a missing label.MAKE / KEEPA clarity test and repair.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A clarity test and repair.
 
 
 **Canvas 31 · Next-source question**
 
-Write one useful question these graphs cannot answer and name the data needed.MAKE / KEEPA question and an appropriate evidence plan.
+Optional skill practice. Use the current Week 6 brief for submitted products.Write one useful question these graphs cannot answer and name the data needed.MAKE / KEEPA question and an appropriate evidence plan.
 
 Optional 5–8-minute challenge outside the 90-minute core. Use for fast finishers or a later class, not by taking time from independent writing. Output: A question and an appropriate evidence plan.
