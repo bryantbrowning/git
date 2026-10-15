@@ -1,0 +1,13 @@
+VALIDATION · LISTENING & SPEAKING
+
+12 lessons;258 timed canvases; each continuous0–90minutes;1,080minutes total.
+Six TTD assignments: odd-lesson launch and even-lesson collection/share/transfer checked.
+All activities checked at1440×900,1366×768,1280×720 and390px width.
+Same-canvas material panels, book enlargement/Escape, vocabulary reveals, progressive cues, private roles, lesson-specific gist/grammar choices, TTD source/model/plan/check, paired storage, exports/imports, wrong-pair rejection, timers, hidden transcript controls and local media position passed.
+Optional microphone recording passed with a generated browser test stream, not an actual microphone.
+Printed A/B roles occupy separate pages; long notes flow without truncation.
+Climate mechanism branches and source limits checked.
+No checked JavaScript errors, external classroom requests or horizontal overflow.
+Four original Unit1 references checked byte-for-byte against originals.
+Cloud browser verification used a local HTTP preview; direct file:// launch is blocked by its administration policy and was not tested.
+Publisher audio is not included; original complete teacher-read alternatives are supplied. No official publisher answer key is claimed.

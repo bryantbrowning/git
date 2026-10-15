@@ -1,0 +1,139 @@
+{
+  "passed": true,
+  "lessons": [
+    {
+      "id": "LS-U2-L1",
+      "activities": 22,
+      "minutes": 90,
+      "ttd": 1,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U2-L2",
+      "activities": 21,
+      "minutes": 90,
+      "ttd": 1,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U2-L3",
+      "activities": 22,
+      "minutes": 90,
+      "ttd": 2,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U2-L4",
+      "activities": 21,
+      "minutes": 90,
+      "ttd": 2,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U3-L1",
+      "activities": 22,
+      "minutes": 90,
+      "ttd": 3,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U3-L2",
+      "activities": 21,
+      "minutes": 90,
+      "ttd": 3,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U3-L3",
+      "activities": 22,
+      "minutes": 90,
+      "ttd": 4,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U3-L4",
+      "activities": 21,
+      "minutes": 90,
+      "ttd": 4,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U4-L1",
+      "activities": 22,
+      "minutes": 90,
+      "ttd": 5,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U4-L2",
+      "activities": 21,
+      "minutes": 90,
+      "ttd": 5,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U4-L3",
+      "activities": 22,
+      "minutes": 90,
+      "ttd": 6,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    },
+    {
+      "id": "LS-U4-L4",
+      "activities": 21,
+      "minutes": 90,
+      "ttd": 6,
+      "layouts": 4,
+      "panels": 6,
+      "private_role_pages": 2
+    }
+  ],
+  "total_minutes": 1080,
+  "total_activities": 258,
+  "ttd_assignments": 6,
+  "layouts": [
+    "1440x900",
+    "1366x768",
+    "1280x720",
+    "390px"
+  ],
+  "same_canvas_support": "passed",
+  "book_zoom_and_escape": "passed",
+  "vocabulary_reveal": "passed",
+  "progressive_cues": "passed",
+  "private_roles": "passed",
+  "paired_storage_and_export_import": "passed",
+  "wrong_pair_import_rejected": "passed",
+  "timers": "passed",
+  "transcript_control": "passed",
+  "local_media_position": "passed",
+  "recording": "passed with generated browser test stream",
+  "printing": "passed; separate roles and flowing long notes",
+  "climate_branch_map": "passed",
+  "original_guides_preserved": 4,
+  "javascript_errors": [],
+  "external_requests": [],
+  "layout_issues": []
+}

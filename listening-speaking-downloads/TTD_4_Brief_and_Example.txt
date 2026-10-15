@@ -1,0 +1,53 @@
+TEACH THE DOCUMENT #4
+A balanced technology briefing
+Unit 3 · launch Lesson 3; due at Lesson 4's start.
+
+FINAL: one 3–5-minute English recording; visible genuine document; brief cue notes, not full-script reading.
+The instructor announces the actual calendar and submission route.
+
+SOURCE SELECTION
+A real English technology document supporting an evidence-based report about advantages and disadvantages.
+
+REQUIREMENTS
+- Credit and show a real document; separate developer claims, your judgement and missing evidence.
+- Teach 3–5 terms and 3–5 key ideas, including the audience/task.
+- Present a main argument, two supporting points and a significant disadvantage or evidence limit.
+- Use addition/contrast, reasons and a conclusion; weigh importance rather than counting points.
+- Ask two comprehension questions and give a conditional recommendation.
+
+WORKED SOURCE
+Worked source: Jitsi Meet project README, retrieved 15 October 2026
+Amongst others here are the main features Jitsi Meet offers: Support for all current browsers; Mobile applications; HD audio and video; Content sharing; Raise hand and reactions; Chat with private conversations; Polls; Virtual backgrounds.
+- The project describes video conferencing.
+- Its feature list includes content sharing and chat.
+- It lists mobile applications and support for current browsers.
+
+CREDIT
+Jitsi Meet project contributors · README.md · master branch · https://github.com/jitsi/jitsi-meet/blob/master/README.md · feature-list excerpt checked 15 October 2026.
+
+VOCABULARY EXAMPLES
+- video conferencing: meeting through live online audio/video
+- content sharing: showing material to other participants
+- limitation: something the evidence does not establish
+
+SHORT DEMONSTRATION EXTRACT (not full submission length)
+This is the Jitsi Meet project README. It describes video conferencing, which means meeting through live online audio and video. Content sharing means showing material to other participants. A limitation is something the evidence does not establish. The feature list includes content sharing, chat and mobile applications. For a remote document-teaching group, content sharing could be useful because learners can see the evidence while listening. Which listed feature helps show a document? Content sharing. Does the excerpt give an independent slow-network test? No. My view is that the features may fit a remote practice group. However, we would need to test the actual devices and connection. The important comparison is task fit and access, not the number of features. In conclusion, I would suggest a small trial with a backup plan. This is a conditional recommendation from a project document, not an independent review.
+
+COMPREHENSION CHECKS
+Which listed feature helps a speaker show a document?
+Answer: Content sharing.
+Does this excerpt provide an independent test of slow-network performance?
+Answer: No. The feature list does not establish that performance.
+
+EVALUATION / SOURCE LIMIT
+Content sharing may help a remote TTD group, but the excerpt does not establish performance on a particular network or device. Weigh importance, not the number of listed features.
+
+SUGGESTED FOUR-MINUTE ROUTE
+0:00–0:30 introduce source/purpose
+0:30–1:15 teach vocabulary
+1:15–2:40 explain key ideas with evidence
+2:40–3:20 two questions, pauses and answers
+3:20–3:50 evaluation and limit
+3:50–4:10 summary and credit
+
+Cue planner, visible source and checklist are integrated in both presentations for this pair.

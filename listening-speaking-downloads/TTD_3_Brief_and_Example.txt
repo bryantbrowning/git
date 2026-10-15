@@ -1,0 +1,53 @@
+TEACH THE DOCUMENT #3
+What the technology can do
+Unit 3 · launch Lesson 1; due at Lesson 2's start.
+
+FINAL: one 3–5-minute English recording; visible genuine document; brief cue notes, not full-script reading.
+The instructor announces the actual calendar and submission route.
+
+SOURCE SELECTION
+A genuine English feature guide, manual or developer document for a device or technology.
+
+REQUIREMENTS
+- Use a real English technology document; show its title, publisher/project and source URL or page.
+- Teach 3–5 useful terms and 3–5 feature/use ideas with evidence.
+- Use can / be able to accurately and explain why at least two abilities matter to a particular user.
+- Ask at least two comprehension questions and explain the answers.
+- Name one feature-source limitation; summarize without making unsupported performance/security guarantees.
+
+WORKED SOURCE
+Worked source: KeePassXC project README, retrieved 15 October 2026
+It saves many different types of information, such as usernames, passwords, URLs, attachments, and notes in an offline, encrypted file that can be stored in any location, including private and public cloud solutions.
+- The README describes a password manager available for Windows, macOS and Linux.
+- It says information is saved in an offline, encrypted file.
+- It lists a password generator and an integrated search function.
+
+CREDIT
+KeePassXC project contributors · README.md · develop branch · https://github.com/keepassxreboot/keepassxc/blob/develop/README.md · snapshot checked 15 October 2026.
+
+VOCABULARY EXAMPLES
+- password manager: a tool for organizing account secrets
+- encrypted: changed into protected coded data
+- offline file: a file that can be stored locally without an active connection
+
+SHORT DEMONSTRATION EXTRACT (not full submission length)
+This document is the KeePassXC project README. Its purpose is to describe the software and its features. A password manager organizes account information. Encrypted means the data is protected in coded form. An offline file can be stored locally without an active connection. The document says the software runs on Windows, macOS and Linux. It can save several kinds of information in an encrypted file, and it includes a password generator and search. Does this source describe an offline file or only an online account? An offline file. Name two kinds of stored information. Usernames and notes are two examples. These features may help someone organize account information. However, a project feature description is not an independent security audit. I would need further guidance about backups and safe use before relying on it. Do not show any real passwords in this teaching task.
+
+COMPREHENSION CHECKS
+Does the source describe an offline file or only an online account?
+Answer: An offline encrypted file; the file can also be stored in cloud locations.
+Name two types of information the source says it can store.
+Answer: Usernames, passwords, URLs, attachments or notes.
+
+EVALUATION / SOURCE LIMIT
+These are the project’s feature claims, not an independent security audit. The excerpt does not prove that every user can use it safely or that no data can ever be lost.
+
+SUGGESTED FOUR-MINUTE ROUTE
+0:00–0:30 introduce source/purpose
+0:30–1:15 teach vocabulary
+1:15–2:40 explain key ideas with evidence
+2:40–3:20 two questions, pauses and answers
+3:20–3:50 evaluation and limit
+3:50–4:10 summary and credit
+
+Cue planner, visible source and checklist are integrated in both presentations for this pair.
